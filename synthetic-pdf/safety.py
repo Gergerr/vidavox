@@ -1,9 +1,12 @@
 from groq import Groq
 import os
+import config
+
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Safety Instructions prompt
 safety_prompt = f"""
-{global_prompt}
+{config.GLOBAL_PROMPT}
 Buat panduan keselamatan 4000-5000 kata dalam Bahasa Indonesia untuk robot fiktif 'GeralBot'. Sertakan peringatan imajiner seperti 'jangan aktifkan mode terbang di dalam ruangan', 'hindari transformasi motor saat baterai di bawah 20%', 'jaga jarak saat mode pendamping aktif', dan 'matikan daya sebelum membersihkan Modul Memasak'. Tambahkan instruksi penyimpanan (misalnya 'simpan di dok pengisian saat tidak digunakan') dan tips penggunaan aman untuk semua mode (pembersihan, pendamping, kendaraan, memasak).
 """
 response = client.chat.completions.create(
