@@ -1,6 +1,7 @@
 from groq import Groq
 import os
 
+model= "llama-3.1-8b-instant"
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Global prompt
@@ -16,10 +17,10 @@ intro_prompt = f"""
 Buat pengenalan 2500 hingga 3500 kata dalam Bahasa Indonesia untuk panduan pengguna robot multifungsi 'GeralBot'. Jelaskan tujuan robot sebagai pembantu rumah, pendamping, dan kendaraan transformasi (motor, mobil, pod terbang seperti drop pod Fortnite). Highlight fitur utama secara umum (pembersihan rumah, interaksi emosional, transformasi kendaraan, memasak, dan segalanya terkait membantu manusia atau pemiliknya) dan manfaatnya bagi pengguna.
 """
 response = client.chat.completions.create(
-    model="llama3-8b-8192",
-    messages=[{"role": "user", "content": intro_prompt}],
-    max_tokens=1600,
-    temperature=0.7
+    model=config.MODEL,
+    messages=[{"role": "user", "content": safety_prompt}],
+    max_tokens=config.MAX_TOKENS,
+    temperature=config.TEMPERATURE
 )
 with open("intro.txt", "w", encoding="utf-8") as f:
     f.write(response.choices[0].message.content)
