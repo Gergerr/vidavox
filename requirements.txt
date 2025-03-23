@@ -4,7 +4,7 @@ matplotlib
 pandas
 faker
 langchain
-sentence-transformers==2.2.2
+sentence-transformers
 faiss-cpu
 groq
 pdfplumber
