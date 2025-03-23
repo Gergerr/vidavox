@@ -10,3 +10,4 @@ groq
 pdfplumber
 langchain-community
 streamlit
+langchain_groq
