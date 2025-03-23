@@ -31,6 +31,6 @@ print("Starting evaluation...")
 evaluator = Evaluator(rag_pipeline, full_context, GROQ_API_KEY, model_name="llama3-8b-8192")
 
 # Sample query untuk tes
-query = "Berapa banyak orang yang punya error AP-301?"
+query = "Bagaimana mengatasi error AP-301?"
 rag_answer, llm_answer = evaluator.evaluate(query)
 print("-" * 50)
