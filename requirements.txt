@@ -9,3 +9,4 @@ faiss-cpu
 groq
 pdfplumber
 langchain-community
+streamlit
