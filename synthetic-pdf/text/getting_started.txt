@@ -1,0 +1,126 @@
+## Panduan Pengguna Geralba: Robot Multifungsi dari EnriCorporation
+
+Selamat datang di dunia futuristik dengan Geralba, robot multifungsi canggih dari EnriCorporation! 
+
+Geralba dirancang untuk membantu Anda dalam berbagai aktivitas, mulai dari tugas rumah tangga hingga hiburan. Panduan ini akan membimbing Anda melalui langkah-langkah pemula untuk memanfaatkan sepenuhnya kemampuan Geralba.
+
+
+**1. Membuka Kotak**
+
+
+[IMAGE: unboxing.png]
+
+    Memahami Isi Paket:
+
+Geralba dikemas dengan detail untuk memastikan keamanan dan kelengkapan semua komponen. Bagilah kotak menjadi dua bagian untuk mengakses isi  seperti yang ditunjukkan pada gambar.
+
+    1. **Geralba Robot:**  Robot Geralba dengan desain ergonomis dan warna khas EnriCorporation.
+
+    2. ** modul Pod Terbang:**  Modul yang memungkinkan Geralba terbang dengan stabilitas tinggi.
+
+    3. **Modul Pendamping (optional):**  Modul pintar yang dapat mengikuti Geralba dan memberikan asistensi tambahan. 
+
+    4. **Pangkalan Pengisian Daya:**  Pangkalan khusus untuk mengisi daya baterai Geralba dengan cepat dan efisien.
+
+    5. **Kabel Pengisi Daya:**  Kabel yang terhubung ke Pangkalan Pengisian Daya dan sumber listrik untuk mengisi daya baterai Geralba.
+
+    6. **Dokumen dan Panduan:**  Dokumen yang berisi informasi penting, panduan pengguna, dan warranty.
+
+**Tips Unpacking**
+
+1.  Bunuh rasa ingin tahu: Jangan langsung membuka semua bagian paket dan fokus pada Geralba utama terlebih dahulu.  
+
+2.  Keramik aman: Kerjakan pada permukaan yang lembut seperti kain atau karpet untuk mencegah kerusakan pada komponen. 
+
+3.  Pengetahuan Manual: Periksa semua komponen dan baca panduan sebelum menggali lebih dalam.
+
+4.  Anak-anak Mati:  Jangan biarkan anak-anak membuka dan bermain dengan Geralba sendiri. 
+
+5.  Lingkungan:  Pilih tempat yang aman, bersih, dan kering untuk membuka dan menjelajahi Geralba.
+
+
+ **2. Mengisi Daya**
+
+[IMAGE: charging.png]
+
+Mulai hari ini dengan mengisi daya Geralba untuk memastikan ia siap bekerja maksimal.
+
+**Langkah demi Langkah**
+
+1.  **Cari Pangkalan Pengisian Daya:**  Pangkalan pengisian daya ini memiliki konektor khusus untuk Geralba.
+
+2.  **Sambungkan Kabel Pengisi Daya:**  Pasangkan satu ujung kabel ke Pangkalan Pengisian Daya dan ujung lainnya ke outlet listrik.
+
+3.  **Letakkan Geralba:**  Gunakan konektor magnet pada Geralba untuk menempelkan Robo ke Pangkalan Pengisian Daya secara aman. Geralba akan menunjukkan indikator pengisian daya yang aktif saat terhubung dengan benar.
+
+4.  **Menantikan Pengisian Terselesaikan:**  Geralba akan terisi penuh dalam waktu beberapa jam.
+
+5.  **Lepaskan Geralba:**  Setelah pengisian daya selesai, hati-hati letakkan Geralba di tempat yang stabil dan aman.
+
+**Kode Error Umum:**
+
+* **BO-707 (Baterai Overheat):**  Jika Geralba menunjukkan kode error ini, hindari penggunaan sementara dan segera lepaskan dari pangkalan pengisian daya. Biarkan Geralba mendingin selama sekitar 30 menit sebelum mencoba mengisi daya kembali. Pastikan kabel pengisi daya dan pangkalan pengisian daya tidak rusak.
+
+* **AP-301 (Koneksi Aplikasi Gagal):** Jika Anda mengalami kesulitan menghubungkan Geralba ke aplikasi, pastikan Bluetooth/WiFi aktif pada perangkat Anda. Pastikan juga Geralba dan perangkat Anda berada dalam jangkauan yang dekat. 
+
+
+
+**3. Pengaturan Awal**
+
+ Selamat! Sekarang Geralba siap digunakan, berikut langkah-langkah pengaturan awal untuk memastikan robot Anda bekerja dengan optimal.
+
+**LangkahdemiLangkah:** 
+
+1.  **Aktifkan Geralba:**  Tekan tombol kuasa yang terletak di bagian samping Geralba. Geralba akan menyala dan lampu indikator akan berkedip.
+
+
+2.  **Unduh Aplikasi EnriBot:**  Unduh aplikasi resmi EnriBot dari toko aplikasi perangkat Anda.
+
+3.  **Buat Akun:**  Buat akun baru di aplikasi EnriBot. Anda akan perlu menyediakan informasi seperti nama, alamat email, dan kata sandi.
+
+4.  **Hubungkan ke  Geralba:**  Lanjutkan dengan petunjuk di aplikasi untuk menghubungkan Geralba ke perangkat Anda. 
+Pilih 'Geralba' dari daftar perangkat yang tersedia.
+
+
+5.  **Pilih Bahasa:**  Anda  dapat memilih bahasa yang Anda inginkan dari daftar pilihan tersedia.
+
+
+6.  **Konfigurasi Fitur:**  Lengkapilah setiap langkah konfigurasi fitur seperti kontrol suara, sensor gerakan, dan mode operasional Geralba. 
+
+
+7. **Atur Pengalaman:**  Lakukan kustomisasi sesuai keinginan Anda!  
+
+8. **Pelajari Geralba:**  Aplikasi EnriBot menawarkan tutorial interaktif dan video panduan untuk mempelajari semua fungsi Geralba.
+
+
+9. **Ubah Panggilan:**  Terdapat opsional Geralba memanggil Anda dengan nama!  Siapkan nama panggilan yang Anda inginkan di aplikasi.
+
+10. **Dukungan dan Pembaruan:** Anda dapat mengakses halaman bantuan, FAQ, dan pembaruan perangkat lunak terbaru di aplikasi EnriBot.
+
+
+
+**Tips Konfigurasi:**
+
+
+1.  **Lokasi Aman:**  Pastikan lokasi Anda aman dan luas untuk Geralba bergerak. 
+
+2.  **Fitur Prioritas:**  Putuskan fitur-fitur yang paling penting Anda gunakan.  
+
+3. **Kecepatan Pengaturan:**  Anda dapat menyesuaikan kecepatan Geralba untuk bergerak dan melakukan tugas. 
+
+4. **Suavitas Suara:**  Atur tingkat kecerahan, volume suara, dan nada klarifikasi sesuai keinginan Anda.  
+
+5.  **Pembaruan Rutin:**  Pastikan perangkat lunak Geralba selalu diperbarui untuk mendapatkan peningkatan kinerja dan fitur baru.
+
+
+[IMAGE: unboxing_2.png]
+
+ 
+
+**Catatan:**
+
+* Kode error yang tercantum di atas hanyalah contoh dan mungkin tidak merujuk pada semua kode error yang dapat muncul pada Geralba. Anda dapat menemukan daftar kode error lengkap dan solusi potensialnya di bagian bantuan aplikasi EnriBot atau di situs web resmi EnriCorporation.
+* Dengan mengikuti panduan ini dan menggunakan Geralba dengan hati-hati, Anda dapat menikmati pengalaman pengguna yang luar biasa dan bermanfaat. 
+
+
+ 

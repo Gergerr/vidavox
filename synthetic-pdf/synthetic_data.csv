@@ -1,0 +1,1001 @@
+ID_Log,Tanggal,Waktu,Mode,Durasi_menit,Lokasi,Status_Baterai,Error_Kode,Pengguna,Konsumsi_Daya
+1,2025-03-12,11:15:00,Pod Terbang,77,Ruang Tamu,20,Tidak Ada,Ani Wijaya,186
+2,2025-03-25,14:46:00,Pendamping,71,Ruang Tamu,32,PR-101,Siti Aminah,390
+3,2025-03-30,07:24:00,Pod Terbang,70,Jalan Fiktif A,49,Tidak Ada,Joko Susilo,271
+4,2025-03-12,23:36:00,Pendamping,94,Ruang Tamu,35,TF-404,Ani Wijaya,305
+5,2025-03-28,20:57:00,Motor,114,Ruang Tamu,41,Tidak Ada,Joko Susilo,182
+6,2025-03-31,23:30:00,Motor,34,Dapur,31,Tidak Ada,Siti Aminah,101
+7,2025-03-11,10:27:00,Pendamping,35,Jalan Fiktif A,25,BO-707,Joko Susilo,227
+8,2025-03-17,01:51:00,Pembersihan,72,Dapur,99,BO-707,Joko Susilo,399
+9,2025-03-30,05:45:00,Mobil,112,Jalan Fiktif A,56,PT-502,Siti Aminah,367
+10,2025-03-21,14:51:00,Mobil,82,Dapur,36,Tidak Ada,Rudi Hartono,351
+11,2025-03-28,03:00:00,Pendamping,85,Jalan Fiktif A,73,Tidak Ada,Rudi Hartono,118
+12,2025-03-25,21:29:00,Pod Terbang,50,Langit Fiktif,53,Tidak Ada,Rudi Hartono,180
+13,2025-03-14,10:31:00,Mobil,11,Kamar Tidur,92,Tidak Ada,Siti Aminah,234
+14,2025-03-31,08:27:00,Mobil,25,Dapur,74,PR-101,Joko Susilo,246
+15,2025-03-06,11:35:00,Pod Terbang,86,Ruang Tamu,88,Tidak Ada,Budi Santoso,290
+16,2025-03-26,13:35:00,Pod Terbang,24,Langit Fiktif,35,Tidak Ada,Budi Santoso,271
+17,2025-03-07,05:05:00,Mobil,56,Ruang Tamu,83,TF-404,Siti Aminah,62
+18,2025-03-08,13:08:00,Pembersihan,46,Ruang Tamu,31,Tidak Ada,Budi Santoso,321
+19,2025-03-18,09:53:00,Motor,59,Ruang Tamu,92,PR-101,Joko Susilo,250
+20,2025-03-10,08:23:00,Pendamping,89,Jalan Fiktif A,65,CL-303,Rudi Hartono,260
+21,2025-03-26,07:19:00,Mobil,36,Kamar Tidur,97,TF-404,Rudi Hartono,65
+22,2025-03-10,01:54:00,Pembersihan,98,Ruang Tamu,53,Tidak Ada,Ani Wijaya,162
+23,2025-03-01,12:36:00,Mobil,73,Ruang Tamu,28,Tidak Ada,Ani Wijaya,74
+24,2025-03-13,06:57:00,Motor,74,Jalan Fiktif A,37,CL-303,Rudi Hartono,332
+25,2025-03-31,01:58:00,Pod Terbang,10,Dapur,56,CL-303,Siti Aminah,278
+26,2025-03-19,09:26:00,Pembersihan,40,Ruang Tamu,100,CL-303,Siti Aminah,260
+27,2025-03-16,16:55:00,Pembersihan,42,Langit Fiktif,46,Tidak Ada,Joko Susilo,84
+28,2025-03-13,20:20:00,Motor,106,Dapur,81,Tidak Ada,Rudi Hartono,333
+29,2025-03-07,12:34:00,Pod Terbang,55,Kamar Tidur,95,BO-707,Joko Susilo,105
+30,2025-03-10,16:03:00,Motor,99,Langit Fiktif,28,PT-502,Budi Santoso,355
+31,2025-03-02,17:39:00,Pembersihan,12,Langit Fiktif,40,PT-502,Siti Aminah,125
+32,2025-03-12,18:45:00,Pod Terbang,109,Ruang Tamu,94,CL-303,Budi Santoso,62
+33,2025-03-26,14:41:00,Pembersihan,25,Dapur,61,BO-707,Budi Santoso,299
+34,2025-03-01,07:34:00,Pendamping,54,Ruang Tamu,65,Tidak Ada,Budi Santoso,382
+35,2025-03-29,16:23:00,Pendamping,14,Langit Fiktif,32,Tidak Ada,Budi Santoso,244
+36,2025-03-29,13:45:00,Pendamping,54,Dapur,82,Tidak Ada,Ani Wijaya,97
+37,2025-03-23,20:27:00,Pod Terbang,101,Jalan Fiktif A,78,Tidak Ada,Ani Wijaya,251
+38,2025-03-04,05:53:00,Pembersihan,119,Dapur,90,Tidak Ada,Rudi Hartono,76
+39,2025-03-31,18:56:00,Motor,99,Langit Fiktif,36,Tidak Ada,Siti Aminah,342
+40,2025-03-28,10:22:00,Pembersihan,68,Ruang Tamu,42,Tidak Ada,Joko Susilo,182
+41,2025-03-31,16:04:00,Motor,44,Langit Fiktif,47,TF-404,Ani Wijaya,183
+42,2025-03-22,06:48:00,Pembersihan,53,Ruang Tamu,32,TF-404,Rudi Hartono,137
+43,2025-03-08,00:54:00,Pendamping,13,Jalan Fiktif A,78,Tidak Ada,Budi Santoso,352
+44,2025-03-21,21:40:00,Pembersihan,86,Jalan Fiktif A,77,PR-101,Siti Aminah,274
+45,2025-03-14,17:08:00,Pod Terbang,80,Dapur,52,Tidak Ada,Budi Santoso,102
+46,2025-03-12,20:14:00,Pod Terbang,56,Dapur,65,Tidak Ada,Rudi Hartono,198
+47,2025-03-21,14:14:00,Pod Terbang,46,Dapur,53,BO-707,Budi Santoso,206
+48,2025-03-25,18:03:00,Pembersihan,77,Dapur,99,CL-303,Ani Wijaya,306
+49,2025-03-19,19:18:00,Mobil,92,Kamar Tidur,44,PT-502,Rudi Hartono,299
+50,2025-03-15,08:19:00,Pod Terbang,92,Jalan Fiktif A,85,BO-707,Joko Susilo,265
+51,2025-03-16,09:43:00,Motor,57,Kamar Tidur,20,PT-502,Budi Santoso,392
+52,2025-03-28,19:40:00,Pendamping,26,Dapur,99,Tidak Ada,Joko Susilo,152
+53,2025-03-29,09:42:00,Pod Terbang,57,Kamar Tidur,70,CL-303,Joko Susilo,143
+54,2025-03-11,05:13:00,Mobil,18,Dapur,50,Tidak Ada,Siti Aminah,274
+55,2025-03-16,00:03:00,Pembersihan,24,Dapur,93,TF-404,Ani Wijaya,96
+56,2025-03-23,19:12:00,Pembersihan,95,Jalan Fiktif A,40,BO-707,Joko Susilo,217
+57,2025-03-13,10:23:00,Mobil,107,Ruang Tamu,71,Tidak Ada,Joko Susilo,53
+58,2025-03-12,07:16:00,Mobil,97,Dapur,83,Tidak Ada,Budi Santoso,361
+59,2025-03-04,10:31:00,Pembersihan,51,Ruang Tamu,65,Tidak Ada,Budi Santoso,303
+60,2025-03-22,20:50:00,Motor,82,Jalan Fiktif A,51,Tidak Ada,Ani Wijaya,204
+61,2025-03-19,20:34:00,Pod Terbang,36,Langit Fiktif,89,Tidak Ada,Rudi Hartono,185
+62,2025-03-06,23:46:00,Motor,77,Dapur,60,Tidak Ada,Siti Aminah,216
+63,2025-03-12,10:23:00,Pembersihan,35,Dapur,32,Tidak Ada,Siti Aminah,216
+64,2025-03-21,03:34:00,Motor,20,Dapur,52,Tidak Ada,Rudi Hartono,206
+65,2025-03-11,07:01:00,Pendamping,117,Ruang Tamu,64,Tidak Ada,Joko Susilo,368
+66,2025-03-02,05:57:00,Pod Terbang,84,Ruang Tamu,93,Tidak Ada,Ani Wijaya,325
+67,2025-03-16,08:24:00,Pod Terbang,60,Kamar Tidur,53,PR-101,Ani Wijaya,264
+68,2025-03-31,11:46:00,Mobil,81,Ruang Tamu,24,TF-404,Budi Santoso,298
+69,2025-03-30,02:15:00,Pod Terbang,16,Jalan Fiktif A,41,PR-101,Siti Aminah,261
+70,2025-03-28,04:35:00,Pod Terbang,90,Langit Fiktif,55,Tidak Ada,Siti Aminah,54
+71,2025-03-11,11:29:00,Pembersihan,82,Kamar Tidur,28,BO-707,Ani Wijaya,332
+72,2025-03-16,02:27:00,Pembersihan,117,Langit Fiktif,45,Tidak Ada,Joko Susilo,88
+73,2025-03-06,10:29:00,Pembersihan,42,Langit Fiktif,85,Tidak Ada,Budi Santoso,116
+74,2025-03-13,03:49:00,Pembersihan,46,Jalan Fiktif A,89,Tidak Ada,Rudi Hartono,108
+75,2025-03-30,16:02:00,Pembersihan,35,Ruang Tamu,31,Tidak Ada,Ani Wijaya,184
+76,2025-03-19,03:09:00,Mobil,63,Kamar Tidur,47,PT-502,Budi Santoso,369
+77,2025-03-06,01:59:00,Motor,94,Langit Fiktif,100,PR-101,Budi Santoso,235
+78,2025-03-17,11:16:00,Mobil,82,Jalan Fiktif A,36,PT-502,Budi Santoso,291
+79,2025-03-25,16:54:00,Pod Terbang,104,Langit Fiktif,83,Tidak Ada,Budi Santoso,254
+80,2025-03-25,02:00:00,Motor,29,Jalan Fiktif A,68,Tidak Ada,Siti Aminah,208
+81,2025-03-13,16:42:00,Pembersihan,94,Dapur,21,Tidak Ada,Ani Wijaya,327
+82,2025-03-07,03:12:00,Mobil,103,Kamar Tidur,63,PR-101,Budi Santoso,132
+83,2025-03-06,14:21:00,Pembersihan,15,Jalan Fiktif A,20,TF-404,Siti Aminah,284
+84,2025-03-28,23:05:00,Mobil,59,Langit Fiktif,38,BO-707,Ani Wijaya,195
+85,2025-03-24,21:09:00,Pembersihan,76,Ruang Tamu,87,Tidak Ada,Siti Aminah,296
+86,2025-03-02,22:34:00,Pendamping,87,Dapur,48,TF-404,Siti Aminah,299
+87,2025-03-01,01:20:00,Mobil,117,Langit Fiktif,81,Tidak Ada,Budi Santoso,242
+88,2025-03-07,05:50:00,Pendamping,78,Ruang Tamu,67,PR-101,Siti Aminah,291
+89,2025-03-06,11:12:00,Pembersihan,91,Kamar Tidur,52,Tidak Ada,Rudi Hartono,119
+90,2025-03-02,08:08:00,Pendamping,17,Ruang Tamu,82,CL-303,Joko Susilo,271
+91,2025-03-09,23:47:00,Pembersihan,24,Kamar Tidur,64,BO-707,Siti Aminah,142
+92,2025-03-21,21:36:00,Motor,98,Ruang Tamu,94,PR-101,Budi Santoso,339
+93,2025-03-26,12:29:00,Pod Terbang,60,Kamar Tidur,80,BO-707,Rudi Hartono,354
+94,2025-03-09,18:01:00,Pod Terbang,115,Kamar Tidur,48,PT-502,Joko Susilo,138
+95,2025-03-14,05:43:00,Pod Terbang,75,Dapur,58,Tidak Ada,Budi Santoso,335
+96,2025-03-18,20:25:00,Mobil,87,Jalan Fiktif A,26,Tidak Ada,Joko Susilo,342
+97,2025-03-10,22:13:00,Pod Terbang,92,Langit Fiktif,96,PR-101,Siti Aminah,174
+98,2025-03-21,10:27:00,Motor,60,Dapur,64,Tidak Ada,Joko Susilo,264
+99,2025-03-08,04:00:00,Mobil,82,Langit Fiktif,21,Tidak Ada,Siti Aminah,354
+100,2025-03-04,03:11:00,Mobil,26,Ruang Tamu,91,TF-404,Siti Aminah,337
+101,2025-03-18,22:49:00,Mobil,107,Dapur,66,PR-101,Rudi Hartono,142
+102,2025-03-09,02:44:00,Mobil,49,Jalan Fiktif A,35,CL-303,Siti Aminah,145
+103,2025-03-10,21:38:00,Motor,100,Jalan Fiktif A,96,Tidak Ada,Budi Santoso,55
+104,2025-03-26,19:41:00,Pendamping,105,Langit Fiktif,90,Tidak Ada,Ani Wijaya,346
+105,2025-03-02,21:30:00,Mobil,83,Ruang Tamu,78,Tidak Ada,Joko Susilo,220
+106,2025-03-06,19:24:00,Pod Terbang,95,Langit Fiktif,70,Tidak Ada,Budi Santoso,222
+107,2025-03-17,13:52:00,Motor,54,Kamar Tidur,36,CL-303,Joko Susilo,235
+108,2025-03-13,23:19:00,Pod Terbang,107,Ruang Tamu,95,TF-404,Siti Aminah,60
+109,2025-03-19,05:18:00,Pembersihan,26,Langit Fiktif,32,Tidak Ada,Siti Aminah,197
+110,2025-03-24,13:14:00,Mobil,52,Ruang Tamu,20,TF-404,Joko Susilo,92
+111,2025-03-23,05:53:00,Mobil,25,Langit Fiktif,86,CL-303,Ani Wijaya,398
+112,2025-03-04,00:20:00,Motor,17,Langit Fiktif,59,Tidak Ada,Siti Aminah,225
+113,2025-03-02,14:43:00,Motor,25,Dapur,27,CL-303,Ani Wijaya,168
+114,2025-03-01,21:41:00,Motor,38,Kamar Tidur,81,CL-303,Rudi Hartono,195
+115,2025-03-18,01:57:00,Pendamping,62,Dapur,42,Tidak Ada,Siti Aminah,247
+116,2025-03-06,06:58:00,Motor,44,Langit Fiktif,76,Tidak Ada,Joko Susilo,259
+117,2025-03-02,12:42:00,Mobil,98,Ruang Tamu,97,Tidak Ada,Joko Susilo,381
+118,2025-03-06,06:59:00,Pod Terbang,48,Dapur,28,Tidak Ada,Joko Susilo,232
+119,2025-03-17,21:48:00,Pendamping,48,Dapur,55,Tidak Ada,Budi Santoso,106
+120,2025-03-26,15:47:00,Pod Terbang,101,Kamar Tidur,85,Tidak Ada,Joko Susilo,265
+121,2025-03-28,07:20:00,Pod Terbang,28,Dapur,70,PR-101,Budi Santoso,141
+122,2025-03-20,19:05:00,Pendamping,60,Langit Fiktif,71,PT-502,Budi Santoso,177
+123,2025-03-22,19:02:00,Pod Terbang,20,Jalan Fiktif A,50,Tidak Ada,Budi Santoso,323
+124,2025-03-15,12:54:00,Pendamping,110,Jalan Fiktif A,53,Tidak Ada,Joko Susilo,391
+125,2025-03-01,15:21:00,Mobil,46,Kamar Tidur,99,BO-707,Ani Wijaya,98
+126,2025-03-11,01:46:00,Pendamping,62,Langit Fiktif,80,Tidak Ada,Ani Wijaya,138
+127,2025-03-05,02:02:00,Pod Terbang,54,Langit Fiktif,42,CL-303,Joko Susilo,237
+128,2025-03-11,05:57:00,Pembersihan,103,Langit Fiktif,41,BO-707,Ani Wijaya,51
+129,2025-03-06,12:41:00,Motor,44,Kamar Tidur,24,PR-101,Ani Wijaya,170
+130,2025-03-25,14:48:00,Pembersihan,13,Dapur,36,PT-502,Siti Aminah,110
+131,2025-03-08,10:42:00,Mobil,67,Dapur,64,TF-404,Budi Santoso,79
+132,2025-03-28,15:54:00,Mobil,35,Jalan Fiktif A,45,CL-303,Ani Wijaya,333
+133,2025-03-11,03:20:00,Pod Terbang,33,Langit Fiktif,56,Tidak Ada,Ani Wijaya,225
+134,2025-03-01,00:56:00,Motor,17,Kamar Tidur,82,PR-101,Budi Santoso,155
+135,2025-03-12,19:38:00,Pod Terbang,48,Kamar Tidur,69,CL-303,Ani Wijaya,335
+136,2025-03-09,23:05:00,Mobil,88,Kamar Tidur,24,Tidak Ada,Siti Aminah,286
+137,2025-03-27,13:01:00,Motor,65,Dapur,44,TF-404,Budi Santoso,235
+138,2025-03-30,06:17:00,Pembersihan,45,Dapur,56,Tidak Ada,Ani Wijaya,241
+139,2025-03-28,07:15:00,Motor,34,Dapur,89,PR-101,Ani Wijaya,320
+140,2025-03-03,11:46:00,Motor,44,Jalan Fiktif A,26,CL-303,Rudi Hartono,262
+141,2025-03-22,10:28:00,Pembersihan,40,Kamar Tidur,21,Tidak Ada,Budi Santoso,194
+142,2025-03-23,14:36:00,Pod Terbang,11,Jalan Fiktif A,47,Tidak Ada,Siti Aminah,342
+143,2025-03-27,18:22:00,Mobil,63,Ruang Tamu,70,Tidak Ada,Rudi Hartono,295
+144,2025-03-14,22:14:00,Motor,17,Langit Fiktif,92,Tidak Ada,Ani Wijaya,262
+145,2025-03-26,09:25:00,Motor,17,Langit Fiktif,34,TF-404,Siti Aminah,389
+146,2025-03-24,06:19:00,Mobil,18,Jalan Fiktif A,77,Tidak Ada,Rudi Hartono,111
+147,2025-03-13,11:53:00,Pod Terbang,78,Jalan Fiktif A,70,Tidak Ada,Rudi Hartono,271
+148,2025-03-19,02:28:00,Mobil,58,Ruang Tamu,51,Tidak Ada,Siti Aminah,278
+149,2025-03-01,06:57:00,Pod Terbang,26,Langit Fiktif,39,Tidak Ada,Joko Susilo,215
+150,2025-03-23,14:14:00,Motor,46,Langit Fiktif,44,TF-404,Budi Santoso,60
+151,2025-03-06,21:01:00,Pod Terbang,43,Kamar Tidur,91,Tidak Ada,Budi Santoso,80
+152,2025-03-30,15:35:00,Pod Terbang,42,Jalan Fiktif A,83,BO-707,Budi Santoso,219
+153,2025-03-17,09:30:00,Pendamping,70,Ruang Tamu,99,PT-502,Rudi Hartono,204
+154,2025-03-25,21:18:00,Pendamping,105,Jalan Fiktif A,84,Tidak Ada,Siti Aminah,320
+155,2025-03-29,23:54:00,Pendamping,67,Dapur,99,Tidak Ada,Rudi Hartono,295
+156,2025-03-14,22:06:00,Pembersihan,36,Ruang Tamu,72,CL-303,Joko Susilo,283
+157,2025-03-30,05:05:00,Pendamping,111,Langit Fiktif,28,TF-404,Ani Wijaya,297
+158,2025-03-16,12:28:00,Pod Terbang,85,Dapur,100,Tidak Ada,Siti Aminah,81
+159,2025-03-10,18:14:00,Pembersihan,45,Langit Fiktif,56,Tidak Ada,Siti Aminah,227
+160,2025-03-21,11:09:00,Pendamping,112,Ruang Tamu,67,Tidak Ada,Siti Aminah,181
+161,2025-03-26,16:54:00,Motor,24,Ruang Tamu,43,Tidak Ada,Rudi Hartono,277
+162,2025-03-27,15:55:00,Pendamping,73,Langit Fiktif,82,Tidak Ada,Siti Aminah,87
+163,2025-03-10,03:10:00,Mobil,30,Kamar Tidur,67,PT-502,Ani Wijaya,236
+164,2025-03-23,08:39:00,Pod Terbang,48,Ruang Tamu,48,Tidak Ada,Ani Wijaya,146
+165,2025-03-26,05:48:00,Pembersihan,51,Kamar Tidur,43,Tidak Ada,Joko Susilo,354
+166,2025-03-13,04:38:00,Motor,119,Dapur,46,Tidak Ada,Budi Santoso,315
+167,2025-03-14,16:43:00,Motor,99,Ruang Tamu,66,PT-502,Joko Susilo,129
+168,2025-03-19,02:38:00,Pendamping,101,Ruang Tamu,83,CL-303,Siti Aminah,178
+169,2025-03-13,10:27:00,Pembersihan,31,Langit Fiktif,69,PT-502,Joko Susilo,189
+170,2025-03-27,21:38:00,Pendamping,44,Jalan Fiktif A,25,TF-404,Rudi Hartono,215
+171,2025-03-14,11:12:00,Pod Terbang,58,Langit Fiktif,54,PT-502,Siti Aminah,303
+172,2025-03-25,23:46:00,Pembersihan,83,Langit Fiktif,50,Tidak Ada,Siti Aminah,354
+173,2025-03-28,07:55:00,Pendamping,36,Langit Fiktif,73,Tidak Ada,Siti Aminah,398
+174,2025-03-06,22:18:00,Pembersihan,98,Langit Fiktif,52,Tidak Ada,Ani Wijaya,82
+175,2025-03-11,01:14:00,Motor,36,Ruang Tamu,52,CL-303,Budi Santoso,299
+176,2025-03-21,06:14:00,Motor,36,Dapur,95,TF-404,Joko Susilo,215
+177,2025-03-28,14:39:00,Pendamping,102,Jalan Fiktif A,69,BO-707,Budi Santoso,359
+178,2025-03-04,04:58:00,Pembersihan,87,Kamar Tidur,45,Tidak Ada,Joko Susilo,332
+179,2025-03-13,23:42:00,Mobil,45,Ruang Tamu,91,TF-404,Siti Aminah,392
+180,2025-03-12,07:47:00,Mobil,56,Jalan Fiktif A,44,PT-502,Budi Santoso,68
+181,2025-03-09,03:39:00,Motor,13,Langit Fiktif,32,PT-502,Rudi Hartono,110
+182,2025-03-19,04:20:00,Pod Terbang,72,Kamar Tidur,38,Tidak Ada,Siti Aminah,350
+183,2025-03-13,00:57:00,Pendamping,50,Ruang Tamu,93,TF-404,Budi Santoso,392
+184,2025-03-25,07:00:00,Pod Terbang,53,Ruang Tamu,31,Tidak Ada,Budi Santoso,353
+185,2025-03-27,20:49:00,Pembersihan,38,Jalan Fiktif A,70,PT-502,Siti Aminah,295
+186,2025-03-15,05:12:00,Pendamping,96,Langit Fiktif,73,BO-707,Joko Susilo,338
+187,2025-03-17,17:30:00,Mobil,11,Dapur,40,PT-502,Joko Susilo,260
+188,2025-03-16,03:12:00,Pendamping,116,Jalan Fiktif A,58,CL-303,Joko Susilo,61
+189,2025-03-27,19:58:00,Pendamping,99,Langit Fiktif,74,Tidak Ada,Budi Santoso,334
+190,2025-03-05,01:34:00,Pendamping,112,Ruang Tamu,58,Tidak Ada,Siti Aminah,320
+191,2025-03-09,05:26:00,Pod Terbang,82,Dapur,57,Tidak Ada,Joko Susilo,259
+192,2025-03-05,16:17:00,Pendamping,62,Dapur,21,Tidak Ada,Rudi Hartono,151
+193,2025-03-16,08:22:00,Pembersihan,69,Ruang Tamu,21,PT-502,Ani Wijaya,235
+194,2025-03-29,14:16:00,Motor,42,Jalan Fiktif A,23,PR-101,Ani Wijaya,50
+195,2025-03-01,06:23:00,Motor,109,Langit Fiktif,51,CL-303,Rudi Hartono,130
+196,2025-03-05,10:09:00,Motor,86,Langit Fiktif,64,CL-303,Budi Santoso,375
+197,2025-03-11,06:07:00,Motor,41,Jalan Fiktif A,50,Tidak Ada,Ani Wijaya,347
+198,2025-03-15,12:36:00,Motor,56,Langit Fiktif,41,Tidak Ada,Siti Aminah,381
+199,2025-03-04,10:27:00,Motor,87,Ruang Tamu,32,BO-707,Budi Santoso,78
+200,2025-03-26,07:47:00,Motor,75,Kamar Tidur,24,PT-502,Joko Susilo,295
+201,2025-03-22,23:43:00,Motor,24,Dapur,46,Tidak Ada,Budi Santoso,215
+202,2025-03-09,00:27:00,Motor,44,Ruang Tamu,25,TF-404,Siti Aminah,201
+203,2025-03-27,09:53:00,Pembersihan,80,Ruang Tamu,45,PR-101,Budi Santoso,291
+204,2025-03-05,15:44:00,Pod Terbang,29,Jalan Fiktif A,36,BO-707,Joko Susilo,145
+205,2025-03-07,18:51:00,Pendamping,68,Dapur,44,Tidak Ada,Budi Santoso,127
+206,2025-03-03,02:13:00,Pod Terbang,76,Jalan Fiktif A,73,PT-502,Budi Santoso,339
+207,2025-03-12,18:24:00,Pembersihan,83,Langit Fiktif,51,Tidak Ada,Siti Aminah,358
+208,2025-03-07,12:32:00,Pembersihan,62,Kamar Tidur,23,PT-502,Siti Aminah,129
+209,2025-03-05,10:14:00,Mobil,38,Dapur,52,Tidak Ada,Ani Wijaya,272
+210,2025-03-30,10:28:00,Pendamping,94,Kamar Tidur,33,Tidak Ada,Joko Susilo,190
+211,2025-03-10,10:05:00,Mobil,73,Langit Fiktif,100,BO-707,Budi Santoso,288
+212,2025-03-17,04:08:00,Pembersihan,119,Ruang Tamu,35,BO-707,Rudi Hartono,229
+213,2025-03-11,22:00:00,Mobil,64,Jalan Fiktif A,64,Tidak Ada,Ani Wijaya,213
+214,2025-03-11,00:29:00,Motor,46,Kamar Tidur,65,PR-101,Ani Wijaya,343
+215,2025-03-04,16:23:00,Pembersihan,104,Dapur,43,Tidak Ada,Joko Susilo,291
+216,2025-03-17,01:50:00,Pendamping,63,Ruang Tamu,44,PR-101,Rudi Hartono,284
+217,2025-03-01,11:38:00,Pod Terbang,73,Langit Fiktif,51,Tidak Ada,Rudi Hartono,355
+218,2025-03-17,05:10:00,Mobil,44,Kamar Tidur,50,Tidak Ada,Siti Aminah,195
+219,2025-03-01,16:26:00,Mobil,80,Kamar Tidur,65,Tidak Ada,Joko Susilo,319
+220,2025-03-22,20:05:00,Pembersihan,95,Langit Fiktif,22,TF-404,Ani Wijaya,385
+221,2025-03-16,19:00:00,Pembersihan,39,Ruang Tamu,76,Tidak Ada,Joko Susilo,302
+222,2025-03-14,23:03:00,Mobil,95,Langit Fiktif,78,Tidak Ada,Siti Aminah,125
+223,2025-03-05,19:59:00,Pembersihan,85,Jalan Fiktif A,38,Tidak Ada,Rudi Hartono,226
+224,2025-03-03,03:05:00,Pendamping,56,Kamar Tidur,43,BO-707,Ani Wijaya,397
+225,2025-03-03,09:38:00,Motor,95,Dapur,80,CL-303,Rudi Hartono,65
+226,2025-03-14,05:04:00,Mobil,30,Langit Fiktif,97,PT-502,Joko Susilo,247
+227,2025-03-10,02:43:00,Motor,24,Kamar Tidur,67,Tidak Ada,Budi Santoso,341
+228,2025-03-30,11:48:00,Pod Terbang,100,Jalan Fiktif A,33,TF-404,Joko Susilo,366
+229,2025-03-10,11:14:00,Motor,67,Langit Fiktif,79,BO-707,Budi Santoso,294
+230,2025-03-31,06:10:00,Pembersihan,90,Ruang Tamu,89,Tidak Ada,Budi Santoso,339
+231,2025-03-10,19:31:00,Mobil,80,Jalan Fiktif A,21,PR-101,Joko Susilo,90
+232,2025-03-16,15:15:00,Pod Terbang,85,Langit Fiktif,47,Tidak Ada,Ani Wijaya,354
+233,2025-03-16,07:56:00,Pendamping,61,Dapur,39,TF-404,Budi Santoso,364
+234,2025-03-07,08:00:00,Pendamping,30,Kamar Tidur,87,BO-707,Ani Wijaya,315
+235,2025-03-23,10:18:00,Pod Terbang,89,Jalan Fiktif A,82,Tidak Ada,Siti Aminah,220
+236,2025-03-07,10:48:00,Mobil,94,Kamar Tidur,64,Tidak Ada,Siti Aminah,157
+237,2025-03-10,17:27:00,Motor,38,Langit Fiktif,40,CL-303,Rudi Hartono,324
+238,2025-03-26,23:39:00,Pendamping,68,Kamar Tidur,74,Tidak Ada,Siti Aminah,68
+239,2025-03-25,08:44:00,Pendamping,91,Langit Fiktif,88,CL-303,Siti Aminah,284
+240,2025-03-25,22:45:00,Pod Terbang,21,Dapur,26,TF-404,Budi Santoso,59
+241,2025-03-14,13:35:00,Pendamping,91,Kamar Tidur,48,Tidak Ada,Rudi Hartono,268
+242,2025-03-14,10:20:00,Pod Terbang,120,Kamar Tidur,22,BO-707,Budi Santoso,207
+243,2025-03-06,19:14:00,Mobil,12,Dapur,43,TF-404,Ani Wijaya,343
+244,2025-03-31,08:18:00,Mobil,93,Jalan Fiktif A,65,Tidak Ada,Siti Aminah,129
+245,2025-03-27,18:43:00,Mobil,102,Jalan Fiktif A,70,CL-303,Rudi Hartono,63
+246,2025-03-24,06:40:00,Pod Terbang,22,Jalan Fiktif A,82,Tidak Ada,Siti Aminah,240
+247,2025-03-09,12:58:00,Pembersihan,56,Ruang Tamu,79,PR-101,Siti Aminah,384
+248,2025-03-08,08:49:00,Pembersihan,116,Ruang Tamu,22,PR-101,Joko Susilo,229
+249,2025-03-14,20:21:00,Motor,94,Kamar Tidur,84,TF-404,Siti Aminah,263
+250,2025-03-26,17:27:00,Motor,106,Langit Fiktif,54,Tidak Ada,Ani Wijaya,240
+251,2025-03-28,07:30:00,Pembersihan,112,Jalan Fiktif A,90,BO-707,Budi Santoso,208
+252,2025-03-20,14:23:00,Pendamping,49,Dapur,22,BO-707,Budi Santoso,233
+253,2025-03-15,16:34:00,Pembersihan,54,Langit Fiktif,26,BO-707,Budi Santoso,135
+254,2025-03-28,10:31:00,Mobil,106,Kamar Tidur,82,PT-502,Ani Wijaya,270
+255,2025-03-29,15:05:00,Motor,100,Jalan Fiktif A,58,BO-707,Budi Santoso,137
+256,2025-03-24,15:58:00,Pendamping,53,Dapur,40,PT-502,Rudi Hartono,51
+257,2025-03-13,18:51:00,Motor,90,Langit Fiktif,92,PT-502,Siti Aminah,201
+258,2025-03-16,11:14:00,Pendamping,103,Jalan Fiktif A,61,Tidak Ada,Joko Susilo,159
+259,2025-03-12,12:23:00,Pembersihan,105,Kamar Tidur,84,Tidak Ada,Siti Aminah,293
+260,2025-03-14,08:30:00,Pod Terbang,69,Dapur,46,PR-101,Ani Wijaya,79
+261,2025-03-19,02:32:00,Pod Terbang,68,Dapur,39,CL-303,Budi Santoso,247
+262,2025-03-27,05:16:00,Mobil,105,Langit Fiktif,55,CL-303,Budi Santoso,143
+263,2025-03-04,20:12:00,Motor,36,Jalan Fiktif A,87,Tidak Ada,Rudi Hartono,357
+264,2025-03-03,14:14:00,Mobil,19,Jalan Fiktif A,60,Tidak Ada,Siti Aminah,149
+265,2025-03-10,04:40:00,Pembersihan,112,Dapur,68,PT-502,Rudi Hartono,252
+266,2025-03-07,19:18:00,Motor,59,Ruang Tamu,26,BO-707,Joko Susilo,333
+267,2025-03-10,12:36:00,Pembersihan,86,Ruang Tamu,55,Tidak Ada,Ani Wijaya,368
+268,2025-03-23,15:05:00,Pendamping,80,Ruang Tamu,67,TF-404,Joko Susilo,105
+269,2025-03-17,00:43:00,Pendamping,38,Kamar Tidur,77,BO-707,Ani Wijaya,386
+270,2025-03-31,21:58:00,Mobil,13,Ruang Tamu,98,CL-303,Siti Aminah,281
+271,2025-03-14,23:15:00,Pendamping,102,Dapur,76,TF-404,Siti Aminah,83
+272,2025-03-04,20:44:00,Motor,100,Langit Fiktif,89,Tidak Ada,Siti Aminah,191
+273,2025-03-16,03:01:00,Pembersihan,56,Ruang Tamu,25,Tidak Ada,Ani Wijaya,139
+274,2025-03-11,10:41:00,Pendamping,90,Dapur,60,Tidak Ada,Ani Wijaya,305
+275,2025-03-15,08:53:00,Pendamping,61,Ruang Tamu,65,Tidak Ada,Budi Santoso,160
+276,2025-03-02,03:41:00,Pod Terbang,116,Langit Fiktif,40,Tidak Ada,Rudi Hartono,54
+277,2025-03-19,07:14:00,Pendamping,102,Jalan Fiktif A,67,BO-707,Ani Wijaya,261
+278,2025-03-11,06:45:00,Pendamping,55,Kamar Tidur,99,CL-303,Budi Santoso,313
+279,2025-03-12,20:16:00,Motor,66,Jalan Fiktif A,85,Tidak Ada,Ani Wijaya,208
+280,2025-03-18,13:34:00,Pendamping,92,Kamar Tidur,26,Tidak Ada,Joko Susilo,285
+281,2025-03-09,03:25:00,Mobil,93,Dapur,45,Tidak Ada,Joko Susilo,328
+282,2025-03-12,10:24:00,Mobil,79,Jalan Fiktif A,30,Tidak Ada,Ani Wijaya,242
+283,2025-03-20,16:49:00,Motor,43,Dapur,83,PT-502,Ani Wijaya,383
+284,2025-03-16,02:25:00,Pod Terbang,44,Langit Fiktif,55,Tidak Ada,Rudi Hartono,178
+285,2025-03-11,00:47:00,Pembersihan,85,Kamar Tidur,74,TF-404,Joko Susilo,121
+286,2025-03-07,22:21:00,Pendamping,49,Ruang Tamu,92,Tidak Ada,Budi Santoso,369
+287,2025-03-25,11:00:00,Mobil,30,Jalan Fiktif A,43,Tidak Ada,Siti Aminah,175
+288,2025-03-08,16:49:00,Pod Terbang,16,Jalan Fiktif A,54,CL-303,Joko Susilo,73
+289,2025-03-21,06:56:00,Motor,64,Langit Fiktif,43,Tidak Ada,Joko Susilo,247
+290,2025-03-15,15:00:00,Pod Terbang,110,Kamar Tidur,79,Tidak Ada,Siti Aminah,306
+291,2025-03-26,04:58:00,Motor,117,Jalan Fiktif A,46,BO-707,Joko Susilo,311
+292,2025-03-12,21:52:00,Pembersihan,49,Ruang Tamu,52,TF-404,Rudi Hartono,96
+293,2025-03-14,15:58:00,Motor,118,Langit Fiktif,21,Tidak Ada,Siti Aminah,312
+294,2025-03-06,20:03:00,Pembersihan,85,Dapur,40,Tidak Ada,Ani Wijaya,59
+295,2025-03-21,05:00:00,Motor,69,Langit Fiktif,77,PR-101,Budi Santoso,141
+296,2025-03-21,06:39:00,Mobil,119,Kamar Tidur,24,Tidak Ada,Budi Santoso,153
+297,2025-03-05,00:14:00,Motor,62,Dapur,84,BO-707,Rudi Hartono,265
+298,2025-03-19,10:06:00,Pod Terbang,80,Langit Fiktif,77,BO-707,Rudi Hartono,261
+299,2025-03-04,11:37:00,Pod Terbang,118,Jalan Fiktif A,75,Tidak Ada,Joko Susilo,163
+300,2025-03-18,14:46:00,Mobil,38,Ruang Tamu,74,Tidak Ada,Joko Susilo,221
+301,2025-03-08,01:54:00,Pendamping,79,Ruang Tamu,90,Tidak Ada,Ani Wijaya,136
+302,2025-03-09,05:41:00,Pendamping,94,Langit Fiktif,69,PR-101,Rudi Hartono,249
+303,2025-03-28,08:25:00,Pod Terbang,48,Langit Fiktif,29,Tidak Ada,Budi Santoso,60
+304,2025-03-03,15:25:00,Mobil,89,Ruang Tamu,72,Tidak Ada,Budi Santoso,183
+305,2025-03-21,22:44:00,Mobil,66,Dapur,88,TF-404,Siti Aminah,201
+306,2025-03-25,07:07:00,Motor,26,Langit Fiktif,61,Tidak Ada,Rudi Hartono,232
+307,2025-03-05,18:03:00,Mobil,14,Ruang Tamu,56,PR-101,Ani Wijaya,102
+308,2025-03-10,05:20:00,Pembersihan,55,Dapur,46,Tidak Ada,Joko Susilo,329
+309,2025-03-15,22:43:00,Pembersihan,57,Dapur,52,Tidak Ada,Ani Wijaya,152
+310,2025-03-11,23:08:00,Pembersihan,53,Jalan Fiktif A,82,CL-303,Rudi Hartono,341
+311,2025-03-29,11:37:00,Pendamping,112,Dapur,58,Tidak Ada,Budi Santoso,302
+312,2025-03-03,12:08:00,Pembersihan,96,Langit Fiktif,62,PR-101,Joko Susilo,321
+313,2025-03-28,05:50:00,Pembersihan,62,Kamar Tidur,81,Tidak Ada,Siti Aminah,84
+314,2025-03-24,16:59:00,Pembersihan,119,Jalan Fiktif A,98,CL-303,Siti Aminah,211
+315,2025-03-26,16:55:00,Motor,112,Jalan Fiktif A,96,PR-101,Rudi Hartono,175
+316,2025-03-07,20:11:00,Pendamping,14,Dapur,65,BO-707,Siti Aminah,67
+317,2025-03-31,07:56:00,Pembersihan,24,Jalan Fiktif A,61,Tidak Ada,Ani Wijaya,192
+318,2025-03-25,11:16:00,Motor,80,Kamar Tidur,67,PT-502,Rudi Hartono,115
+319,2025-03-29,11:49:00,Pendamping,79,Ruang Tamu,34,PT-502,Rudi Hartono,354
+320,2025-03-02,14:49:00,Motor,88,Kamar Tidur,91,TF-404,Siti Aminah,52
+321,2025-03-25,14:44:00,Pod Terbang,77,Kamar Tidur,82,PR-101,Budi Santoso,158
+322,2025-03-09,04:04:00,Mobil,116,Dapur,96,Tidak Ada,Ani Wijaya,199
+323,2025-03-15,07:51:00,Motor,26,Kamar Tidur,99,CL-303,Budi Santoso,165
+324,2025-03-16,16:37:00,Pendamping,75,Langit Fiktif,70,PR-101,Budi Santoso,123
+325,2025-03-17,10:07:00,Pod Terbang,116,Ruang Tamu,25,Tidak Ada,Siti Aminah,162
+326,2025-03-13,14:30:00,Pod Terbang,20,Dapur,43,TF-404,Budi Santoso,260
+327,2025-03-08,02:45:00,Motor,54,Langit Fiktif,28,Tidak Ada,Rudi Hartono,247
+328,2025-03-13,11:21:00,Pembersihan,111,Jalan Fiktif A,25,TF-404,Rudi Hartono,346
+329,2025-03-24,06:49:00,Pod Terbang,88,Kamar Tidur,90,PT-502,Ani Wijaya,317
+330,2025-03-27,18:27:00,Mobil,14,Jalan Fiktif A,77,PR-101,Ani Wijaya,356
+331,2025-03-21,01:54:00,Motor,29,Langit Fiktif,75,BO-707,Siti Aminah,226
+332,2025-03-16,13:52:00,Pendamping,25,Kamar Tidur,26,CL-303,Budi Santoso,62
+333,2025-03-18,21:59:00,Motor,13,Ruang Tamu,49,Tidak Ada,Rudi Hartono,358
+334,2025-03-31,18:53:00,Pod Terbang,96,Langit Fiktif,21,PR-101,Siti Aminah,397
+335,2025-03-03,03:39:00,Pembersihan,101,Dapur,93,Tidak Ada,Joko Susilo,79
+336,2025-03-25,08:26:00,Mobil,117,Ruang Tamu,81,PT-502,Siti Aminah,236
+337,2025-03-05,02:11:00,Pembersihan,60,Ruang Tamu,82,Tidak Ada,Ani Wijaya,184
+338,2025-03-01,10:12:00,Pendamping,45,Ruang Tamu,97,TF-404,Ani Wijaya,217
+339,2025-03-25,10:11:00,Motor,32,Kamar Tidur,99,Tidak Ada,Ani Wijaya,154
+340,2025-03-26,01:13:00,Motor,66,Jalan Fiktif A,90,Tidak Ada,Budi Santoso,72
+341,2025-03-10,23:33:00,Motor,11,Jalan Fiktif A,66,Tidak Ada,Siti Aminah,178
+342,2025-03-29,05:07:00,Motor,113,Dapur,46,Tidak Ada,Siti Aminah,160
+343,2025-03-18,10:21:00,Pendamping,70,Jalan Fiktif A,84,PT-502,Siti Aminah,388
+344,2025-03-10,18:48:00,Mobil,81,Ruang Tamu,63,PR-101,Rudi Hartono,323
+345,2025-03-09,19:22:00,Pendamping,26,Jalan Fiktif A,20,PR-101,Siti Aminah,217
+346,2025-03-16,08:20:00,Pod Terbang,117,Jalan Fiktif A,79,Tidak Ada,Budi Santoso,319
+347,2025-03-15,17:38:00,Mobil,47,Kamar Tidur,75,BO-707,Joko Susilo,178
+348,2025-03-03,05:46:00,Pod Terbang,78,Kamar Tidur,35,Tidak Ada,Siti Aminah,208
+349,2025-03-17,05:55:00,Mobil,79,Langit Fiktif,43,BO-707,Joko Susilo,370
+350,2025-03-24,03:02:00,Pendamping,34,Langit Fiktif,95,PT-502,Joko Susilo,228
+351,2025-03-05,03:36:00,Motor,81,Langit Fiktif,51,PT-502,Siti Aminah,377
+352,2025-03-29,05:29:00,Pod Terbang,101,Ruang Tamu,31,Tidak Ada,Ani Wijaya,375
+353,2025-03-21,05:20:00,Pendamping,12,Dapur,66,Tidak Ada,Joko Susilo,126
+354,2025-03-08,12:29:00,Pembersihan,44,Dapur,65,TF-404,Ani Wijaya,261
+355,2025-03-01,14:34:00,Pendamping,87,Jalan Fiktif A,84,Tidak Ada,Ani Wijaya,393
+356,2025-03-07,23:35:00,Motor,92,Jalan Fiktif A,39,TF-404,Rudi Hartono,216
+357,2025-03-13,05:38:00,Pendamping,83,Langit Fiktif,22,Tidak Ada,Siti Aminah,90
+358,2025-03-27,15:29:00,Pembersihan,61,Kamar Tidur,30,Tidak Ada,Siti Aminah,399
+359,2025-03-18,10:11:00,Motor,80,Jalan Fiktif A,61,Tidak Ada,Rudi Hartono,304
+360,2025-03-27,04:40:00,Motor,13,Jalan Fiktif A,32,PT-502,Ani Wijaya,315
+361,2025-03-02,05:04:00,Motor,109,Langit Fiktif,94,BO-707,Ani Wijaya,321
+362,2025-03-04,03:08:00,Pembersihan,34,Kamar Tidur,71,Tidak Ada,Budi Santoso,373
+363,2025-03-28,21:16:00,Pembersihan,35,Ruang Tamu,76,TF-404,Rudi Hartono,396
+364,2025-03-18,19:47:00,Pod Terbang,93,Ruang Tamu,21,Tidak Ada,Budi Santoso,343
+365,2025-03-01,20:30:00,Pendamping,113,Ruang Tamu,37,TF-404,Siti Aminah,303
+366,2025-03-09,12:08:00,Motor,114,Kamar Tidur,35,Tidak Ada,Ani Wijaya,66
+367,2025-03-20,02:56:00,Pod Terbang,95,Ruang Tamu,42,Tidak Ada,Siti Aminah,221
+368,2025-03-21,01:33:00,Pembersihan,99,Ruang Tamu,53,TF-404,Rudi Hartono,87
+369,2025-03-28,18:59:00,Pod Terbang,16,Langit Fiktif,43,Tidak Ada,Ani Wijaya,112
+370,2025-03-06,21:28:00,Pod Terbang,78,Jalan Fiktif A,70,TF-404,Siti Aminah,261
+371,2025-03-23,18:03:00,Pembersihan,120,Ruang Tamu,41,PT-502,Ani Wijaya,191
+372,2025-03-06,20:00:00,Pembersihan,95,Langit Fiktif,70,PT-502,Joko Susilo,314
+373,2025-03-06,18:38:00,Motor,78,Kamar Tidur,21,TF-404,Budi Santoso,129
+374,2025-03-05,15:20:00,Pembersihan,100,Kamar Tidur,82,Tidak Ada,Budi Santoso,261
+375,2025-03-10,19:57:00,Pod Terbang,62,Ruang Tamu,77,Tidak Ada,Ani Wijaya,152
+376,2025-03-29,14:46:00,Pod Terbang,19,Ruang Tamu,45,BO-707,Budi Santoso,103
+377,2025-03-25,11:11:00,Mobil,61,Ruang Tamu,22,PT-502,Siti Aminah,52
+378,2025-03-25,19:31:00,Mobil,115,Kamar Tidur,74,Tidak Ada,Joko Susilo,181
+379,2025-03-30,03:15:00,Mobil,76,Dapur,42,Tidak Ada,Joko Susilo,203
+380,2025-03-01,23:20:00,Motor,64,Jalan Fiktif A,97,PR-101,Rudi Hartono,347
+381,2025-03-20,17:56:00,Pembersihan,47,Kamar Tidur,42,PT-502,Siti Aminah,75
+382,2025-03-22,22:17:00,Mobil,69,Kamar Tidur,89,TF-404,Ani Wijaya,55
+383,2025-03-14,14:58:00,Motor,65,Kamar Tidur,47,BO-707,Ani Wijaya,307
+384,2025-03-27,22:59:00,Pembersihan,59,Jalan Fiktif A,21,Tidak Ada,Ani Wijaya,352
+385,2025-03-12,17:26:00,Mobil,114,Jalan Fiktif A,79,TF-404,Budi Santoso,317
+386,2025-03-30,20:35:00,Motor,56,Kamar Tidur,75,Tidak Ada,Budi Santoso,349
+387,2025-03-14,20:02:00,Motor,15,Kamar Tidur,91,CL-303,Ani Wijaya,56
+388,2025-03-24,09:13:00,Motor,69,Jalan Fiktif A,30,Tidak Ada,Rudi Hartono,93
+389,2025-03-11,12:58:00,Pembersihan,105,Ruang Tamu,43,PT-502,Joko Susilo,303
+390,2025-03-01,05:12:00,Motor,75,Dapur,45,PT-502,Siti Aminah,113
+391,2025-03-13,22:52:00,Motor,33,Kamar Tidur,69,PT-502,Siti Aminah,375
+392,2025-03-19,20:41:00,Pembersihan,36,Langit Fiktif,79,BO-707,Ani Wijaya,350
+393,2025-03-02,15:32:00,Pod Terbang,111,Ruang Tamu,69,Tidak Ada,Budi Santoso,123
+394,2025-03-20,14:46:00,Motor,99,Dapur,76,Tidak Ada,Joko Susilo,319
+395,2025-03-04,11:17:00,Pendamping,71,Langit Fiktif,33,Tidak Ada,Siti Aminah,220
+396,2025-03-05,13:54:00,Pendamping,72,Ruang Tamu,100,TF-404,Budi Santoso,153
+397,2025-03-29,06:10:00,Mobil,114,Dapur,23,BO-707,Rudi Hartono,144
+398,2025-03-02,21:28:00,Mobil,69,Langit Fiktif,50,Tidak Ada,Rudi Hartono,148
+399,2025-03-18,23:27:00,Motor,39,Ruang Tamu,63,Tidak Ada,Siti Aminah,93
+400,2025-03-30,04:55:00,Pembersihan,105,Ruang Tamu,47,Tidak Ada,Joko Susilo,289
+401,2025-03-17,21:33:00,Pod Terbang,36,Kamar Tidur,21,Tidak Ada,Rudi Hartono,187
+402,2025-03-04,14:22:00,Motor,62,Jalan Fiktif A,21,TF-404,Rudi Hartono,166
+403,2025-03-22,12:18:00,Pendamping,86,Ruang Tamu,22,Tidak Ada,Rudi Hartono,145
+404,2025-03-22,05:42:00,Pod Terbang,43,Jalan Fiktif A,25,Tidak Ada,Ani Wijaya,280
+405,2025-03-21,22:31:00,Pod Terbang,99,Ruang Tamu,53,PT-502,Ani Wijaya,199
+406,2025-03-07,00:45:00,Mobil,96,Jalan Fiktif A,37,CL-303,Joko Susilo,380
+407,2025-03-30,19:36:00,Mobil,63,Jalan Fiktif A,29,Tidak Ada,Rudi Hartono,58
+408,2025-03-08,17:24:00,Pod Terbang,25,Ruang Tamu,71,Tidak Ada,Budi Santoso,315
+409,2025-03-16,15:29:00,Pendamping,19,Dapur,74,Tidak Ada,Joko Susilo,290
+410,2025-03-04,07:08:00,Mobil,41,Jalan Fiktif A,86,Tidak Ada,Ani Wijaya,320
+411,2025-03-21,02:51:00,Mobil,36,Kamar Tidur,48,TF-404,Rudi Hartono,111
+412,2025-03-11,16:08:00,Pembersihan,20,Jalan Fiktif A,83,Tidak Ada,Ani Wijaya,94
+413,2025-03-01,04:07:00,Pod Terbang,26,Dapur,51,Tidak Ada,Budi Santoso,207
+414,2025-03-24,04:13:00,Pendamping,79,Dapur,80,Tidak Ada,Joko Susilo,216
+415,2025-03-13,00:55:00,Pembersihan,99,Dapur,25,BO-707,Ani Wijaya,210
+416,2025-03-23,06:47:00,Pendamping,107,Dapur,82,PT-502,Siti Aminah,348
+417,2025-03-12,23:14:00,Pembersihan,103,Jalan Fiktif A,90,Tidak Ada,Joko Susilo,386
+418,2025-03-24,23:22:00,Pembersihan,19,Dapur,43,Tidak Ada,Siti Aminah,173
+419,2025-03-04,08:28:00,Mobil,28,Jalan Fiktif A,75,PR-101,Joko Susilo,350
+420,2025-03-30,08:45:00,Motor,17,Kamar Tidur,59,BO-707,Siti Aminah,367
+421,2025-03-28,04:20:00,Motor,38,Kamar Tidur,67,Tidak Ada,Joko Susilo,362
+422,2025-03-01,17:36:00,Pendamping,117,Jalan Fiktif A,87,Tidak Ada,Siti Aminah,129
+423,2025-03-22,22:01:00,Motor,90,Kamar Tidur,69,PR-101,Budi Santoso,216
+424,2025-03-05,12:08:00,Pembersihan,58,Langit Fiktif,80,Tidak Ada,Rudi Hartono,252
+425,2025-03-23,22:11:00,Pendamping,18,Langit Fiktif,77,Tidak Ada,Joko Susilo,153
+426,2025-03-19,12:01:00,Pod Terbang,76,Langit Fiktif,58,CL-303,Budi Santoso,384
+427,2025-03-13,04:27:00,Pod Terbang,77,Ruang Tamu,97,TF-404,Ani Wijaya,357
+428,2025-03-15,15:08:00,Motor,33,Dapur,20,BO-707,Rudi Hartono,79
+429,2025-03-31,13:30:00,Motor,100,Langit Fiktif,38,BO-707,Rudi Hartono,164
+430,2025-03-02,01:23:00,Pembersihan,88,Langit Fiktif,75,Tidak Ada,Joko Susilo,209
+431,2025-03-27,08:51:00,Pendamping,79,Langit Fiktif,25,PT-502,Rudi Hartono,376
+432,2025-03-21,23:25:00,Pembersihan,69,Jalan Fiktif A,82,PR-101,Siti Aminah,245
+433,2025-03-08,17:32:00,Pembersihan,33,Kamar Tidur,43,Tidak Ada,Joko Susilo,332
+434,2025-03-10,13:00:00,Pod Terbang,57,Kamar Tidur,85,TF-404,Ani Wijaya,284
+435,2025-03-18,23:31:00,Mobil,42,Langit Fiktif,22,Tidak Ada,Siti Aminah,152
+436,2025-03-25,11:13:00,Mobil,66,Jalan Fiktif A,56,BO-707,Rudi Hartono,302
+437,2025-03-19,13:27:00,Pembersihan,114,Kamar Tidur,40,Tidak Ada,Siti Aminah,221
+438,2025-03-22,14:38:00,Pod Terbang,104,Kamar Tidur,73,Tidak Ada,Budi Santoso,168
+439,2025-03-16,13:22:00,Pembersihan,70,Dapur,66,Tidak Ada,Budi Santoso,124
+440,2025-03-21,16:46:00,Pod Terbang,67,Langit Fiktif,65,Tidak Ada,Joko Susilo,164
+441,2025-03-25,11:07:00,Pod Terbang,94,Ruang Tamu,47,Tidak Ada,Rudi Hartono,220
+442,2025-03-22,10:18:00,Pod Terbang,29,Kamar Tidur,50,PR-101,Budi Santoso,198
+443,2025-03-18,12:08:00,Pendamping,15,Kamar Tidur,100,Tidak Ada,Joko Susilo,130
+444,2025-03-10,14:37:00,Motor,71,Kamar Tidur,24,CL-303,Budi Santoso,164
+445,2025-03-23,20:19:00,Pod Terbang,74,Jalan Fiktif A,91,Tidak Ada,Rudi Hartono,132
+446,2025-03-21,13:36:00,Mobil,67,Langit Fiktif,23,Tidak Ada,Budi Santoso,159
+447,2025-03-27,09:53:00,Pod Terbang,66,Kamar Tidur,28,PT-502,Joko Susilo,375
+448,2025-03-01,16:13:00,Pembersihan,68,Langit Fiktif,82,Tidak Ada,Rudi Hartono,296
+449,2025-03-24,02:24:00,Mobil,88,Dapur,46,BO-707,Siti Aminah,105
+450,2025-03-09,06:57:00,Mobil,72,Jalan Fiktif A,96,Tidak Ada,Siti Aminah,255
+451,2025-03-21,09:05:00,Pod Terbang,118,Kamar Tidur,59,Tidak Ada,Joko Susilo,125
+452,2025-03-09,22:04:00,Pod Terbang,87,Ruang Tamu,42,Tidak Ada,Rudi Hartono,57
+453,2025-03-25,00:55:00,Motor,80,Kamar Tidur,64,BO-707,Siti Aminah,175
+454,2025-03-28,11:40:00,Pembersihan,32,Langit Fiktif,47,Tidak Ada,Siti Aminah,353
+455,2025-03-02,23:17:00,Pembersihan,13,Jalan Fiktif A,50,Tidak Ada,Joko Susilo,63
+456,2025-03-21,23:45:00,Mobil,27,Dapur,70,PT-502,Joko Susilo,309
+457,2025-03-13,02:13:00,Pod Terbang,112,Dapur,90,Tidak Ada,Rudi Hartono,333
+458,2025-03-12,09:35:00,Pod Terbang,33,Dapur,71,CL-303,Joko Susilo,143
+459,2025-03-23,05:46:00,Pendamping,111,Ruang Tamu,88,Tidak Ada,Joko Susilo,113
+460,2025-03-01,19:59:00,Motor,66,Ruang Tamu,46,PT-502,Siti Aminah,82
+461,2025-03-02,00:59:00,Pembersihan,49,Jalan Fiktif A,72,TF-404,Ani Wijaya,126
+462,2025-03-24,00:23:00,Pembersihan,80,Kamar Tidur,50,Tidak Ada,Joko Susilo,316
+463,2025-03-11,00:56:00,Pendamping,29,Dapur,76,BO-707,Siti Aminah,345
+464,2025-03-31,03:31:00,Mobil,106,Langit Fiktif,75,Tidak Ada,Joko Susilo,193
+465,2025-03-29,01:20:00,Pembersihan,63,Langit Fiktif,96,CL-303,Ani Wijaya,301
+466,2025-03-24,17:59:00,Mobil,96,Jalan Fiktif A,94,Tidak Ada,Joko Susilo,259
+467,2025-03-07,07:08:00,Mobil,52,Jalan Fiktif A,21,Tidak Ada,Joko Susilo,399
+468,2025-03-04,23:13:00,Pod Terbang,90,Jalan Fiktif A,47,BO-707,Siti Aminah,143
+469,2025-03-28,19:35:00,Mobil,30,Ruang Tamu,93,Tidak Ada,Budi Santoso,60
+470,2025-03-27,14:39:00,Pembersihan,66,Langit Fiktif,68,BO-707,Joko Susilo,296
+471,2025-03-28,16:26:00,Pembersihan,65,Dapur,45,Tidak Ada,Budi Santoso,133
+472,2025-03-24,01:35:00,Motor,76,Kamar Tidur,63,Tidak Ada,Joko Susilo,265
+473,2025-03-16,10:54:00,Motor,39,Dapur,30,Tidak Ada,Joko Susilo,282
+474,2025-03-04,21:27:00,Pendamping,52,Ruang Tamu,88,CL-303,Siti Aminah,123
+475,2025-03-15,03:19:00,Mobil,94,Ruang Tamu,50,Tidak Ada,Rudi Hartono,113
+476,2025-03-03,08:36:00,Mobil,115,Dapur,88,PR-101,Siti Aminah,200
+477,2025-03-31,10:22:00,Mobil,115,Jalan Fiktif A,75,Tidak Ada,Budi Santoso,350
+478,2025-03-04,05:23:00,Mobil,85,Dapur,36,BO-707,Budi Santoso,86
+479,2025-03-28,04:11:00,Mobil,36,Dapur,43,Tidak Ada,Ani Wijaya,64
+480,2025-03-17,20:35:00,Pod Terbang,56,Dapur,66,Tidak Ada,Joko Susilo,56
+481,2025-03-24,12:16:00,Pembersihan,62,Jalan Fiktif A,37,Tidak Ada,Joko Susilo,301
+482,2025-03-21,22:15:00,Motor,109,Kamar Tidur,40,TF-404,Siti Aminah,363
+483,2025-03-24,22:56:00,Mobil,114,Dapur,28,Tidak Ada,Siti Aminah,227
+484,2025-03-10,13:36:00,Pendamping,57,Jalan Fiktif A,40,TF-404,Ani Wijaya,200
+485,2025-03-11,22:08:00,Pembersihan,56,Langit Fiktif,88,Tidak Ada,Budi Santoso,323
+486,2025-03-17,09:44:00,Pod Terbang,112,Kamar Tidur,58,PT-502,Rudi Hartono,396
+487,2025-03-24,16:12:00,Mobil,118,Kamar Tidur,74,TF-404,Rudi Hartono,118
+488,2025-03-22,11:24:00,Motor,107,Ruang Tamu,52,PR-101,Budi Santoso,61
+489,2025-03-13,00:18:00,Pendamping,60,Ruang Tamu,72,Tidak Ada,Ani Wijaya,145
+490,2025-03-24,08:34:00,Pendamping,73,Langit Fiktif,75,Tidak Ada,Siti Aminah,84
+491,2025-03-07,09:30:00,Pendamping,49,Ruang Tamu,96,PR-101,Joko Susilo,348
+492,2025-03-19,03:37:00,Pod Terbang,93,Ruang Tamu,31,Tidak Ada,Rudi Hartono,289
+493,2025-03-17,10:12:00,Motor,19,Langit Fiktif,86,TF-404,Joko Susilo,61
+494,2025-03-22,19:19:00,Pendamping,24,Ruang Tamu,36,Tidak Ada,Ani Wijaya,263
+495,2025-03-14,02:06:00,Pembersihan,85,Dapur,49,Tidak Ada,Rudi Hartono,217
+496,2025-03-31,19:51:00,Motor,120,Kamar Tidur,83,CL-303,Budi Santoso,92
+497,2025-03-22,17:26:00,Pod Terbang,114,Kamar Tidur,83,CL-303,Joko Susilo,59
+498,2025-03-07,07:24:00,Pod Terbang,47,Langit Fiktif,39,Tidak Ada,Ani Wijaya,128
+499,2025-03-16,02:16:00,Motor,112,Dapur,41,Tidak Ada,Rudi Hartono,233
+500,2025-03-27,15:42:00,Mobil,72,Langit Fiktif,57,Tidak Ada,Rudi Hartono,206
+501,2025-03-08,19:17:00,Motor,41,Ruang Tamu,39,Tidak Ada,Budi Santoso,299
+502,2025-03-20,04:08:00,Mobil,33,Ruang Tamu,68,Tidak Ada,Siti Aminah,50
+503,2025-03-11,05:44:00,Pod Terbang,54,Langit Fiktif,65,Tidak Ada,Rudi Hartono,321
+504,2025-03-28,23:46:00,Pod Terbang,30,Kamar Tidur,44,PR-101,Rudi Hartono,332
+505,2025-03-20,14:16:00,Pembersihan,77,Kamar Tidur,27,PR-101,Joko Susilo,214
+506,2025-03-02,08:49:00,Pod Terbang,105,Dapur,72,Tidak Ada,Rudi Hartono,355
+507,2025-03-27,17:09:00,Pod Terbang,46,Jalan Fiktif A,29,BO-707,Ani Wijaya,287
+508,2025-03-05,19:10:00,Pendamping,10,Kamar Tidur,92,Tidak Ada,Joko Susilo,330
+509,2025-03-27,14:43:00,Mobil,14,Kamar Tidur,43,Tidak Ada,Ani Wijaya,299
+510,2025-03-01,22:37:00,Pod Terbang,90,Dapur,49,Tidak Ada,Ani Wijaya,318
+511,2025-03-06,08:41:00,Pod Terbang,79,Kamar Tidur,58,Tidak Ada,Siti Aminah,264
+512,2025-03-09,12:08:00,Motor,114,Dapur,78,CL-303,Budi Santoso,133
+513,2025-03-31,03:54:00,Pendamping,85,Kamar Tidur,75,PR-101,Siti Aminah,70
+514,2025-03-30,14:12:00,Pembersihan,43,Kamar Tidur,84,Tidak Ada,Rudi Hartono,290
+515,2025-03-04,13:50:00,Mobil,24,Jalan Fiktif A,33,PR-101,Rudi Hartono,273
+516,2025-03-05,13:03:00,Mobil,10,Kamar Tidur,77,PR-101,Ani Wijaya,318
+517,2025-03-06,07:54:00,Mobil,41,Langit Fiktif,32,Tidak Ada,Ani Wijaya,289
+518,2025-03-11,14:04:00,Motor,92,Jalan Fiktif A,76,CL-303,Ani Wijaya,177
+519,2025-03-08,15:46:00,Pod Terbang,115,Langit Fiktif,68,Tidak Ada,Joko Susilo,293
+520,2025-03-11,19:20:00,Mobil,64,Langit Fiktif,74,Tidak Ada,Ani Wijaya,268
+521,2025-03-27,00:39:00,Mobil,48,Ruang Tamu,52,Tidak Ada,Joko Susilo,144
+522,2025-03-31,13:28:00,Motor,111,Ruang Tamu,21,TF-404,Rudi Hartono,334
+523,2025-03-17,23:01:00,Pendamping,29,Langit Fiktif,59,BO-707,Siti Aminah,327
+524,2025-03-06,18:25:00,Motor,92,Ruang Tamu,74,Tidak Ada,Ani Wijaya,148
+525,2025-03-19,13:44:00,Motor,102,Jalan Fiktif A,75,Tidak Ada,Budi Santoso,349
+526,2025-03-22,14:22:00,Mobil,55,Jalan Fiktif A,33,TF-404,Rudi Hartono,175
+527,2025-03-23,15:06:00,Pembersihan,12,Kamar Tidur,99,Tidak Ada,Rudi Hartono,57
+528,2025-03-22,03:28:00,Mobil,34,Dapur,34,PT-502,Joko Susilo,160
+529,2025-03-31,23:28:00,Mobil,69,Langit Fiktif,66,Tidak Ada,Ani Wijaya,192
+530,2025-03-27,12:13:00,Motor,72,Kamar Tidur,45,PR-101,Joko Susilo,66
+531,2025-03-06,12:56:00,Pendamping,15,Ruang Tamu,51,PT-502,Ani Wijaya,284
+532,2025-03-30,09:09:00,Motor,23,Kamar Tidur,46,CL-303,Siti Aminah,65
+533,2025-03-18,20:20:00,Pembersihan,111,Ruang Tamu,90,Tidak Ada,Budi Santoso,207
+534,2025-03-31,02:10:00,Pendamping,98,Langit Fiktif,65,Tidak Ada,Ani Wijaya,243
+535,2025-03-19,02:56:00,Pod Terbang,113,Langit Fiktif,96,PT-502,Budi Santoso,374
+536,2025-03-25,17:49:00,Pod Terbang,69,Kamar Tidur,99,BO-707,Siti Aminah,247
+537,2025-03-25,10:54:00,Pendamping,32,Dapur,81,CL-303,Budi Santoso,372
+538,2025-03-14,07:48:00,Mobil,79,Kamar Tidur,73,PT-502,Siti Aminah,225
+539,2025-03-18,01:03:00,Motor,67,Jalan Fiktif A,40,Tidak Ada,Joko Susilo,261
+540,2025-03-24,20:38:00,Mobil,110,Ruang Tamu,21,Tidak Ada,Budi Santoso,299
+541,2025-03-09,07:19:00,Pembersihan,112,Langit Fiktif,66,TF-404,Siti Aminah,378
+542,2025-03-21,05:01:00,Mobil,45,Langit Fiktif,38,Tidak Ada,Siti Aminah,187
+543,2025-03-16,02:24:00,Pembersihan,55,Jalan Fiktif A,52,PR-101,Ani Wijaya,357
+544,2025-03-04,18:14:00,Motor,115,Ruang Tamu,44,Tidak Ada,Joko Susilo,135
+545,2025-03-13,04:12:00,Mobil,35,Ruang Tamu,77,Tidak Ada,Budi Santoso,84
+546,2025-03-06,13:46:00,Motor,42,Jalan Fiktif A,42,Tidak Ada,Siti Aminah,279
+547,2025-03-22,16:16:00,Pembersihan,117,Jalan Fiktif A,32,CL-303,Ani Wijaya,140
+548,2025-03-05,20:09:00,Mobil,97,Langit Fiktif,54,PT-502,Ani Wijaya,254
+549,2025-03-13,12:25:00,Motor,86,Jalan Fiktif A,22,Tidak Ada,Ani Wijaya,266
+550,2025-03-28,16:23:00,Pendamping,32,Dapur,66,Tidak Ada,Rudi Hartono,300
+551,2025-03-11,17:19:00,Pendamping,89,Jalan Fiktif A,76,PT-502,Siti Aminah,196
+552,2025-03-20,16:38:00,Pod Terbang,20,Ruang Tamu,38,Tidak Ada,Budi Santoso,321
+553,2025-03-29,07:03:00,Mobil,46,Kamar Tidur,69,TF-404,Budi Santoso,216
+554,2025-03-22,14:30:00,Pembersihan,92,Kamar Tidur,41,PT-502,Ani Wijaya,250
+555,2025-03-17,15:34:00,Pembersihan,110,Dapur,28,Tidak Ada,Ani Wijaya,103
+556,2025-03-05,08:48:00,Pod Terbang,57,Dapur,36,Tidak Ada,Siti Aminah,70
+557,2025-03-23,18:36:00,Mobil,100,Kamar Tidur,82,Tidak Ada,Ani Wijaya,71
+558,2025-03-23,20:34:00,Pod Terbang,28,Jalan Fiktif A,48,PR-101,Joko Susilo,54
+559,2025-03-01,03:13:00,Motor,31,Dapur,87,Tidak Ada,Ani Wijaya,354
+560,2025-03-28,14:10:00,Motor,113,Dapur,27,Tidak Ada,Joko Susilo,394
+561,2025-03-06,11:31:00,Mobil,38,Ruang Tamu,78,PT-502,Joko Susilo,378
+562,2025-03-06,03:35:00,Pembersihan,50,Langit Fiktif,65,Tidak Ada,Ani Wijaya,143
+563,2025-03-19,21:54:00,Pendamping,16,Kamar Tidur,77,PT-502,Joko Susilo,168
+564,2025-03-04,13:12:00,Mobil,34,Jalan Fiktif A,22,PR-101,Joko Susilo,340
+565,2025-03-08,11:53:00,Pendamping,20,Kamar Tidur,64,PR-101,Ani Wijaya,165
+566,2025-03-25,05:14:00,Pod Terbang,61,Langit Fiktif,84,Tidak Ada,Budi Santoso,132
+567,2025-03-27,20:59:00,Pod Terbang,56,Jalan Fiktif A,93,TF-404,Joko Susilo,225
+568,2025-03-08,22:26:00,Pembersihan,49,Langit Fiktif,59,PT-502,Budi Santoso,369
+569,2025-03-31,08:54:00,Pod Terbang,50,Dapur,53,Tidak Ada,Budi Santoso,302
+570,2025-03-09,17:20:00,Pembersihan,72,Kamar Tidur,52,Tidak Ada,Ani Wijaya,112
+571,2025-03-09,12:54:00,Pod Terbang,42,Kamar Tidur,40,Tidak Ada,Joko Susilo,68
+572,2025-03-23,03:37:00,Pendamping,118,Ruang Tamu,22,Tidak Ada,Joko Susilo,239
+573,2025-03-16,16:49:00,Pendamping,97,Ruang Tamu,32,Tidak Ada,Rudi Hartono,324
+574,2025-03-30,11:57:00,Pendamping,57,Ruang Tamu,84,Tidak Ada,Budi Santoso,92
+575,2025-03-30,14:11:00,Pod Terbang,67,Jalan Fiktif A,76,PR-101,Joko Susilo,242
+576,2025-03-05,05:46:00,Pembersihan,58,Ruang Tamu,70,BO-707,Joko Susilo,293
+577,2025-03-22,12:48:00,Pendamping,99,Kamar Tidur,20,PR-101,Ani Wijaya,215
+578,2025-03-03,04:41:00,Pendamping,97,Jalan Fiktif A,49,PT-502,Siti Aminah,273
+579,2025-03-19,21:57:00,Motor,97,Langit Fiktif,63,CL-303,Ani Wijaya,301
+580,2025-03-25,14:58:00,Pendamping,65,Kamar Tidur,79,TF-404,Siti Aminah,172
+581,2025-03-07,19:28:00,Pendamping,39,Jalan Fiktif A,24,CL-303,Joko Susilo,263
+582,2025-03-16,03:18:00,Pod Terbang,37,Dapur,85,Tidak Ada,Budi Santoso,308
+583,2025-03-27,11:57:00,Pembersihan,11,Dapur,83,Tidak Ada,Budi Santoso,304
+584,2025-03-29,12:04:00,Pembersihan,48,Kamar Tidur,82,Tidak Ada,Budi Santoso,203
+585,2025-03-12,23:17:00,Pod Terbang,63,Jalan Fiktif A,66,Tidak Ada,Ani Wijaya,133
+586,2025-03-25,08:21:00,Motor,20,Kamar Tidur,89,Tidak Ada,Joko Susilo,242
+587,2025-03-30,05:37:00,Motor,38,Kamar Tidur,22,PR-101,Joko Susilo,387
+588,2025-03-26,02:57:00,Pembersihan,19,Dapur,33,Tidak Ada,Ani Wijaya,275
+589,2025-03-17,00:43:00,Motor,72,Dapur,85,CL-303,Ani Wijaya,64
+590,2025-03-11,05:53:00,Pod Terbang,73,Kamar Tidur,84,Tidak Ada,Siti Aminah,212
+591,2025-03-30,03:44:00,Motor,47,Kamar Tidur,69,BO-707,Siti Aminah,124
+592,2025-03-29,09:01:00,Motor,47,Dapur,53,Tidak Ada,Ani Wijaya,321
+593,2025-03-24,19:39:00,Pembersihan,11,Ruang Tamu,79,CL-303,Ani Wijaya,191
+594,2025-03-20,05:17:00,Pendamping,52,Langit Fiktif,69,Tidak Ada,Ani Wijaya,234
+595,2025-03-18,10:06:00,Pendamping,37,Langit Fiktif,46,Tidak Ada,Ani Wijaya,226
+596,2025-03-13,21:06:00,Mobil,110,Jalan Fiktif A,40,Tidak Ada,Rudi Hartono,320
+597,2025-03-28,18:08:00,Motor,13,Langit Fiktif,53,PR-101,Budi Santoso,72
+598,2025-03-02,20:03:00,Pod Terbang,16,Langit Fiktif,65,BO-707,Joko Susilo,334
+599,2025-03-17,22:20:00,Pod Terbang,111,Ruang Tamu,34,Tidak Ada,Rudi Hartono,115
+600,2025-03-17,20:25:00,Motor,93,Dapur,54,Tidak Ada,Ani Wijaya,73
+601,2025-03-15,13:46:00,Pod Terbang,25,Ruang Tamu,66,TF-404,Siti Aminah,108
+602,2025-03-06,12:32:00,Pod Terbang,119,Jalan Fiktif A,58,BO-707,Joko Susilo,248
+603,2025-03-07,15:16:00,Pod Terbang,27,Jalan Fiktif A,51,PT-502,Rudi Hartono,332
+604,2025-03-12,18:15:00,Pod Terbang,12,Kamar Tidur,39,BO-707,Ani Wijaya,140
+605,2025-03-20,22:20:00,Motor,39,Jalan Fiktif A,79,PT-502,Ani Wijaya,191
+606,2025-03-22,05:57:00,Mobil,34,Ruang Tamu,29,Tidak Ada,Siti Aminah,274
+607,2025-03-30,01:52:00,Pembersihan,93,Dapur,82,BO-707,Siti Aminah,224
+608,2025-03-10,04:54:00,Pembersihan,61,Jalan Fiktif A,23,PT-502,Budi Santoso,381
+609,2025-03-09,13:40:00,Mobil,55,Kamar Tidur,50,Tidak Ada,Rudi Hartono,111
+610,2025-03-21,11:36:00,Mobil,49,Langit Fiktif,100,PR-101,Ani Wijaya,215
+611,2025-03-25,16:44:00,Mobil,94,Ruang Tamu,95,TF-404,Rudi Hartono,190
+612,2025-03-11,10:40:00,Motor,114,Jalan Fiktif A,95,PT-502,Budi Santoso,126
+613,2025-03-02,18:15:00,Mobil,99,Dapur,93,Tidak Ada,Siti Aminah,112
+614,2025-03-12,13:14:00,Mobil,85,Jalan Fiktif A,93,CL-303,Ani Wijaya,203
+615,2025-03-22,22:38:00,Mobil,13,Dapur,38,PT-502,Siti Aminah,301
+616,2025-03-27,10:55:00,Pendamping,60,Langit Fiktif,57,BO-707,Rudi Hartono,345
+617,2025-03-24,08:41:00,Pod Terbang,114,Langit Fiktif,38,CL-303,Budi Santoso,202
+618,2025-03-27,07:16:00,Mobil,119,Kamar Tidur,40,PR-101,Rudi Hartono,274
+619,2025-03-03,11:11:00,Pembersihan,102,Ruang Tamu,23,BO-707,Rudi Hartono,280
+620,2025-03-19,12:18:00,Pendamping,55,Dapur,94,Tidak Ada,Ani Wijaya,106
+621,2025-03-26,04:57:00,Motor,61,Ruang Tamu,68,Tidak Ada,Joko Susilo,54
+622,2025-03-17,20:38:00,Pembersihan,60,Ruang Tamu,43,CL-303,Ani Wijaya,174
+623,2025-03-13,22:27:00,Pendamping,12,Jalan Fiktif A,80,Tidak Ada,Siti Aminah,110
+624,2025-03-29,04:52:00,Pod Terbang,72,Ruang Tamu,35,Tidak Ada,Budi Santoso,278
+625,2025-03-22,05:23:00,Motor,113,Langit Fiktif,35,Tidak Ada,Siti Aminah,245
+626,2025-03-21,05:39:00,Motor,96,Kamar Tidur,68,BO-707,Budi Santoso,178
+627,2025-03-29,03:12:00,Motor,80,Jalan Fiktif A,36,Tidak Ada,Budi Santoso,389
+628,2025-03-24,22:08:00,Motor,100,Dapur,56,BO-707,Budi Santoso,203
+629,2025-03-17,04:50:00,Pendamping,33,Jalan Fiktif A,24,Tidak Ada,Rudi Hartono,211
+630,2025-03-27,05:18:00,Pod Terbang,99,Dapur,79,Tidak Ada,Budi Santoso,308
+631,2025-03-15,00:50:00,Motor,118,Langit Fiktif,93,Tidak Ada,Ani Wijaya,293
+632,2025-03-15,17:36:00,Pembersihan,103,Jalan Fiktif A,47,TF-404,Siti Aminah,109
+633,2025-03-07,03:18:00,Pembersihan,32,Jalan Fiktif A,72,Tidak Ada,Budi Santoso,51
+634,2025-03-23,20:37:00,Mobil,49,Dapur,37,Tidak Ada,Ani Wijaya,380
+635,2025-03-13,06:06:00,Pembersihan,62,Kamar Tidur,42,PR-101,Ani Wijaya,258
+636,2025-03-15,01:08:00,Motor,40,Kamar Tidur,48,Tidak Ada,Siti Aminah,213
+637,2025-03-23,16:40:00,Pendamping,115,Dapur,36,BO-707,Ani Wijaya,132
+638,2025-03-08,04:33:00,Pembersihan,42,Ruang Tamu,68,PR-101,Joko Susilo,155
+639,2025-03-11,12:24:00,Motor,15,Kamar Tidur,51,PT-502,Rudi Hartono,280
+640,2025-03-24,18:30:00,Pendamping,65,Jalan Fiktif A,67,TF-404,Rudi Hartono,358
+641,2025-03-15,16:28:00,Pembersihan,91,Kamar Tidur,20,Tidak Ada,Joko Susilo,394
+642,2025-03-17,09:46:00,Motor,118,Kamar Tidur,82,Tidak Ada,Rudi Hartono,197
+643,2025-03-06,21:12:00,Pod Terbang,88,Dapur,24,Tidak Ada,Budi Santoso,221
+644,2025-03-17,11:42:00,Pendamping,65,Jalan Fiktif A,78,Tidak Ada,Budi Santoso,244
+645,2025-03-15,23:48:00,Motor,84,Ruang Tamu,72,Tidak Ada,Ani Wijaya,188
+646,2025-03-25,23:41:00,Motor,10,Ruang Tamu,38,Tidak Ada,Rudi Hartono,76
+647,2025-03-20,20:52:00,Pembersihan,23,Ruang Tamu,55,PT-502,Rudi Hartono,249
+648,2025-03-22,00:37:00,Pod Terbang,97,Jalan Fiktif A,30,PR-101,Budi Santoso,324
+649,2025-03-31,23:06:00,Pendamping,44,Kamar Tidur,62,Tidak Ada,Ani Wijaya,242
+650,2025-03-24,04:35:00,Pendamping,114,Kamar Tidur,27,PT-502,Siti Aminah,117
+651,2025-03-23,18:56:00,Pembersihan,14,Ruang Tamu,61,CL-303,Joko Susilo,279
+652,2025-03-17,00:04:00,Pendamping,83,Dapur,20,Tidak Ada,Siti Aminah,254
+653,2025-03-04,03:16:00,Mobil,113,Kamar Tidur,85,PR-101,Siti Aminah,381
+654,2025-03-04,23:01:00,Pendamping,90,Kamar Tidur,34,Tidak Ada,Joko Susilo,314
+655,2025-03-05,15:35:00,Pod Terbang,20,Dapur,35,Tidak Ada,Rudi Hartono,328
+656,2025-03-28,19:30:00,Pod Terbang,66,Langit Fiktif,32,PR-101,Ani Wijaya,384
+657,2025-03-24,07:44:00,Motor,64,Langit Fiktif,60,PT-502,Budi Santoso,175
+658,2025-03-28,23:20:00,Pod Terbang,53,Ruang Tamu,58,BO-707,Rudi Hartono,280
+659,2025-03-24,00:43:00,Pendamping,71,Langit Fiktif,93,CL-303,Budi Santoso,98
+660,2025-03-29,10:08:00,Mobil,39,Dapur,36,TF-404,Ani Wijaya,82
+661,2025-03-07,07:07:00,Motor,83,Dapur,79,Tidak Ada,Siti Aminah,151
+662,2025-03-12,04:06:00,Pendamping,76,Kamar Tidur,90,Tidak Ada,Siti Aminah,279
+663,2025-03-28,08:10:00,Pembersihan,57,Jalan Fiktif A,29,CL-303,Joko Susilo,173
+664,2025-03-27,04:41:00,Pendamping,89,Langit Fiktif,33,Tidak Ada,Siti Aminah,385
+665,2025-03-11,05:58:00,Pod Terbang,22,Dapur,56,TF-404,Budi Santoso,81
+666,2025-03-25,17:39:00,Motor,49,Jalan Fiktif A,26,Tidak Ada,Joko Susilo,394
+667,2025-03-06,22:48:00,Motor,105,Jalan Fiktif A,92,PT-502,Joko Susilo,353
+668,2025-03-24,01:50:00,Mobil,16,Kamar Tidur,46,TF-404,Ani Wijaya,217
+669,2025-03-20,11:38:00,Motor,105,Kamar Tidur,96,Tidak Ada,Ani Wijaya,366
+670,2025-03-07,02:30:00,Pendamping,103,Jalan Fiktif A,52,PT-502,Ani Wijaya,110
+671,2025-03-09,11:28:00,Pembersihan,117,Jalan Fiktif A,98,TF-404,Joko Susilo,133
+672,2025-03-27,15:41:00,Pembersihan,115,Jalan Fiktif A,21,Tidak Ada,Siti Aminah,234
+673,2025-03-03,14:41:00,Motor,24,Langit Fiktif,21,CL-303,Ani Wijaya,75
+674,2025-03-23,06:21:00,Mobil,104,Langit Fiktif,26,Tidak Ada,Siti Aminah,250
+675,2025-03-03,21:53:00,Pod Terbang,85,Jalan Fiktif A,38,Tidak Ada,Rudi Hartono,308
+676,2025-03-07,21:22:00,Pembersihan,37,Kamar Tidur,75,Tidak Ada,Rudi Hartono,261
+677,2025-03-21,19:22:00,Mobil,44,Dapur,86,Tidak Ada,Ani Wijaya,309
+678,2025-03-28,17:37:00,Pendamping,61,Kamar Tidur,29,CL-303,Budi Santoso,366
+679,2025-03-17,05:44:00,Mobil,111,Jalan Fiktif A,60,BO-707,Siti Aminah,161
+680,2025-03-14,17:56:00,Mobil,110,Ruang Tamu,87,PT-502,Joko Susilo,200
+681,2025-03-26,01:44:00,Motor,113,Dapur,37,BO-707,Siti Aminah,286
+682,2025-03-10,16:25:00,Mobil,34,Jalan Fiktif A,46,CL-303,Ani Wijaya,263
+683,2025-03-22,14:39:00,Pendamping,81,Ruang Tamu,69,Tidak Ada,Joko Susilo,258
+684,2025-03-10,23:42:00,Pembersihan,48,Jalan Fiktif A,42,TF-404,Ani Wijaya,263
+685,2025-03-07,08:57:00,Pod Terbang,66,Dapur,57,Tidak Ada,Budi Santoso,333
+686,2025-03-17,20:59:00,Pendamping,64,Langit Fiktif,79,Tidak Ada,Joko Susilo,118
+687,2025-03-25,13:23:00,Pembersihan,108,Jalan Fiktif A,69,CL-303,Siti Aminah,337
+688,2025-03-11,01:31:00,Motor,45,Kamar Tidur,78,PR-101,Siti Aminah,161
+689,2025-03-31,04:03:00,Pod Terbang,43,Jalan Fiktif A,59,PR-101,Rudi Hartono,349
+690,2025-03-20,04:27:00,Pod Terbang,17,Langit Fiktif,20,Tidak Ada,Budi Santoso,224
+691,2025-03-29,09:33:00,Pendamping,45,Jalan Fiktif A,88,Tidak Ada,Rudi Hartono,322
+692,2025-03-24,03:20:00,Pod Terbang,63,Langit Fiktif,57,TF-404,Ani Wijaya,321
+693,2025-03-28,05:39:00,Pod Terbang,33,Dapur,58,CL-303,Joko Susilo,381
+694,2025-03-01,05:14:00,Motor,39,Dapur,91,BO-707,Rudi Hartono,286
+695,2025-03-31,15:31:00,Pod Terbang,116,Kamar Tidur,83,PR-101,Budi Santoso,151
+696,2025-03-27,20:28:00,Pembersihan,47,Jalan Fiktif A,39,TF-404,Rudi Hartono,265
+697,2025-03-17,18:18:00,Motor,73,Langit Fiktif,47,Tidak Ada,Budi Santoso,304
+698,2025-03-18,00:09:00,Pendamping,19,Ruang Tamu,90,BO-707,Siti Aminah,225
+699,2025-03-04,05:52:00,Mobil,37,Jalan Fiktif A,88,BO-707,Ani Wijaya,356
+700,2025-03-24,22:36:00,Mobil,43,Langit Fiktif,91,Tidak Ada,Siti Aminah,209
+701,2025-03-13,02:05:00,Pendamping,99,Dapur,81,BO-707,Joko Susilo,183
+702,2025-03-24,09:40:00,Mobil,98,Jalan Fiktif A,53,PT-502,Siti Aminah,320
+703,2025-03-08,05:01:00,Pendamping,38,Dapur,35,BO-707,Ani Wijaya,128
+704,2025-03-04,22:18:00,Pod Terbang,61,Dapur,85,Tidak Ada,Siti Aminah,348
+705,2025-03-30,13:21:00,Pendamping,83,Langit Fiktif,100,CL-303,Siti Aminah,152
+706,2025-03-11,07:02:00,Pembersihan,72,Langit Fiktif,25,Tidak Ada,Rudi Hartono,295
+707,2025-03-09,04:31:00,Pod Terbang,48,Kamar Tidur,55,Tidak Ada,Ani Wijaya,167
+708,2025-03-11,00:53:00,Mobil,28,Langit Fiktif,47,Tidak Ada,Budi Santoso,221
+709,2025-03-03,07:00:00,Pod Terbang,12,Ruang Tamu,54,TF-404,Ani Wijaya,152
+710,2025-03-15,12:34:00,Pendamping,89,Jalan Fiktif A,52,PT-502,Ani Wijaya,72
+711,2025-03-09,20:27:00,Mobil,104,Langit Fiktif,58,Tidak Ada,Ani Wijaya,144
+712,2025-03-21,16:00:00,Pod Terbang,111,Langit Fiktif,30,Tidak Ada,Joko Susilo,178
+713,2025-03-21,18:22:00,Mobil,120,Ruang Tamu,26,Tidak Ada,Siti Aminah,184
+714,2025-03-05,08:38:00,Motor,17,Kamar Tidur,81,PT-502,Siti Aminah,94
+715,2025-03-11,06:12:00,Pendamping,27,Langit Fiktif,89,Tidak Ada,Joko Susilo,372
+716,2025-03-06,04:49:00,Pembersihan,109,Ruang Tamu,80,CL-303,Ani Wijaya,122
+717,2025-03-15,18:22:00,Pendamping,18,Langit Fiktif,42,Tidak Ada,Ani Wijaya,264
+718,2025-03-03,16:47:00,Motor,36,Ruang Tamu,69,CL-303,Joko Susilo,311
+719,2025-03-16,15:57:00,Mobil,94,Ruang Tamu,92,Tidak Ada,Budi Santoso,334
+720,2025-03-07,06:21:00,Pembersihan,95,Kamar Tidur,99,Tidak Ada,Joko Susilo,352
+721,2025-03-25,00:50:00,Mobil,80,Kamar Tidur,75,TF-404,Budi Santoso,233
+722,2025-03-11,03:31:00,Pod Terbang,21,Ruang Tamu,27,Tidak Ada,Ani Wijaya,158
+723,2025-03-05,17:13:00,Motor,77,Jalan Fiktif A,65,Tidak Ada,Siti Aminah,222
+724,2025-03-16,08:51:00,Motor,48,Dapur,80,Tidak Ada,Rudi Hartono,273
+725,2025-03-22,17:23:00,Pembersihan,55,Ruang Tamu,97,TF-404,Budi Santoso,275
+726,2025-03-01,13:35:00,Pembersihan,46,Langit Fiktif,66,Tidak Ada,Rudi Hartono,213
+727,2025-03-03,23:43:00,Pembersihan,120,Langit Fiktif,80,Tidak Ada,Ani Wijaya,209
+728,2025-03-06,10:48:00,Pembersihan,108,Ruang Tamu,74,BO-707,Joko Susilo,114
+729,2025-03-04,06:24:00,Pendamping,16,Kamar Tidur,35,BO-707,Budi Santoso,370
+730,2025-03-06,21:24:00,Motor,16,Langit Fiktif,96,CL-303,Siti Aminah,60
+731,2025-03-07,23:10:00,Motor,70,Jalan Fiktif A,44,PT-502,Budi Santoso,319
+732,2025-03-08,13:33:00,Pod Terbang,109,Dapur,62,TF-404,Joko Susilo,94
+733,2025-03-02,16:48:00,Pod Terbang,32,Ruang Tamu,92,TF-404,Siti Aminah,280
+734,2025-03-03,06:25:00,Pod Terbang,46,Ruang Tamu,74,TF-404,Siti Aminah,223
+735,2025-03-20,14:50:00,Pod Terbang,21,Dapur,57,PT-502,Budi Santoso,280
+736,2025-03-30,09:18:00,Pendamping,94,Ruang Tamu,46,Tidak Ada,Siti Aminah,72
+737,2025-03-11,16:11:00,Pembersihan,68,Kamar Tidur,89,Tidak Ada,Siti Aminah,166
+738,2025-03-03,09:31:00,Mobil,108,Dapur,78,CL-303,Ani Wijaya,382
+739,2025-03-31,05:27:00,Pendamping,93,Ruang Tamu,69,PR-101,Siti Aminah,322
+740,2025-03-01,06:58:00,Mobil,19,Langit Fiktif,23,Tidak Ada,Rudi Hartono,285
+741,2025-03-19,20:30:00,Pod Terbang,80,Jalan Fiktif A,47,Tidak Ada,Rudi Hartono,156
+742,2025-03-13,07:13:00,Mobil,54,Jalan Fiktif A,47,Tidak Ada,Joko Susilo,139
+743,2025-03-14,20:10:00,Pod Terbang,117,Kamar Tidur,27,Tidak Ada,Ani Wijaya,166
+744,2025-03-28,19:46:00,Pendamping,19,Dapur,73,Tidak Ada,Ani Wijaya,376
+745,2025-03-18,18:53:00,Mobil,113,Kamar Tidur,53,PT-502,Siti Aminah,123
+746,2025-03-14,13:53:00,Mobil,18,Ruang Tamu,34,CL-303,Budi Santoso,109
+747,2025-03-13,19:40:00,Motor,85,Dapur,46,Tidak Ada,Ani Wijaya,386
+748,2025-03-18,08:50:00,Mobil,95,Dapur,100,Tidak Ada,Siti Aminah,109
+749,2025-03-26,21:55:00,Pod Terbang,95,Jalan Fiktif A,55,Tidak Ada,Ani Wijaya,279
+750,2025-03-23,14:39:00,Pendamping,26,Dapur,59,TF-404,Joko Susilo,100
+751,2025-03-20,12:39:00,Mobil,47,Dapur,54,Tidak Ada,Siti Aminah,365
+752,2025-03-29,03:44:00,Pod Terbang,53,Dapur,80,Tidak Ada,Ani Wijaya,357
+753,2025-03-19,15:27:00,Mobil,28,Ruang Tamu,99,Tidak Ada,Budi Santoso,338
+754,2025-03-27,00:24:00,Motor,115,Langit Fiktif,26,Tidak Ada,Budi Santoso,131
+755,2025-03-15,18:33:00,Mobil,48,Jalan Fiktif A,68,Tidak Ada,Ani Wijaya,190
+756,2025-03-24,09:01:00,Pembersihan,98,Jalan Fiktif A,30,PR-101,Rudi Hartono,245
+757,2025-03-15,16:29:00,Pod Terbang,87,Kamar Tidur,87,Tidak Ada,Rudi Hartono,308
+758,2025-03-31,22:09:00,Pendamping,116,Jalan Fiktif A,44,TF-404,Joko Susilo,352
+759,2025-03-11,09:13:00,Mobil,110,Dapur,90,TF-404,Budi Santoso,398
+760,2025-03-02,20:47:00,Mobil,95,Kamar Tidur,70,PT-502,Ani Wijaya,166
+761,2025-03-26,01:57:00,Mobil,46,Ruang Tamu,23,BO-707,Siti Aminah,141
+762,2025-03-10,10:29:00,Mobil,47,Langit Fiktif,54,TF-404,Siti Aminah,310
+763,2025-03-26,23:50:00,Mobil,21,Dapur,32,CL-303,Siti Aminah,176
+764,2025-03-23,08:06:00,Mobil,56,Jalan Fiktif A,79,Tidak Ada,Ani Wijaya,59
+765,2025-03-27,02:45:00,Pendamping,85,Jalan Fiktif A,24,CL-303,Budi Santoso,193
+766,2025-03-16,09:25:00,Motor,102,Ruang Tamu,71,Tidak Ada,Siti Aminah,255
+767,2025-03-24,10:42:00,Motor,93,Kamar Tidur,37,Tidak Ada,Joko Susilo,374
+768,2025-03-19,19:12:00,Pod Terbang,24,Dapur,70,Tidak Ada,Ani Wijaya,287
+769,2025-03-03,01:19:00,Motor,31,Ruang Tamu,22,PT-502,Rudi Hartono,270
+770,2025-03-12,06:32:00,Pod Terbang,28,Kamar Tidur,53,PR-101,Ani Wijaya,144
+771,2025-03-05,22:01:00,Pod Terbang,111,Langit Fiktif,32,PT-502,Siti Aminah,241
+772,2025-03-08,15:18:00,Motor,37,Ruang Tamu,98,Tidak Ada,Ani Wijaya,275
+773,2025-03-27,04:05:00,Pembersihan,102,Kamar Tidur,51,Tidak Ada,Joko Susilo,187
+774,2025-03-13,17:55:00,Pod Terbang,21,Langit Fiktif,77,PT-502,Rudi Hartono,82
+775,2025-03-18,04:33:00,Pod Terbang,107,Jalan Fiktif A,73,Tidak Ada,Ani Wijaya,60
+776,2025-03-24,21:12:00,Motor,60,Ruang Tamu,48,Tidak Ada,Rudi Hartono,277
+777,2025-03-08,19:23:00,Motor,91,Kamar Tidur,51,Tidak Ada,Budi Santoso,341
+778,2025-03-17,01:36:00,Mobil,86,Kamar Tidur,95,Tidak Ada,Joko Susilo,64
+779,2025-03-14,01:23:00,Mobil,21,Jalan Fiktif A,41,BO-707,Siti Aminah,98
+780,2025-03-11,10:39:00,Pod Terbang,22,Jalan Fiktif A,48,TF-404,Siti Aminah,275
+781,2025-03-17,20:06:00,Pendamping,48,Kamar Tidur,66,Tidak Ada,Siti Aminah,148
+782,2025-03-02,17:13:00,Mobil,35,Kamar Tidur,31,PT-502,Siti Aminah,396
+783,2025-03-19,10:46:00,Pendamping,110,Dapur,80,Tidak Ada,Siti Aminah,223
+784,2025-03-15,14:22:00,Motor,104,Ruang Tamu,98,Tidak Ada,Joko Susilo,126
+785,2025-03-24,19:57:00,Mobil,108,Langit Fiktif,63,Tidak Ada,Ani Wijaya,327
+786,2025-03-14,06:49:00,Pod Terbang,57,Kamar Tidur,47,CL-303,Rudi Hartono,315
+787,2025-03-24,06:42:00,Pod Terbang,117,Jalan Fiktif A,37,PR-101,Rudi Hartono,194
+788,2025-03-10,21:09:00,Motor,114,Jalan Fiktif A,85,Tidak Ada,Joko Susilo,94
+789,2025-03-03,13:44:00,Pembersihan,34,Kamar Tidur,99,Tidak Ada,Ani Wijaya,151
+790,2025-03-18,01:42:00,Pod Terbang,78,Kamar Tidur,23,Tidak Ada,Ani Wijaya,306
+791,2025-03-04,22:43:00,Pembersihan,21,Jalan Fiktif A,71,PR-101,Budi Santoso,239
+792,2025-03-05,12:06:00,Pod Terbang,96,Ruang Tamu,95,PT-502,Siti Aminah,276
+793,2025-03-01,10:14:00,Pod Terbang,87,Jalan Fiktif A,69,CL-303,Rudi Hartono,313
+794,2025-03-23,09:19:00,Pod Terbang,11,Langit Fiktif,86,PT-502,Ani Wijaya,382
+795,2025-03-14,14:35:00,Pod Terbang,85,Dapur,39,PT-502,Siti Aminah,262
+796,2025-03-20,22:14:00,Motor,87,Kamar Tidur,71,Tidak Ada,Siti Aminah,350
+797,2025-03-19,20:06:00,Motor,105,Jalan Fiktif A,56,TF-404,Siti Aminah,213
+798,2025-03-21,12:20:00,Pendamping,94,Dapur,36,CL-303,Ani Wijaya,163
+799,2025-03-12,01:57:00,Mobil,71,Jalan Fiktif A,93,Tidak Ada,Ani Wijaya,120
+800,2025-03-07,20:52:00,Pembersihan,21,Jalan Fiktif A,58,Tidak Ada,Siti Aminah,209
+801,2025-03-07,21:18:00,Pembersihan,37,Ruang Tamu,95,Tidak Ada,Joko Susilo,321
+802,2025-03-21,11:07:00,Pod Terbang,53,Jalan Fiktif A,70,CL-303,Siti Aminah,368
+803,2025-03-18,07:31:00,Motor,33,Jalan Fiktif A,44,PR-101,Budi Santoso,264
+804,2025-03-31,18:26:00,Motor,106,Dapur,83,Tidak Ada,Joko Susilo,165
+805,2025-03-06,01:12:00,Pembersihan,53,Langit Fiktif,42,Tidak Ada,Budi Santoso,292
+806,2025-03-24,13:13:00,Motor,112,Jalan Fiktif A,31,TF-404,Rudi Hartono,130
+807,2025-03-25,16:47:00,Motor,60,Kamar Tidur,33,PT-502,Budi Santoso,208
+808,2025-03-09,07:57:00,Mobil,30,Jalan Fiktif A,54,Tidak Ada,Joko Susilo,149
+809,2025-03-10,14:25:00,Pendamping,29,Jalan Fiktif A,22,BO-707,Ani Wijaya,188
+810,2025-03-27,02:16:00,Mobil,56,Ruang Tamu,70,TF-404,Ani Wijaya,159
+811,2025-03-23,14:05:00,Pod Terbang,61,Dapur,84,Tidak Ada,Budi Santoso,243
+812,2025-03-24,17:52:00,Pendamping,102,Langit Fiktif,23,TF-404,Joko Susilo,254
+813,2025-03-30,06:38:00,Pendamping,39,Langit Fiktif,20,Tidak Ada,Rudi Hartono,205
+814,2025-03-22,15:58:00,Pod Terbang,17,Langit Fiktif,58,Tidak Ada,Budi Santoso,282
+815,2025-03-30,13:06:00,Motor,13,Dapur,47,Tidak Ada,Budi Santoso,61
+816,2025-03-23,04:44:00,Pembersihan,88,Ruang Tamu,78,Tidak Ada,Rudi Hartono,263
+817,2025-03-30,01:49:00,Motor,18,Langit Fiktif,72,TF-404,Joko Susilo,365
+818,2025-03-26,15:56:00,Pembersihan,47,Dapur,52,Tidak Ada,Siti Aminah,363
+819,2025-03-23,08:36:00,Motor,115,Langit Fiktif,52,Tidak Ada,Joko Susilo,248
+820,2025-03-19,08:53:00,Motor,80,Jalan Fiktif A,21,PT-502,Ani Wijaya,160
+821,2025-03-12,01:51:00,Pendamping,76,Langit Fiktif,22,Tidak Ada,Rudi Hartono,338
+822,2025-03-05,09:58:00,Pendamping,12,Kamar Tidur,36,TF-404,Ani Wijaya,238
+823,2025-03-02,21:51:00,Mobil,106,Kamar Tidur,47,Tidak Ada,Budi Santoso,203
+824,2025-03-05,11:11:00,Pembersihan,14,Kamar Tidur,52,Tidak Ada,Budi Santoso,183
+825,2025-03-13,19:51:00,Pembersihan,15,Kamar Tidur,23,TF-404,Rudi Hartono,124
+826,2025-03-26,15:17:00,Motor,12,Kamar Tidur,50,Tidak Ada,Rudi Hartono,195
+827,2025-03-10,12:16:00,Motor,98,Ruang Tamu,26,BO-707,Joko Susilo,159
+828,2025-03-11,20:15:00,Pod Terbang,96,Kamar Tidur,21,CL-303,Joko Susilo,348
+829,2025-03-31,21:38:00,Motor,64,Ruang Tamu,25,Tidak Ada,Budi Santoso,345
+830,2025-03-11,08:02:00,Mobil,74,Dapur,41,BO-707,Siti Aminah,384
+831,2025-03-21,18:33:00,Pod Terbang,64,Kamar Tidur,55,Tidak Ada,Budi Santoso,284
+832,2025-03-23,03:52:00,Pendamping,40,Langit Fiktif,68,Tidak Ada,Siti Aminah,57
+833,2025-03-12,20:46:00,Mobil,10,Kamar Tidur,79,Tidak Ada,Joko Susilo,242
+834,2025-03-25,16:48:00,Motor,119,Jalan Fiktif A,44,PR-101,Siti Aminah,200
+835,2025-03-06,07:35:00,Pod Terbang,14,Kamar Tidur,54,Tidak Ada,Siti Aminah,276
+836,2025-03-07,09:14:00,Pendamping,77,Kamar Tidur,22,Tidak Ada,Rudi Hartono,139
+837,2025-03-20,10:45:00,Motor,88,Ruang Tamu,73,Tidak Ada,Rudi Hartono,237
+838,2025-03-24,02:22:00,Pembersihan,53,Kamar Tidur,59,Tidak Ada,Budi Santoso,314
+839,2025-03-01,13:04:00,Pod Terbang,12,Langit Fiktif,62,CL-303,Ani Wijaya,246
+840,2025-03-27,11:03:00,Mobil,100,Ruang Tamu,54,Tidak Ada,Rudi Hartono,246
+841,2025-03-03,10:14:00,Mobil,102,Kamar Tidur,57,Tidak Ada,Siti Aminah,203
+842,2025-03-27,15:14:00,Pod Terbang,77,Ruang Tamu,43,PT-502,Joko Susilo,354
+843,2025-03-11,20:53:00,Pod Terbang,95,Ruang Tamu,34,Tidak Ada,Ani Wijaya,276
+844,2025-03-19,07:11:00,Mobil,95,Jalan Fiktif A,25,Tidak Ada,Siti Aminah,94
+845,2025-03-21,22:15:00,Pod Terbang,12,Kamar Tidur,53,BO-707,Siti Aminah,382
+846,2025-03-30,22:39:00,Mobil,65,Dapur,56,CL-303,Siti Aminah,116
+847,2025-03-08,09:03:00,Motor,96,Kamar Tidur,97,CL-303,Rudi Hartono,187
+848,2025-03-03,00:50:00,Pod Terbang,49,Kamar Tidur,41,BO-707,Rudi Hartono,334
+849,2025-03-30,02:53:00,Pendamping,116,Langit Fiktif,72,Tidak Ada,Siti Aminah,272
+850,2025-03-12,03:23:00,Pod Terbang,93,Jalan Fiktif A,30,Tidak Ada,Joko Susilo,154
+851,2025-03-31,12:25:00,Mobil,75,Kamar Tidur,59,Tidak Ada,Joko Susilo,151
+852,2025-03-05,05:11:00,Motor,83,Ruang Tamu,25,PR-101,Budi Santoso,104
+853,2025-03-07,00:35:00,Motor,10,Jalan Fiktif A,39,CL-303,Budi Santoso,225
+854,2025-03-23,13:01:00,Pod Terbang,68,Kamar Tidur,34,Tidak Ada,Joko Susilo,85
+855,2025-03-09,00:11:00,Pendamping,102,Ruang Tamu,57,CL-303,Siti Aminah,218
+856,2025-03-06,17:26:00,Mobil,44,Jalan Fiktif A,96,CL-303,Joko Susilo,311
+857,2025-03-16,16:46:00,Pendamping,111,Kamar Tidur,55,Tidak Ada,Rudi Hartono,111
+858,2025-03-21,02:39:00,Mobil,51,Langit Fiktif,67,PT-502,Joko Susilo,236
+859,2025-03-09,08:31:00,Pembersihan,95,Jalan Fiktif A,39,PR-101,Ani Wijaya,291
+860,2025-03-12,16:08:00,Pendamping,120,Jalan Fiktif A,59,Tidak Ada,Rudi Hartono,81
+861,2025-03-02,14:28:00,Mobil,92,Langit Fiktif,92,Tidak Ada,Joko Susilo,346
+862,2025-03-31,16:07:00,Motor,27,Ruang Tamu,40,PT-502,Budi Santoso,359
+863,2025-03-11,03:27:00,Pod Terbang,69,Jalan Fiktif A,54,PR-101,Budi Santoso,88
+864,2025-03-05,07:02:00,Pendamping,118,Langit Fiktif,100,Tidak Ada,Siti Aminah,164
+865,2025-03-09,04:23:00,Mobil,78,Langit Fiktif,28,Tidak Ada,Siti Aminah,144
+866,2025-03-23,08:53:00,Pendamping,22,Dapur,89,Tidak Ada,Rudi Hartono,149
+867,2025-03-30,21:57:00,Pendamping,30,Langit Fiktif,85,Tidak Ada,Siti Aminah,332
+868,2025-03-01,15:08:00,Pod Terbang,29,Dapur,28,CL-303,Budi Santoso,140
+869,2025-03-03,21:00:00,Pod Terbang,17,Kamar Tidur,43,PR-101,Budi Santoso,320
+870,2025-03-30,14:48:00,Motor,63,Langit Fiktif,81,PT-502,Ani Wijaya,119
+871,2025-03-11,03:34:00,Pod Terbang,84,Jalan Fiktif A,33,Tidak Ada,Budi Santoso,223
+872,2025-03-25,15:09:00,Motor,103,Jalan Fiktif A,70,CL-303,Siti Aminah,337
+873,2025-03-05,02:36:00,Pendamping,12,Jalan Fiktif A,61,Tidak Ada,Rudi Hartono,266
+874,2025-03-10,03:58:00,Pod Terbang,103,Kamar Tidur,90,BO-707,Ani Wijaya,279
+875,2025-03-15,05:47:00,Motor,35,Dapur,89,PR-101,Siti Aminah,229
+876,2025-03-23,04:55:00,Pod Terbang,43,Langit Fiktif,59,Tidak Ada,Ani Wijaya,186
+877,2025-03-11,14:29:00,Mobil,31,Ruang Tamu,47,CL-303,Joko Susilo,360
+878,2025-03-02,03:24:00,Pembersihan,89,Ruang Tamu,91,BO-707,Rudi Hartono,365
+879,2025-03-13,16:49:00,Pendamping,76,Ruang Tamu,83,BO-707,Budi Santoso,128
+880,2025-03-21,09:41:00,Motor,72,Langit Fiktif,56,Tidak Ada,Ani Wijaya,214
+881,2025-03-19,03:30:00,Motor,37,Kamar Tidur,67,Tidak Ada,Rudi Hartono,398
+882,2025-03-18,20:47:00,Pod Terbang,50,Dapur,77,PT-502,Joko Susilo,270
+883,2025-03-23,02:34:00,Pendamping,10,Ruang Tamu,29,Tidak Ada,Joko Susilo,67
+884,2025-03-08,22:58:00,Pendamping,114,Jalan Fiktif A,90,BO-707,Rudi Hartono,132
+885,2025-03-03,01:39:00,Motor,64,Jalan Fiktif A,37,Tidak Ada,Budi Santoso,161
+886,2025-03-09,16:14:00,Pod Terbang,23,Kamar Tidur,33,CL-303,Ani Wijaya,281
+887,2025-03-02,12:22:00,Pendamping,120,Dapur,93,Tidak Ada,Siti Aminah,388
+888,2025-03-23,06:46:00,Mobil,37,Dapur,55,BO-707,Rudi Hartono,379
+889,2025-03-01,02:22:00,Motor,103,Kamar Tidur,72,Tidak Ada,Siti Aminah,257
+890,2025-03-07,11:32:00,Pendamping,59,Ruang Tamu,74,Tidak Ada,Ani Wijaya,185
+891,2025-03-01,20:23:00,Motor,53,Kamar Tidur,23,PT-502,Budi Santoso,108
+892,2025-03-10,02:56:00,Pendamping,34,Dapur,68,BO-707,Siti Aminah,352
+893,2025-03-15,22:27:00,Pendamping,70,Kamar Tidur,62,CL-303,Joko Susilo,230
+894,2025-03-19,02:56:00,Pembersihan,23,Jalan Fiktif A,97,BO-707,Ani Wijaya,109
+895,2025-03-08,19:55:00,Pembersihan,58,Dapur,56,Tidak Ada,Joko Susilo,153
+896,2025-03-09,16:23:00,Pembersihan,114,Langit Fiktif,42,Tidak Ada,Siti Aminah,211
+897,2025-03-12,19:53:00,Pendamping,52,Langit Fiktif,71,CL-303,Joko Susilo,237
+898,2025-03-27,02:21:00,Mobil,78,Langit Fiktif,89,Tidak Ada,Rudi Hartono,205
+899,2025-03-26,04:36:00,Mobil,28,Dapur,76,PR-101,Siti Aminah,265
+900,2025-03-08,00:45:00,Mobil,91,Ruang Tamu,83,TF-404,Siti Aminah,267
+901,2025-03-01,22:36:00,Motor,96,Langit Fiktif,52,PT-502,Siti Aminah,286
+902,2025-03-14,20:38:00,Mobil,107,Langit Fiktif,36,Tidak Ada,Joko Susilo,168
+903,2025-03-23,00:47:00,Mobil,82,Ruang Tamu,52,Tidak Ada,Ani Wijaya,174
+904,2025-03-05,05:51:00,Pembersihan,73,Ruang Tamu,39,Tidak Ada,Ani Wijaya,355
+905,2025-03-12,08:07:00,Pembersihan,70,Langit Fiktif,82,TF-404,Rudi Hartono,232
+906,2025-03-07,05:50:00,Pembersihan,99,Kamar Tidur,32,Tidak Ada,Rudi Hartono,326
+907,2025-03-15,23:27:00,Pendamping,27,Ruang Tamu,36,TF-404,Budi Santoso,105
+908,2025-03-21,10:00:00,Mobil,26,Jalan Fiktif A,57,Tidak Ada,Siti Aminah,165
+909,2025-03-29,13:28:00,Pembersihan,82,Jalan Fiktif A,48,Tidak Ada,Rudi Hartono,328
+910,2025-03-25,11:14:00,Pembersihan,58,Ruang Tamu,64,BO-707,Budi Santoso,159
+911,2025-03-31,18:11:00,Motor,11,Jalan Fiktif A,49,Tidak Ada,Joko Susilo,190
+912,2025-03-10,19:55:00,Pendamping,21,Langit Fiktif,35,PR-101,Rudi Hartono,369
+913,2025-03-02,06:52:00,Mobil,83,Jalan Fiktif A,29,BO-707,Rudi Hartono,115
+914,2025-03-06,07:49:00,Mobil,34,Kamar Tidur,85,Tidak Ada,Rudi Hartono,235
+915,2025-03-27,23:50:00,Pembersihan,92,Ruang Tamu,36,Tidak Ada,Rudi Hartono,241
+916,2025-03-06,19:32:00,Pod Terbang,117,Dapur,57,PR-101,Siti Aminah,244
+917,2025-03-12,23:17:00,Mobil,43,Jalan Fiktif A,59,Tidak Ada,Budi Santoso,316
+918,2025-03-01,02:59:00,Mobil,67,Ruang Tamu,58,BO-707,Joko Susilo,133
+919,2025-03-17,19:38:00,Pendamping,38,Langit Fiktif,62,Tidak Ada,Siti Aminah,309
+920,2025-03-11,06:24:00,Motor,116,Kamar Tidur,33,TF-404,Joko Susilo,77
+921,2025-03-29,09:55:00,Pod Terbang,104,Jalan Fiktif A,43,Tidak Ada,Joko Susilo,145
+922,2025-03-30,06:07:00,Pembersihan,94,Jalan Fiktif A,86,CL-303,Joko Susilo,367
+923,2025-03-30,09:37:00,Motor,99,Ruang Tamu,23,Tidak Ada,Joko Susilo,280
+924,2025-03-18,19:37:00,Pembersihan,82,Kamar Tidur,52,Tidak Ada,Siti Aminah,117
+925,2025-03-26,02:46:00,Pembersihan,106,Ruang Tamu,68,Tidak Ada,Rudi Hartono,191
+926,2025-03-24,02:31:00,Pod Terbang,76,Jalan Fiktif A,48,Tidak Ada,Budi Santoso,230
+927,2025-03-13,14:21:00,Pendamping,50,Ruang Tamu,45,Tidak Ada,Ani Wijaya,185
+928,2025-03-14,21:41:00,Motor,46,Kamar Tidur,28,Tidak Ada,Budi Santoso,181
+929,2025-03-13,06:32:00,Pendamping,53,Ruang Tamu,36,Tidak Ada,Siti Aminah,127
+930,2025-03-04,03:35:00,Pendamping,115,Ruang Tamu,66,PT-502,Siti Aminah,87
+931,2025-03-07,00:00:00,Mobil,34,Jalan Fiktif A,98,TF-404,Joko Susilo,244
+932,2025-03-22,23:04:00,Pembersihan,103,Dapur,44,PT-502,Siti Aminah,321
+933,2025-03-24,05:08:00,Pod Terbang,16,Jalan Fiktif A,27,TF-404,Rudi Hartono,251
+934,2025-03-23,11:24:00,Motor,21,Dapur,32,Tidak Ada,Rudi Hartono,179
+935,2025-03-17,22:43:00,Pembersihan,104,Jalan Fiktif A,91,Tidak Ada,Joko Susilo,53
+936,2025-03-12,13:06:00,Pod Terbang,77,Langit Fiktif,29,Tidak Ada,Siti Aminah,240
+937,2025-03-14,22:26:00,Pembersihan,88,Ruang Tamu,32,Tidak Ada,Budi Santoso,333
+938,2025-03-04,15:53:00,Mobil,88,Dapur,69,PR-101,Siti Aminah,328
+939,2025-03-31,10:17:00,Pendamping,44,Ruang Tamu,37,TF-404,Budi Santoso,315
+940,2025-03-06,17:28:00,Mobil,54,Langit Fiktif,33,TF-404,Ani Wijaya,276
+941,2025-03-24,02:03:00,Pod Terbang,117,Kamar Tidur,81,BO-707,Joko Susilo,58
+942,2025-03-09,10:30:00,Mobil,57,Langit Fiktif,67,PR-101,Siti Aminah,180
+943,2025-03-27,01:56:00,Pod Terbang,98,Langit Fiktif,37,Tidak Ada,Rudi Hartono,364
+944,2025-03-15,04:25:00,Pembersihan,119,Dapur,97,CL-303,Ani Wijaya,330
+945,2025-03-29,18:01:00,Pod Terbang,26,Jalan Fiktif A,50,CL-303,Joko Susilo,312
+946,2025-03-24,20:21:00,Motor,114,Jalan Fiktif A,66,PT-502,Joko Susilo,105
+947,2025-03-04,13:34:00,Pod Terbang,31,Jalan Fiktif A,46,PT-502,Budi Santoso,340
+948,2025-03-16,22:42:00,Motor,105,Dapur,100,Tidak Ada,Siti Aminah,110
+949,2025-03-10,21:15:00,Motor,76,Jalan Fiktif A,49,Tidak Ada,Rudi Hartono,81
+950,2025-03-21,23:04:00,Motor,35,Ruang Tamu,67,Tidak Ada,Ani Wijaya,200
+951,2025-03-29,13:41:00,Mobil,12,Kamar Tidur,97,Tidak Ada,Budi Santoso,86
+952,2025-03-15,17:25:00,Mobil,78,Kamar Tidur,71,TF-404,Rudi Hartono,125
+953,2025-03-12,15:47:00,Mobil,116,Ruang Tamu,46,BO-707,Joko Susilo,382
+954,2025-03-15,05:39:00,Pod Terbang,21,Langit Fiktif,59,Tidak Ada,Siti Aminah,295
+955,2025-03-08,12:22:00,Pendamping,91,Dapur,48,Tidak Ada,Siti Aminah,276
+956,2025-03-23,21:50:00,Pembersihan,119,Kamar Tidur,21,Tidak Ada,Siti Aminah,356
+957,2025-03-25,05:20:00,Mobil,54,Langit Fiktif,61,CL-303,Budi Santoso,243
+958,2025-03-28,04:08:00,Pembersihan,108,Dapur,91,Tidak Ada,Rudi Hartono,339
+959,2025-03-29,18:06:00,Pod Terbang,92,Kamar Tidur,34,CL-303,Ani Wijaya,398
+960,2025-03-16,00:00:00,Pembersihan,116,Dapur,95,CL-303,Siti Aminah,382
+961,2025-03-15,01:36:00,Pendamping,113,Jalan Fiktif A,34,TF-404,Ani Wijaya,95
+962,2025-03-13,22:03:00,Mobil,63,Langit Fiktif,47,Tidak Ada,Rudi Hartono,197
+963,2025-03-07,07:01:00,Pembersihan,88,Jalan Fiktif A,100,CL-303,Ani Wijaya,99
+964,2025-03-10,16:25:00,Pod Terbang,114,Kamar Tidur,89,Tidak Ada,Ani Wijaya,377
+965,2025-03-06,02:34:00,Pendamping,89,Ruang Tamu,69,PR-101,Siti Aminah,200
+966,2025-03-15,07:12:00,Pod Terbang,56,Ruang Tamu,68,Tidak Ada,Siti Aminah,108
+967,2025-03-13,16:00:00,Pendamping,22,Langit Fiktif,42,TF-404,Ani Wijaya,394
+968,2025-03-04,06:12:00,Pendamping,120,Langit Fiktif,48,BO-707,Joko Susilo,90
+969,2025-03-24,07:06:00,Pod Terbang,112,Kamar Tidur,96,Tidak Ada,Joko Susilo,310
+970,2025-03-11,06:24:00,Mobil,77,Jalan Fiktif A,35,PR-101,Ani Wijaya,398
+971,2025-03-22,20:28:00,Mobil,100,Kamar Tidur,81,Tidak Ada,Siti Aminah,232
+972,2025-03-01,08:31:00,Mobil,56,Langit Fiktif,54,Tidak Ada,Siti Aminah,218
+973,2025-03-06,03:28:00,Mobil,101,Jalan Fiktif A,36,Tidak Ada,Rudi Hartono,370
+974,2025-03-05,06:14:00,Motor,68,Jalan Fiktif A,100,Tidak Ada,Siti Aminah,233
+975,2025-03-02,19:00:00,Pendamping,68,Dapur,46,Tidak Ada,Rudi Hartono,151
+976,2025-03-04,22:49:00,Motor,109,Jalan Fiktif A,90,BO-707,Siti Aminah,299
+977,2025-03-01,14:39:00,Motor,117,Langit Fiktif,83,CL-303,Ani Wijaya,201
+978,2025-03-02,15:59:00,Mobil,55,Jalan Fiktif A,32,Tidak Ada,Budi Santoso,167
+979,2025-03-02,15:59:00,Mobil,86,Langit Fiktif,43,Tidak Ada,Siti Aminah,393
+980,2025-03-28,13:44:00,Pod Terbang,110,Ruang Tamu,48,Tidak Ada,Ani Wijaya,329
+981,2025-03-06,10:35:00,Pod Terbang,92,Kamar Tidur,55,Tidak Ada,Rudi Hartono,148
+982,2025-03-20,20:38:00,Pendamping,87,Dapur,85,BO-707,Siti Aminah,291
+983,2025-03-31,04:30:00,Pembersihan,118,Ruang Tamu,75,Tidak Ada,Rudi Hartono,373
+984,2025-03-21,13:33:00,Mobil,35,Ruang Tamu,26,Tidak Ada,Siti Aminah,143
+985,2025-03-09,09:22:00,Pembersihan,93,Jalan Fiktif A,84,Tidak Ada,Joko Susilo,177
+986,2025-03-19,05:41:00,Pendamping,10,Ruang Tamu,36,Tidak Ada,Budi Santoso,279
+987,2025-03-24,05:52:00,Pendamping,96,Jalan Fiktif A,85,Tidak Ada,Joko Susilo,358
+988,2025-03-02,04:30:00,Pod Terbang,12,Langit Fiktif,25,Tidak Ada,Siti Aminah,231
+989,2025-03-05,22:56:00,Pendamping,109,Langit Fiktif,54,PR-101,Siti Aminah,388
+990,2025-03-02,02:20:00,Pendamping,66,Langit Fiktif,22,CL-303,Joko Susilo,372
+991,2025-03-20,01:11:00,Pendamping,15,Kamar Tidur,90,Tidak Ada,Budi Santoso,53
+992,2025-03-10,08:11:00,Mobil,36,Ruang Tamu,69,Tidak Ada,Budi Santoso,284
+993,2025-03-14,03:33:00,Pendamping,48,Dapur,67,BO-707,Siti Aminah,90
+994,2025-03-30,18:07:00,Pendamping,115,Jalan Fiktif A,40,Tidak Ada,Budi Santoso,151
+995,2025-03-20,05:05:00,Pembersihan,89,Dapur,88,PT-502,Joko Susilo,325
+996,2025-03-29,17:14:00,Pembersihan,89,Langit Fiktif,41,BO-707,Ani Wijaya,248
+997,2025-03-28,09:28:00,Pendamping,36,Kamar Tidur,38,Tidak Ada,Ani Wijaya,147
+998,2025-03-27,17:49:00,Pendamping,14,Ruang Tamu,70,Tidak Ada,Rudi Hartono,55
+999,2025-03-08,08:32:00,Pod Terbang,63,Langit Fiktif,92,TF-404,Joko Susilo,218
+1000,2025-03-29,06:04:00,Motor,24,Dapur,98,Tidak Ada,Rudi Hartono,192

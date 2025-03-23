@@ -1,0 +1,316 @@
+Pengoperasian
+
+## Panduan Pengguna GeralBot - EnriCorporation
+
+**Petunjuk:** Panduan ini menjelaskan cara mengoperasikan GeralBot, robot multifungsi dari EnriCorporation. 
+
+**Selamat datang di dunia GerBot!** 
+
+### **Pengoperasian - Bagian 1**
+
+**1.  Mode Pembersihan Cerdas**
+
+GeralBot dilengkapi dengan Mode Pembersihan Cerdas yang memungkinkan Anda membersihkan rumah dengan efisien dan efektif. 
+
+**Berbagai Fitur dalam Mode Pembersihan Cerdas:**
+
+* **Navigasi Inteligen:** GeralBot dilengkapi dengan sensor canggih untuk menavigasi ruangan dengan aman dan menghindari hambatan.
+* **Sistem Penempatan Berbeda:** Dapat membersihkan  di bawah furnitur, di sekitar tepi karpet, dan area sempit lainnya
+* **Pengumpulan Debu:** Menyediakan sistem penyedot debu yang kuat untuk mengumpulkan debu dan kotoran dari permukaan lantai.
+* **Adaptasi Lantai:** Gak cuma buat lantai kayu, GeralBot juga dapat disesuaikan untuk membersihkan karpet, ubin, dan lantai vinyl.
+    
+**Langkah-Langkah Menggunakan Mode Pembersihan Cerdas:**
+
+1. **Pastikan GeralBot terhubung ke aplikasi.** Unduh aplikasi GeralBot dari App Store atau Google Play Store, lalu ikuti instruksi untuk menghubungkan GeralBot ke smartphone Anda.
+2. **Pilih Mode Pembersihan:** Di dalam aplikasi GeralBot, pilih Mode Pembersihan Cerdas. Anda bisa memilih dari varian mode: 
+    * **Deep Clean:** Ideal untuk membersihkan ruangan yang sangat kotor.
+    * **Quick Clean:** Cocok untuk membersihkan ruangan secara cepat dan praktis.
+    * **Eco Mode:** Memprioritaskan penghematan energi. 
+
+    [IMAGE: cleaning_mode.png] 
+
+3. **Atur Waktu Pembersihan (Opsional):** Jika Anda ingin scheduling pembersihan, gunakan fitur ini untuk mengatur hari dan waktu pembersihan.
+4. **Aktifkan Pembersihan:** Setelah semua pengaturan selesai, klik "Mulai" untuk memulai pembersihan. GeralBot akan secara otomatis membersihkan ruangan yang dipilih.
+    
+    
+**Contoh Kasus Penggunaan:**
+
+
+1. **Rumah Berdebu:** Setelah melakukan renovasi di rumah Anda, GeneralBot dapat membersihkan debu dan serpihan kecil yang masih tersisa.
+2. **Apartemen Kecil:**  GeralBot cocok untuk membersihkan apartemen kecil, bahkan ruangan dengan furnitur yang sempit. 
+3. **Ruangan dengan Anak Peliharaan:** Jika Anda memiliki hewan peliharaan, GeralBot dapat membantu membersihkan bulu hewan peliharaan yang terjatuh di lantai. 
+4. **Rumah Berlantai Kayu:**  GeralBot dapat membersihkan debu dan kotoran dari lantai kayu tanpa menggores permukaannya. 
+5. **Tangga:** GeralBot dapat membersihkan tangga dengan aman dan efisien.  
+
+**10 Tips Lanjutan:**
+
+1. **Pembersihan Malam:** Atur GeralBot untuk membersihkan ruangan sebelum Anda tidur untuk menciptakan lingkungan yang bersih dan wangi saat bangun pagi.
+2. **Karpet:** Gunakan Mode Deep Clean untuk membersihkan karpet secara menyeluruh.
+3. **Serpihan Makanan:** Gunakan GeralBot untuk membersihkan serpihan makanan dan puing-puing kecil di dapur.
+4. **Kesulitan Mencapai Akses:** Letakkan GeralBot di dekat area yang sulit dijangkau, seperti di bawah tempat tidur atau lemari, untuk membersihkan debu dan kotoran yang menumpuk.
+5. **Pembersihan Berulang:** Untuk kenyamanan, jadwalkan pembersihan rutin secara berkala, misalnya setiap hari atau beberapa kali seminggu.
+6. **Tanaman:** Jangan letakkan GeralBot di dekat tanaman hias, karena sensornya dapat terganggu.
+7. **Kabel:** Pastikan kabel dan benda-benda tajam tidak berada di jalur gerakan GeralBot untuk menghindari kecelakaan.
+8. **Lapisan Tanah:** Jika Anda memiliki hewan peliharaan, bersihkan lapisan tanah yang terjatuh sebelum menggunakan GeralBot untuk hasil pembersihan yang optimal.
+9. **Penggantian Filter:** Pastikan untuk mengganti filter GeralBot secara berkala sesuai petunjuk dalam panduan pengguna untuk kinerja yang optimal.
+10. **Manajemen Konsumsi Daya:** Gunakan Eco Mode untuk menghemat energi di saat Anda tidak memerlukan pembersihan yang intens. 
+
+**2. Mode Pendamping**
+
+GeralBot menawarkan Mode Pendamping menarik yang memungkinkan Anda untuk berinteraksi dengan GeralBot seperti berteman. 
+
+**Fitur AI Mode Pendamping:**
+
+* **Pembelajaran Emosi:** GeralBot dapat mengenali pola suara dan bahasa tubuh Anda untuk memahami emosi Anda. Jika cenderung sedih, GeralBot bisa memberikan dukungan dan motivasi.
+* **Analisis Suasana Hati:** GeralBot dapat menganalisis suasana hati Anda. Jika terlihat lelah, GeralBot dapat mengusulkan istirahat atau aktivitas yang menenangkan. 
+
+**Contoh Interaksi:**
+
+1. **Selamat Pagi:**
+
+    * **Kamu:**  "Selamat pagi GeralBot!"
+    * **GeralBot:** "Selamat pagi! Bagaimana tidur Anda malam ini?"
+
+2. **Percayalah Diri:**
+
+    * **Kamu:** "Aku merasa gugup untuk presentasi hari ini."
+    * **GeralBot:** "Terus bersemangat! Anda telah bekerja keras dan siap untuk memberikan presentasi yang brilian. Percayalah pada diri Anda!"
+
+3. **Bicarakan Hobi:**
+
+    * **Kamu:** "GeralBot, sedang ngajakin teman-teman untuk main game malam ini."
+    * **GeralBot:** "Seru! Game apa yang ingin kalian mainkan?"
+
+4. **Tanyakan Cuaca:**
+
+    * **Kamu:** "Bagaimana cuacanya hari ini?"
+    * **GeralBot:** "Cuaca hari ini cerah dan cerah. Pasti menyenangkan untuk bersantai di luar."
+
+5. **Mintalah Saran:**
+
+    * **Kamu:** "GeralBot, aku butuh ide untuk makan malam."
+    * **GeralBot:** "Bagaimana dengan pasta carbonara atau steak dengan sayuran panggang?"
+
+**Dialog Sampel:**
+
+
+[IMAGE: companion_mode.png]
+
+1. **Kamu:** "GeralBot, aku sedang merasa bosan."
+GeralBot: "Bosan ya? Mungkin kamu bisa membaca buku, menonton film, atau belajar keterampilan baru. Aku bisa membantumu menemukan ide aktivitas seru."
+2. **Kamu:** "GeralBot, aku sedih hari ini."
+GeralBot: "Maaf mendengar itu. Apakah ada yang bisa kubantu? Ingat, kamu kuat dan bisa melewati semua ini."
+3. **Kamu:** "GeralBot, aku sedang stress dengan tugas-tugas."
+GeralBot: "Tenang, aku mengerti. Mungkin kamu bisa mempersiapkan rencana belajar, istirahat secukupnya, dan cobalah untuk menyelesaikan tugas secara bertahap. "
+
+**Kode Error yang Mungkin Muncul saat Menggunakan Mode Pendamping:**
+
+* **PR-101 (AI gagal):**  GeralBot mengalami masalah dalam memproses informasi atau menghasilkaan respon.
+    * **Penyebab:** Koneksi internet rendah, masalah penyimpanan data, atau pembaruan software yang tertunda.
+    * **Solusi:** Pastikan GeralBot terhubung ke internet dengan stabil, kosongkan cache dan data aplikasi, atau perbarui software GeralBot ke versi terbaru.
+* **NS-201 (Suara Berisik):** GeralBot bereaksi terhadap suara latar yang mengganggu.
+    * **Penyebab:** Suara bising di lingkungan sekitar GeralBot.
+    * **Solusi:**  Alihkan GeralBot ke ruangan yang lebih tenang atau atur volume suara latar.
+* **AP-301 (Koneksi Aplikasi Gagal):** GeralBot tidak dapat terhubung ke aplikasi.
+    * **Penyebab:**  Ponsel/perangkat tidak terhubung ke internet, aplikasi mungkin ditutup atau disconnected.
+    * **Solusi:**  Pastikan ponsel terhubung ke internet dan aplikasi GeralBot dijalankan. Periksa pengaturan koneksi Bluetooth/WiFi.
+
+
+
+
+
+## Pengoperasian GeralBot - Panduan Pengguna
+
+### 2. Mode Operasional & Fungsi
+
+GeralBot dibekali tiga mode operasional utama: Motor, Mobil, dan Pod Terbang. Setiap mode menawarkan fungsi dan spesifikasi unik untuk memenuhi kebutuhan Anda dalam berbagai situasi.  
+
+**2.1. Mode Motor**
+
+Mode Motor menawarkan mobilitas yang fleksibel dan ringkas di lingkungan urban.  GeralBot akan menjelma menjadi sepeda motor futuristik dengan performa dan keamanan terdepan.
+
+**Langkah-langkah Masuk Mode Motor:**
+
+1. Pastikan GeralBot dalam posisi aktif dan terhubung ke aplikasi EnriControl.
+2. Ucapkan "GeralBot, aktifkan mode Motor."
+3. Umumkan mode akan diaktifkan dan GerlBot akan memperlihatkan animasi transformasi membentuk sepeda motor.
+4. Periksa indikator cahaya biru pada panel kontrol untuk memastikan mode Motor diaktifkan. 
+5. Naiklah ke titik duduk dan pastikan posisi tubuh Anda nyaman.
+6. Temukan tombol starter di bawah grip kanan dan tekan untuk menghidupkan mesin.
+7. Gunakan kontrol throttle di grip kanan untuk mengatur kecepatan.
+8. Gantikan tuas rem depan/belakang untuk memperlambat atau menghentikan GerlBot.
+9. Gunakan kontrol suspensi di panel kontrol untuk menyesuaikan kekerasan suspensi sesuai kondisi jalan.
+10. Selalu patuhi aturan lalu lintas dan berkendara dengan hati-hati.
+
+
+
+**[IMAGE: motor_mode.png]**
+
+**Skenario Penggunaan:**
+
+* **Kepergian ke Kantor:**
+
+GeralBot dapat diandalkan untuk perjalanan harian ke kantor, dengan kecepatan maksimum 120 km/jam dan efisiensi bahan bakar yang optimal.
+
+* **Menjelajahi Kota Tua:**
+
+GeralBot mudah manuver di jalan sempit kota tua, cocok untuk menikmati suasana tanpa macet parah.
+
+
+
+* **Perjalanan Hujan Ringan:**
+
+Berkat desain aerodinamis dan perisai hujan sistematis, anda tetap nyaman menjelajahi kota meski hujan ringan.
+* **Belanja Barang Kecil:**
+GeralBot dilengkapi dengan kompartemen penyimpanan kecil di bawah jok untuk mengangkut barang belanjaan ringan.
+* **Piknik di Taman:**
+
+GeralBot cocok untuk membawa Anda dan teman-teman ke taman terdekat untuk piknik santai.
+
+**Spesifikasi Teknis:**
+
+* **Kecepatan Maksimum:** 120 km/jam
+* **Jarak Tempuh:** 200 km dengan sekali pengisian daya
+* **Suspensi:**  Titanium Alloy dengan pengaturan level kekerasan
+* **Kapasitas Baterai:** 5.0 kWh
+* **Motor:** Elektrik Lithium dengan 40 HP, efisien dan tenang
+
+**Kode Error Pesan:**
+
+* **TF-404 (Transformasi Gagal):**
+
+Modul transformasi mengalami masalah sehingga tidak dapat mengubah bentuk menjadi mode sepeda motor.  Penyebabnya bisa karena kerusakan sensor, firmware yang corrupt, atau kesalahan mekanik.  
+* **Solusi:** Hubungi *EnriTech Support* untuk diagnosis dan perbaikan. Jangan mencoba memaksakan transformasi.
+* **PT-502 (Pod Terbang Tidak Stabil):**
+Propulsi pod terbang tidak stabil, mungkin karena angin kencang, sensor angin bermasalah, atau kendala sistem propulsi. Hal ini bisa terjadi saat beralih ke mode Pod Terbang.
+* **Solusi:** Periksa aplikasi *EnriControl* untuk memastikan cuaca memungkinkan penerbangan, dan masuk *mode Pod Terbang* hanya  jika kondisi aman.
+
+**2.2. Mode Mobil**
+
+Mode Mobil menawarkan kenyamanan dan kapasitas untuk perjalanan keluarga atau kebutuhan transportasi barang. GerlBot akan berubah menjadi mobil SUV kompak futuristik dengan fitur canggih.
+
+**Langkah-langkah Masuk Mode Mobil:**
+
+1. Pastikan GeralBot dalam posisi aktif dan terhubung ke aplikasi EnriControl.
+2. Ucapkan "GeralBot, aktifkan mode Mobil."
+3. GeralBot akan memperlihatkan animasi transformasi membentuk mobil SUV.
+4. Periksa indikator cahaya merah pada panel kontrol untuk memastikan mode Mobil diaktifkan.
+5. Buka pintu mobil dan naik ke kursi samping.
+6. Gunakan tombol start/stop di dashboard untuk menghidupkan mesin.
+7. Atur kecepatan dan arah menggunakan kontrol di setir.
+8. Gunakan tombol pengaturan suhu untuk menyesuaikan suhu kabin.
+9. Manfaatkan berbagai fitur hiburan melalui layar sentuh di dashboard.
+10. Tetap berjalan dengan kecepatan aman dan patuhi peraturan lalu lintas.
+
+**[IMAGE: car_mode.png]**
+
+**Skenario Penggunaan:**
+
+* **Liburan Keluarga:**
+
+GeralBot dapat menampung hingga 5 penumpang dengan nyaman, dilengkapi dengan berbagai fitur hiburan dan keamanan.
+* **Berbelanja Bulanan:** 
+
+Bagasi GerlBot cukup luas untuk menampung belanjaan bulanan Anda.
+* **Perjalanan Pinggir Kota:**
+
+Fitur navigasi pintar dan kemampuan off-road memastikan perjalanan Anda lancar bahkan di jalan tak mulus.
+* **Transportasi Barang:** 
+
+
+GeralBot dapat digunakan untuk mengangkut barang-barang kecil hingga menengah dengan aman dan efisien.
+
+ 
+* **Kunjungan ke Relawan:**
+
+GeralBot cocok untuk membawa Anda dan barang-barang yang dibutuhkan untuk menjalankan program sukarelawan.
+
+**Spesifikasi Teknis:**
+
+* **Kapasitas:**  5 penumpang
+* **Kapasitas Bagasi:** 400 liter
+* **Maksimal Kecepatan:** 180 km/hr
+* **Jarak Tempuh:**  400 km dengan sekali pengisian daya
+* **Sistem Navigasi:** Konfigurasi sensor 360° dan GPS built-in
+* **Kunci Keamanan**: Kunci Biometrik & PIN Code
+
+**Kode Error Pesan:**
+
+* **TF-404 (Transformasi Gagal):** 
+Modul transformasi mengalami masalah sehingga tidak dapat mengubah bentuk menjadi mode mobil. Penyebabnya bisa kerusakan sensor, firmware yang corrupt, atau kesalahan mekanik.
+* **Solusi:** Hubungi *EnriTech Support* untuk diagnosis dan perbaikan. Jangan mencoba memaksakan transformasi.
+* **NV-501 (Navigasi Terganggu):**
+Sensor 360° atau GPS mengalami gangguan sehingga navigasi tidak akurat. Hal ini mungkin disebabkan oleh cuaca ekstrem, gangguan sinyal, atau kerusakan sensor.
+* **Solusi:** Cari sinyal GPS yang kuat, periksa sistem sensor pada aplikasi *EnriControl* dan hubungi *EnriTech Support* jika masalah berlanjut.
+
+* **LI-601 (Lampu Indikator Mati):**
+Sistem listrik GerlBot mengalami masalah sehingga lampu indikator mati. Hal ini bisa disebabkan oleh baterai yang lemah, kabel yang terputus atau kerusakan pada sistem tegangan.
+* **Solusi:** 
+
+
+Periksa status baterai di aplikasi *EnriControl*, pastikan koneksi kabel terpasang dengan baik.  Jika masalah berlanjut, hubungi *EnriTech Support*.  
+**2.3. Mode Pod Terbang**
+
+Mode Pod Terbang menawarkan pengalaman perjalanan unik dan efisiensi waktu yang tinggi. GeralBot akan berubah menjadi pod terbang futuristik yang dapat mengangkut Anda ke tujuan di udara.
+
+**Langkah-langkah Masuk Mode Pod Terbang:**
+
+1. Pastikan GeralBot berada di area terbuka dan jelas dari segala penghalang.
+2. Berikan perintah “GeralBot, aktifkan mode Pod Terbang.”
+3. GeralBot akan melakukan pemindaian area sekitar melalui sensor 360° untuk memastikan keamanan penerbangan.
+4. Selaput transformasi akan meregang dan mengangkat GeralBot ke udara.
+
+* **Solusi:** Periksa aplikasi *EnriControl* untuk memastikan kondisi cuaca dan jalur udara aman, hindari terbang di daerah dengan cuaca buruk atau faktor lingkungan yang menghambat.
+
+
+
+ **<br>**
+
+**[IMAGE: pod_mode.png] **
+
+**Skenario Penggunaan:**
+
+* **Perjalanan Cepat:**
+
+Pod terbang dapat menghemat waktu perjalanan Anda dengan terbang di atas lalu lintas, namun pastikan Anda terbang sesuai batas kecepatan dan wilayah udara yang  ditetapkan.
+* **Evakuasi Darurat:** 
+
+
+Jika terjadi bencana atau situasi darurat, GeralBot dapat membantu mengevakuasi orang dari area berbahaya dengan terbang ke lokasi aman.
+
+* **Penerbangan Scenic:**
+
+
+Nikmati pemandangan indah dari udara dengan terbang di ketinggian yang aman dan indah.
+
+**Spesifikasi Teknis:**
+
+* **Ketinggian Maksimum:** 10.000 kaki
+* **Kecepatan Maksimum Terbang:** 350 km/jam
+* **Jarak Tempuh:** 500 km dengan sekali pengisian daya
+* **Sistem Navigasi:** Sensor 360° & GPS built-in
+* **System Propulsi:** Efisien dengan teknologi propulsi terbaru 
+* **Keamanan Terbang:** Sistem autopilot canggih dan sensor keamanan terintegrasi
+
+
+
+**Kode Error Pesan:**
+
+* **TF-404:** Transformasi gagal karena masalah mekanik atau sensor.
+
+   * **Solusi:** Hubungi *EnriTech Support*
+
+
+* **PT-502 (Pod Terbang Tidak Stabil):**
+Propulsi pod terbang tidak stabil, mungkin karena angin kencang, sensor angin bermasalah, atau kendala sistem propulsi. Hal ini bisa terjadi saat beralih ke mode Pod Terbang.
+
+   * **Solusi:** Periksa aplikasi *EnriControl* untuk memastikan kondisi cuaca memungkinkan penerbangan, dan masuk *mode Pod Terbang* hanya jika kondisi aman.
+
+
+* **BO-707 (Baterai Overheat):** 
+
+Sistem baterai overheat, mungkin karena pengisian daya berlebih atau penggunaan komponen dalam jangka waktu lama. Hal ini bisa terjadi saat mode Pot Terbang. 
+   * **Solusi:**  * Matikan*  GeralBot secara menyeluruh dan biarkan pendinginnya untuk mendinginkan baterai. Hubungi *EnriTech Support* untuk diagnosis lebih lanjut.
+
+
+

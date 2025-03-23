@@ -1,0 +1,228 @@
+## Panduan Pengguna GeralBot
+
+Selamat datang di dunia fleksibilitas dan efisiensi yang ditawarkan oleh GeralBot, robot multifungsi dari EnriCorporation! GeralBot menemani Anda dalam berbagai aspek kehidupan, dari pekerjaan rumah hingga kegiatan hiburan. Panduan ini akan memandu Anda untuk memaksimalkan kegunaan GeralBot.
+
+**Fitur Utama**:
+
+* **Transformasi**: GeralBot dapat berubah bentuk menjadi berbagai konfigurasi, seperti mode robot, robot terbang (convertiplane), mode robot pembersih, dan mode robot dapur. 
+
+[IMAGE: geralbot_transformasi.png]
+
+* **AI Integritas Tinggi**: GeralBot ditenagai sistem AI canggih yang memungkinkan ia memahami perintah suara dan belajar kebiasaan Anda.
+* **Aplikasi Kontrol**: Kontrol semuanya dari genggaman tangan Anda dengan aplikasi GeralBot yang user-friendly.
+* **Fungsi Multi-guna**: Antarmuka modular memungkinkan GeralBot untuk dipersonalisasi dengan berbagai modul tambahan seperti modul kamera, modul sensorik, dan modul memasak.
+
+
+**Pemecahan Masalah**:
+
+Jika Anda mengalami masalah dengan GeralBot, silakan ikuti panduan pemecahan masalah ini. Sebagian besar masalah dapat diperbaiki dengan langkah sederhana.
+
+**1. Transformasi Gagal (TF-404): Modul Transformasi Macet**
+
+**Deskripsi:** GeralBot mengalami kesulitan mengubah bentuk. Potongan transformasi terputus, gerakan terhambat, atau GeralBot terjebak dalam bentuk tertentu. Ini mungkin disebabkan oleh:
+
+* Debu atau kotoran yang menumpuk di joint transformasi.
+* Pengaturan transformasi yang tidak akurat dalam aplikasi.
+* Masalah mekanis pada motor transformasi: 
+
+[IMAGE: troubleshoot_TF-404.png]
+
+* Error pada sistem kontrol transformasi.
+* Kekuatan arus listrik yang tidak stabil.
+
+**Langkah Perbaikan:**
+
+1. Periksa joint transformasi GeralBot, bersihkan debu dan kotoran menggunakan kompresor udara atau kain lembab.
+2. Pastikan GeralBot terhubung dengan aplikasi dan koneksi stabil.
+3. Kembalikan pengaturan transformasi ke default melalui aplikasi.
+4. Hubungi layanan pelanggan EnriCorporation jika masalah berlanjut.
+5. Pastikan suplai listrik dan kabel terhubung dengan baik.
+
+**Studi Kasus:**
+
+Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transformasinya gagal. GeralBot terjebak dalam posisi setengah berubah. Budi membersihkan joint transformasi dengan kain lembab dan berhasil menyelesaikan masalahnya.
+
+**2. Pod Terbang Tidak Stabil (PT-502): Propusi Bermasalah**
+
+**Deskripsi:** GeralBot mengalami kesulitan terbang dengan stabil. Gerakannya bergoncang, posisi selalu miring, atau GeralBot tiba-tiba jatuh saat terbang.
+
+* Kurangnya daya baterai. 
+
+[IMAGE: troubleshoot_PT-502.png]
+
+* Sensor angin dan ketinggian tidak akurat.
+* Masalah pada propulsi motor: blades berkarat, motor lemah, atau propilus tidak seimbang.
+* Rangkaian propulsi mengalami kerusakan.
+
+**Langkah Perbaikan:**
+
+1. Pastikan baterai GeralBot terisi penuh atau mengganti baterai jika perlu.
+2. Periksa dan bersihkan sensor angin dan ketinggian.
+3. Periksa blades propulsi untuk kerusakan atau penumpukan kotoran.
+4. Hubungi layanan pelanggan EnriCorporation untuk pemeriksaan dan reparasi propulsi motor.
+5. Pastikan rarisian propulsi terhubung dengan baik.
+
+**3. Pendamping Tidak Responsif (PR-101): AI Gagal**
+
+**Deskripsi:** GeralBot tidak merespon perintah suara atau gerakan. AI GeralBot tampaknya mengalami gangguan.
+
+*  Koneksi internet yang buruk atau terputus.
+*  Suhu ekstrem yang mempengaruhi kinerja AI. 
+
+[IMAGE: troubleshoot_PR-101.png]
+
+*  Software AI mengalami bug atau kesalahan.
+*  Error pada speaker atau mikrofon.
+* Reset sistem AI diperlukan.
+
+**Langkah Perbaikan:**
+
+1. Periksa koneksi internet pada GeralBot dan aplikasi.
+2. Pastikan GeralBot berada di lingkungan dengan suhu optimal.
+3. Update software GeralBot melalui aplikasi.
+
+
+
+4. **Pembersihan Berhenti (CL-303): Sensor Debu Error**
+
+**Deskripsi:**  Fungsi pembersihan GeralBot berhenti secara tiba-tiba.
+
+* Sensor debu tertutup debu atau kotoran. 
+
+[IMAGE: troubleshoot_CL-303.png]
+
+* Modul penyedot debu macet atau rusak.
+* Error pada kontrol pembersihan.
+* Baterai kurang daya.
+
+
+
+**Langkah Perbaikan:**
+
+1. Bersihkan sensor debu menggunakan sikat halus dan kain lembab.
+2. Periksa dan bersihkan modul penyedot debu dari kotoran dan serat.
+3. Restart GeralBot melalui aplikasi.
+4. Pastikan baterai GeralBot terisi penuh.
+
+5. **Baterai Overheat (BO-707): Panas Berlebih**
+
+**Deskripsi:** GeralBot mengalami pemanasan yang berlebihan dan fungsi terjadi penurunan atau terhenti.
+
+* Penggunaan intensif baterai berkelanjutan. 
+
+[IMAGE: troubleshoot_BO-707.png]
+
+* Ventilasi baterai terhalang.
+* Baterai rusak atau melebihi masa pakai.
+
+**Langkah Perbaikan:**
+
+1. Biarkan GeralBot pendingin selama beberapa jam sebelum digunakan. 
+2. Pastikan ventilasi baterai tidak terblokir.
+3. Ganti baterai GeralBot dengan baterai baru jika perlu.
+4. Batasi penggunaan mode yang boros daya seperti mode terbang.
+
+6. **Suara Berisik (NS-201): Motor Bising**
+
+**Deskripsi:** GeralBot mengeluarkan suara bising yang tidak normal saat beroperasi.
+
+* Motor mengalami keausan atau kerusakan. 
+
+[IMAGE: troubleshoot_NS-201.png]
+
+* Penumpukan kotoran di sekitar motor.
+* Tegangan listrik tidak stabil.
+
+**Langkah Perbaikan:**
+
+1. Periksa dan bersihkan bagian sekitar motor dari kotoran dan debu. 
+2. Hubungi layanan pelanggan EnriCorporation untuk pemeriksaan dan reparasi motor.
+3. Pastikan suplai listrik stabil.
+4. Perhatikan apakah suara bising terjadi pada mode tertentu, yang mungkin mengindikasikan beban kerja motor yang berlebihan.
+
+
+
+7. **Koneksi Aplikasi Gagal (AP-301): Bluetooth/WiFi Error**
+
+**Deskripsi:** GeralBot tidak dapat terhubung ke aplikasi.
+
+* Jarak terlalu jauh antara GeralBot dan perangkat.
+
+[IMAGE: troubleshoot_AP-301.png]
+
+* Interupsi sinyal Bluetooth atau WiFi.
+* Aplikasi mengalami bug atau error.
+* Germaine tidak terhubung ke jaringan internet yang sama.
+
+ **Langkah Perbaikan:**
+
+1. Pastikan GeralBot dan perangkat (smartphone, tablet) terhubung ke jaringan Bluetooth atau WiFi yang sama.
+2. Periksa jarak antara GeralBot dan perangkat, pastikan dalam jangkauan Bluetooth/WiFi.
+3. Tutup dan buka kembali aplikasi GeralBot di perangkat.
+4. Restart perangkat dan GeralBot.
+5. Update aplikasi GeralBot ke versi terbaru.
+
+
+8. **Memasak Tidak Merata (CK-401): Modul Panas Gagal**
+
+ **Deskripsi:** Makanan yang dimasak dengan GeralBot tidak matang merata.
+
+* Modul panas mengalami kerusakan atau tidak berfungsi dengan baik. 
+
+[IMAGE: troubleshoot_CK-401.png]
+
+* Penyesuaian suhu pengaturan masak tidak tepat.
+* Bahan makanan terlalu padat atau terlalu cair.
+* Pemanganan bahan makanan yang tidak optimal.
+
+ **Langkah Perbaikan:** 
+
+1. Periksa dan bersihkan modul panas dari kotoran atau residu makanan.
+2. Tulis dan perhatikan suhu dan waktu memasak pada bahan makanan yang berbeda. 
+3. Masak dalam jumlah yang tidak terlalu berlebihan.
+4. Hubungi layanan pelanggan EnriCorporation di case kerusakan modul panas.
+
+9. **Navigasi Terganggu (NV-501): Sensor 360 Error**
+
+ **Deskripsi:** GeralBot mengalami kesulitan menavigasi dan sering terhenti atau bergerak tidak terarah.
+
+* Sensor 360 derajat kotor atau cacat. 
+
+[IMAGE: troubleshoot_NV-501.png]
+
+* Lingkungan sekitar kompleks dan terlalu banyak penghalang.
+* Peta navigasi yang tidak akurat.
+
+**Langkah Perbaikan:**
+
+1. Bersihkan sensor 360 derajat dari debu dan kotoran.
+2. Pastikan lingkungan sekitar GeralBot relatif terbuka dan memungkinkan navigasi yang jelas.
+3. Update peta navigasi melalui aplikasi GeralBot.
+4. Hindari area dengan medan yang sangat kompleks atau penghalang yang terlalu banyak.
+
+10. **Lampu Indikator Mati (LI-601): Sistem Listrik Bermasalah**
+
+ **Deskripsi:** Lampu indikator GeralBot mati, menunjukkan masalah dalam sistem listriknya.
+
+* Kabel listrik terputus atau rusak.
+* Masalah pada baterai. 
+
+[IMAGE: troubleshoot_LI-601.png]
+
+* Modulasi Sirkit Peluruh (PSU) mengalami kerusakan.
+* Kegagalan pada pengontrol daya.
+
+**Langkah Perbaikan:**
+
+
+1. Periksa kabel listrik dan pastikan terhubung dengan baik.
+2. Jika menggunakan baterai, pastikan baterai terisi penuh atau diganti dengan baterai baru. 
+3. Jika menggunakan sumber daya eksternal, periksa stek dan kabel.
+
+
+
+    * Hubungi layanan pelanggan EnriCorporation untuk pemeriksaan dan perbaikan PSU atau pengontrol daya.
+
+
+
+

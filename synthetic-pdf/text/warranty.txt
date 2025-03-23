@@ -1,0 +1,107 @@
+## Panduan Pengguna Geralbaot
+
+Selamat datang di dunia revolusioner teknologi masa depan dengan EnriCorporation's Geralbaot! Geralbaot hadir untuk membantu Anda dalam berbagai aktivitas sehari-hari. 
+
+Sebuah robot multifungsi canggih, Geralbaot dapat berubah bentuk, terbang, membantu pekerjaan rumah, dan bahkan mengantar Anda ke tujuan. 
+
+ **Tinjauaan Ringkas:**
+
+* **Transformasi**: Mengubah bentuk Geralbaot menjadi berbagai mode, seperti mode humanoid, mode drone, dan mode asisten rumah tangga. 
+* **Propulsi**: Fasilitas terbang yang stabil dan aman dengan propulsi canggih.
+* **Pendamping AI**: Tenaga AI canggih yang berinteraksi dan membantu Anda menyelesaikan berbagai tugas.
+* **Pembersihan Otomatis**: Solusi cerdas untuk menjaga kebersihan rumah Anda.
+* **Fitur Memasak**: Membantu Anda memasak berbagai hidangan dengan modul memasak terintegrasi.
+* **Navigasi**: Sistem navigasi otomatis yang memungkinkan Geralbaot untuk bergerak tanpa bantuan manusia.
+
+**Cara Mengeoperasikan Geralbaot:**
+
+1. **Pengisian Daya**: Sambungkan kabel pengisi daya ke port pengisian daya di bagian belakang Geralbaot.  
+2. **Pemilihan Mode**: Gunakan touchscreen utama atau perintah suara untuk memilih mode yang diinginkan. 
+3. **Perintah Suara**: Gunakan perintah suara untuk mengendalikan Geralbaot.
+4. **Interaksi**: Berikan instruksi, tanyakan informasi, atau ajukan tugas kepada Geralbaot melalui AI pendampingnya.
+
+**Kesalahan Umum dan Solusi:**
+
+* **TF-404 (Transformasi Gagal, modul transformasi macet)**:  
+    * **Penyebab**:  Sensor penginderaan di modul transformasi mungkin rusak atau kotor.  
+    * **Solusi**: Periksa sensor dan bersihkan dengan kain lembut. Jika masalah berlanjut, hubungi layanan pelanggan EnriCorporation. 
+* **PT-502 (Pod Terbang Tidak Stabil, propulsi bermasalah)**:
+    * **Penyebab**:  Mungkin terjadi  permasalahan pada sensor angin, rotor propulsi, atau sistem kontrol terbang. 
+    * **Solusi**: Periksa kabel koneksi pada propulsi, rotor, dan sensor angin. Perbaiki atau ganti komponen yang rusak.  
+* **PR-101 (Pendamping Tidak Responsif, AI gagal)**:
+    * **Penyebab**: Konektifitas internet error atau kendala pada sistem prosesor AI.
+    * **Solusi**: Pastikan koneksi internet stabil atau coba restart Geralbaot. Jika masalah berlanjut, hubungi layanan pelanggan EnriCorporation. 
+* **CL-303 (Pembersihan Berhenti, sensor debu error)**:
+    * **Penyebab**: Sensor debu mungkin kotor atau rusak.
+    * **Solusi**: Bersihkan sensor debu dengan lap lembut. Ganti sensor debu jika perlu.
+* **BO-707 (Baterai Overheat, panas berlebih)**:
+    * **Penyebab**: Penggunaan terlalu lama atau pengisian daya yang tidak tepat.
+    * **Solusi**: Biarkan baterai mendinginkan hingga suhu normal. Pastikan perangkat pembangkit listrik telah sesuai dengan spesifikasi Geralbaot.  Hubungi layanan pelanggan EnriCorporation jika masalah berlanjut. 
+* **NS-201 (Suara Berisik, motor bising)**:
+    * **Penyebab**:   Motor mungkin aus atau tergenang debu.
+    * **Solusi**: Periksa dan bersihkan motor. Jika rumus berlanjut, hubungi layanan pelanggan EnriCorporation.
+* **AP-301 (Koneksi Aplikasi Gagal, Bluetooth/WiFi error)**:
+    * **Penyebab**: Masalah koneksi pada perangkat aktif atau router.
+    * **Solusi**: Perbarui aplikasi Geralbaot, pastikan Bluetooth atau WiFi aktif, dan periksa pengaturan jaringan. 
+
+
+** Informasi Garansi**
+
+[IMAGE: warranty_terms.png]
+
+EnriCorporation menjamin Geralbaot Anda dalam jangka waktu tertentu berdasarkan komponen masing-masing.  Berikut rinciannya:
+
+* **Robot Chassis & Komponen Fisik**: 2 (dua) tahun 
+* **Modul Transformasi**: 1 (satu) tahun
+* **Propulsi & Sistem Pendaratan**: 6 (enam) bulan
+* **Pendamping AI & Sensor**: 1 (satu) tahun
+* **Modul Pembersihan & Solusi Mekanik**: 6 (enam) bulan
+* **Modul Memasak & Komponen Elektronik**: 1 (satu) tahun
+* **Baterai**: 6 (enam) bulan
+
+Garansi ini mencakup kerusakan akibat cacat produksi dan bahan, **kecuali kerusakan akibat penggunaan tidak wajar, modifikasi perangkat, atau kerusakan akibat faktor eksternal seperti kecelakaan, air, atau kebakaran**.
+
+
+**Syarat Klaim Garansi**
+
+untuk mengajukan klaim garansi, beberapa syarat harus dipenuhi:
+
+1. **Bukti Pembelian**: Siapkan bukti pembelian resmi Geralbaot (faktur, nota pembelian, dll.).  
+2. **Kendala Teridentifikasi**:  Jelaskan secara detail kendala yang Anda alami pada Geralbaot, termasuk kode kesalahan (jika muncul).  
+3. **Perbaikan Terakhir**:  Informasikan apakah Geralbaot telah diperbaiki sebelumnya dan oleh siapa.
+4. **Usia Perangkat**:  Pastikan berusia dalam masa garansi yang berlaku.
+
+[IMAGE: claim_conditions.png]
+
+5. **Perawatan Teratur**: Buktikan bahwa Anda telah merawat Geralbaot sesuai dengan panduan pengguna, termasuk pembersihan, pengisian daya yang benar, dan penggunaan sesuai fungsinya.
+
+ **Prosedur Klaim Garansi**
+
+Untuk mengajukan klaim garansi, ikuti prosedur berikut:
+
+1. **Hubungi Layanan Pelanggan**: Hubungi layanan pelanggan EnriCorporation melalui telepon atau email. Anda akan diarahkan oleh tim dukungan teknis untuk menyelesaikan masalah secara awal.
+
+[IMAGE: claim_process.png]
+
+2. **Kumpulkan Dokumen**: Kumpulkan bukti pembelian, resi pengiriman (jika berlaku), dan informasi mengenai kerusakan Geralbaot.
+3. **Kirim Klaim**: Setelah menghubungi layanan pelanggan, silakan mengirimkan dokumen-dokumen yang Anda kumpulkan beserta deskripsi masalah secara rinci melalui email atau platform yang ditentukan oleh tim dukungan.
+
+4. **Validasi Klaim**: Tim layanan pelanggan akan memverifikasi informasi yang Anda berikan dan menelaah kemungkinan kerusakan. 
+5. **Permohonan Perbaikan**: Jika klaim Anda diverifikasi, Anda akan diminta untuk mengirimkan Geralbaot kepada pusat layanan EnriCorporation. Kami menyediakan label pengiriman gratis untuk kemudahan Anda.
+
+6. **Pemeriksaan & Perbaikan**: Tim teknisi akan memeriksa Geralbaot secara menyeluruh untuk mengidentifikasi akar permasalahan. Perbaikan akan dilakukan sesuai dengan persyaratan garansi.
+
+7. **Pengiriman Kembali**: Setelah perbaikan selesai, Geralbaot akan dikirim kembali kepada Anda (via layanan kurir) dengan biaya pengiriman gratis.
+
+ **Contoh Klaim Garansi**
+
+* "Geralbaot saya mengalami masalah transformasi. Ketika mencoba mengubah bentuk ke mode drone, terjadi suara aneh dan **mesin transformasi terasa kaku**. Kode kesalahan yang muncul adalah **TF-404**.  
+
+*  " **Baterai Geralbaot saya terlalu panas** setelah digunakan selama 2 jam. Geralbaot tiba-tiba mati dan terasa panas di bagian baterai. Saya sudah mencoba mengistirahatkan perangkat, namun masalah tetap berlanjut. Kode kesalahan yang muncul adalah **BO-707**.
+  
+
+
+
+* **Catatan**: Geralbaot adalah robot canggih yang memberikan pengalaman teknologi terbaik. 
+
+
