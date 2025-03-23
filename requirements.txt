@@ -4,10 +4,11 @@ matplotlib
 pandas
 faker
 langchain
-sentence-transformers
+sentence-transformers==2.2.2
 faiss-cpu
 groq
 pdfplumber
 langchain-community
 streamlit
 langchain_groq
+torch==2.1.0

@@ -11,7 +11,7 @@ class RAGPipeline:
             model_name=model_name,
             api_key=groq_api_key
         )
-        # Prompt template yang lebih fleksibel
+
         prompt_template = """Gunakan konteks berikut untuk menjawab pertanyaan tentang GeralBot. Fokus pada informasi yang relevan dengan topik yang diminta. Jika informasi tidak ada di konteks, coba rangkum informasi yang sedikit relevan atau katakan "Informasi tidak ditemukan di dokumen."
 
 Konteks:

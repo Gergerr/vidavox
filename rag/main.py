@@ -4,7 +4,6 @@ from data_loader import DataLoader
 from indexer import Indexer
 from rag_pipeline import RAGPipeline
 
-# Konfigurasi
 PDF_FILE = "../synthetic-pdf/Geraldo_synthetic_data.pdf"
 CSV_FILE = "../database/synthetic_data.csv"
 INDEX_PATH = "faiss_index"
