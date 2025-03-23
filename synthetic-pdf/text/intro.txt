@@ -1,0 +1,192 @@
+## Panduan Pengguna GeralBot v2.0 -  Asisten Multifungsi Masa Depan 
+
+Selamat datang di dunia inovasi dengan GeralBot dari EnriCorporation! 
+
+**GeraldBot**, sebuah nama yang menggabungkan "Geral" (Umum) dan "Bot" (Robotic), adalah bukti nyata visi **NexTech** untuk menciptakan robot pembantu cerdas dan serbaguna yang siap membantu dalam berbagai aspek kehidupan manusia.
+
+**1. Pengenalan GeralBot**
+
+GeralBot bukanlah sekadar robot; ia adalah bagian dari keluarga. Dibentuk dengan hasil penelitian tercanggih dan teknologi masa depan, GeralBot hadir untuk mempermudah dan menghibur hidup Anda.
+
+**1.1 Sejarah dan Visi NexTech**
+
+[IMAGE: geralbot_vision.png] 
+
+Visi NexTech selalu berfokus pada perkembangan teknologi yang berdampak positif bagi masyarakat. Setelah bertahun-tahun riset dan pengembangan, kami hadirkan GeralBot, representasi terwujudnya visi tersebut. 
+
+GeralBot dikembangkan dengan tujuan menciptakan robot yang **intelektual**, **fleksibel**, dan **human-centric**, selalu menyesuaikan diri dengan kebutuhan manusia di segala situasi.  Dalam masa mendatang, kami menargetkan GeralBot sebagai bagian integral dari kehidupan manusia, membantu menyelesaikan masalah dan meningkatkan kualitas hidup secara signifikan.
+
+**1.2 Misi Umum**
+
+GeralBot dirancang untuk menjadi asisten multifungsi masa depan yang dapat membantu Anda dalam berbagai aktivitas, mulai dari pekerjaan rumah tangga hingga tugas-tugas kompleks.  
+
+Para ilmuwan dan engineer di EnriCorp bekerja keras untuk menciptakan robot yang **mudah diakses**, **mudah digunakan**, dan **terjangkau** bagi semua orang, sehingga teknologi canggih ini dapat mendongkrak kualitas hidup setiap individu.
+
+**2. Tujuan GeralBot**
+
+GeralBot hadir dengan beragam fitur yang dirancang untuk membantu Anda dalam berbagai peran penting di kehidupan sehari-hari:
+
+* **Pendamping Pribadi**: GeralBot dapat menjadi teman dan penolong bagi Anda. 
+
+   *  Misalnya, GeralBot dapat mengingatkan Anda tentang jadwal, memberi informasi terkini, dan bahkan berbincang untuk menemani waktu luang Anda.
+* **Asisten Rumah Tangga**: GeralBot akan berperan penting dalam pekerjaan rumah tangga, seperti:
+   *  **Bersihkan rumah** secara efisien berkat modul pembersih canggih yang dapat menangani berbagai macam jenis debu dan kotoran.
+   *  **Memasak hidangan lezat** sesuai dengan selera Anda, dengan modul memasak yang dilengkapi panduan resep digital dan teknologi kontrol suhu presisi. Didukung teknologi masakan tercanggih, ia dapat menyesuaikan tekstur dan rasa masakan sesuai keinginan.
+
+[IMAGE: goals.png]
+
+* **Kendaraan Multifungsi**: 
+Dengan kemampuan transformasi yang inovatif, GeralBot dapat berubah wujud menjadi kendaraan roda dua atau roda empat, mengantar Anda ke tempat tujuan dengan cepat dan praktis. 
+
+   * **Contoh**: Anda membutuhkan perjalanan singkat ke toko terdekat? GeralBot dapat berubah menjadi kendaraan roda dua dengan tenaga listrik ramah lingkungan.
+* **Pelatih Kebugaran**: 
+GeralBot dapat menjadi pelatih kebugaran personal yang bertanggung jawab dan kreatif, mengedepankan variasi latihan dan  membantu Anda mencapai tujuan kebugaran.
+   *  **Contoh**:  GeralBot dapat memimpin sesi yoga atau latihan kekuatan terstruktur, menyesuaikan intensitas sesuai dengan kemampuan Anda.
+* **Guru Edukasi**: 
+GeralBot dapat menjadi asisten edukasi yang berinteraksi dan menyenangkan, membantu anak-anak belajar dengan mudah. 
+
+   * **Contoh**: GeralBot dapat menyapaikan materi pelajaran secara interaktif, menjelaskan konsep dengan visualisasi 3D, dan bahkan bermain permainan edukatif untuk memaksimalkan pembelajaran.
+
+**3. Fitur Utama**
+
+GeralBot dilengkapi dengan berbagai fitur unggul yang memungkinkan dirinya membantu Anda dalam segala hal:
+
+**3.1 Pendamping (PR-101)**
+
+GeralBot dilengkapi  dengan AI canggih yang memungkinkan ia memahami perintah suara, berinteraksi dalam percakapan, dan belajar dari pengalaman.
+
+* **AI Responsif**: GeralBot dilengkapi AI yang dapat memahami permintaan dan pertanyaan dengan akurat, merespons dalam bahasa yang natural dan mengajukan pertanyaan klarifikasi jika diperlukan. **Contoh**: "GeralBot, putar musik jazz santai" atau "GeralBot, bagaimana cuaca nanti?".
+
+* **Ingat Panggilan**: GeralBot dapat mengingat jadwal, urusan penting, dan bahkan preferencia pribadi Anda. **Contoh**: GeralBot akan mengingatkan Anda ulang tahun orang tersayang atau jadwal rapat penting.
+* **Integrasi Aplikasi**: GeralBot dapat terhubung dengan berbagai aplikasi dan layanan online, seperti kalender, email, media sosial, dan lainnya. **Contoh**:  GeralBot dapat membacakan email baru Anda atau menambahkan acara penting ke kalender Anda.
+
+ **[ERROR: PR-101]** *Pendamping Tidak Responsif* 
+
+    * **Penyebab**: Gangguan pada konektivitas internet, masalah memori, atau error pada sistem AI.
+
+    * **Solusi**: Pastikan koneksi internet stabil, restart GeralBot, atau hubungi layanan dukungan EnriCorp.
+
+**3.2 Pembersih (CL-303)**
+
+GeralBot dapat membersihkan rumah Anda dengan efektif dan efisien:
+
+* **modul Pembersih Canggih**:  GeralBot dilengkapi modul pembersih yang dapat menangani berbagai jenis debu dan kotoran, termasuk bulu hewan peliharaan, serpihan makanan, dan butiran debu halus. 
+
+* **Integrasi Sensor**:  GeralBot dilengkapi sensor cerdas yang dapat mendeteksi area kotoran dan menyesuaikan kekuatan pembersihan. 
+
+* **Mode Otomatis**:  Anda dapat mengatur jadwal pembersihan otomatis, memungkinkan GeralBot membersihkan rumah secara teratur tanpa intervensi manual.
+
+**[ERROR: CL-303]** *Pembersihan Berhenti*
+
+    * **Penyebab**: Sensor debu mengalami gangguan, modul pembersih tersumbat, atau masalah pada penyupply energi.
+
+    * **Solusi**: Periksa sensor debu, bersihkan modul pembersih, atau hubungi layanan dukungan EnriCorp.
+
+
+ **3.3 Kendaraan (TF-404, PT-502)**
+
+  GeralBot dapat berubah wujud menjadi kendaraan roda dua atau roda empat dengan teknologi transformasi inovatifnya:
+
+* **Transformasi Mudah**:  GeralBot dapat berubah wujud dengan mudah dan cepat, melalui perintah suara atau aplikasi kontrol.
+
+* **Kendaraan Roda Dua**:
+
+GeralBot dapat berubah menjadi sepeda motor listrik yang efisien dan ramah lingkungan.  
+
+**[ERROR: TF-404]** *Transformasi Gagal, Modul Transformasi Macet*
+
+    * **Penyebab**: Masalah mekanik pada modul transformasi, kesalahan internal dalam sistem kontrol, atau kesalahan pada pengatur daya.
+
+    * **Solusi**: Pastikan modul transformasi terpasang dengan benar, restart GeralBot, atau hubungi layanan dukungan EnriCorp.
+
+* **Kendaraan Roda Empat**: GeralBot dapat berubah menjadi mobil kecil yang cocok untuk perjalanan jarak pendek.
+
+**[ERROR: PT-502]** *Pod Terbang Tidak Stabil, Propusi Bermasalah*
+
+     * **Penyebab**: Masalah pada motor propeller, gangguan pada sistem navigasi, atau kerusakan pada sensor keseimbangan.
+
+     * **Solusi**: Periksa motor propeller, pastikan sistem navigasi berfungsi dengan baik, atau hubungi layanan dukungan EnriCorp.
+
+
+
+ **3.4 Memasak (CK-401)**
+
+GeralBot dapat memasak hidangan lezat dengan presisi sempurna:
+
+* **Modul Memasak Canggih**: 
+GeralBot dilengkapi modul memasak yang dilengkapi berbagai alat, seperti panci, wajan, penggorengan, dan kompor, 
+
+* **Teknologi Kontrol Suhu Presisi**: 
+GeralBot dapat mengatur suhu dengan presisi tinggi, memastikan makanan dimasak sempurna tanpa gosong.
+* **Panduan Resep Digital**: 
+GeralBot memiliki akses ke basis data resep digital luas, memungkinkan Anda memilih dan memasak berbagai hidangan dengan mudah.
+
+**[ERROR: CK-401]** *Memasak Tidak Merata, Modul Panas Gagal*
+
+    * **Penyebab**: 
+Modul panas mengalami kerusakan, pemanas tidak berfungsi secara optimal, atau sensor suhu mengalami kesalahan.
+
+    * **Solusi**: Periksa kondisi pemanas, pastikan saluran ventilasi tidak terhalang, atau hubungi layanan dukungan EnriCorp.
+
+
+
+
+**3.5 Fitur Lainnya**
+
+Selain fitur utama di atas, GeralBot juga dilengkapi berbagai fitur menarik lainnya:
+
+* **Sistem Navigasi Integritas (NV-501)**:  GeralBot dapat menavigasi lingkungan dengan mulus, menghindari rintangan, dan mencapai tujuan dengan efisien.
+
+   **[ERROR: NV-501]** *Navigasi Terganggu, Sensor 360 Error*
+    * **Penyebab**: Sensor 360 mengalami kerusakan, gangguan sinyal, atau kesalahan dalam pengolahan data.
+    * **Solusi**: Pastikan sensor 360 bersih dan tidak terhalang, check koneksi internet, atau hubungi layanan dukungan EnriCorp.
+
+* **Sensor Suara canggih (NS-201)**: GeralBot dapat mendeteksi dan mengenali suara dengan presisi tinggi, memungkinkan ia memahami perintah suara dengan jelas. 
+
+   **[ERROR: NS-201]** *Suara Berisik, Motor Bising*
+    * **Penyebab**:  Gangguan pada mikrofon, kebisingan lingkungan yang tinggi, atau masalah pada motor suara.
+    * **Solusi**:  Periksa mikrofon, reduksi kebisingan lingkungan, atau hubungi layanan dukungan EnriCorp.
+
+* **Sistem Komunikasi Terkotak (AP-301)**: GeralBot dapat terhubung dengan perangkat Bluetooth/WiFi lainnya, memungkinkan Anda mengontrolnya secara remote dan berbagi data.
+
+   **[ERROR: AP-301]** *Koneksi Aplikasi Gagal, Bluetooth/WiFi Error*
+    * **Penyebab**:  Perangkat Bluetooth/WiFi tidak terhubung, masalah pada modul komunikasi, atau gangguan sinyal.
+    * **Solusi**: Pastikan perangkat terhubung, restart GeralBot, atau hubungi layanan dukungan EnriCorp.
+* **Pemindai 3D**: GeralBot dapat memindai lingkungan di sekitarnya, menciptakan model 3D yang akurat dan bermanfaat. 
+
+* **Panel Sentuh Interaktif**: GeralBot dilengkapi panel sentuh yang intuitif untuk interaksi manusia-mesin yang mudah dan responsif. 
+
+**3.6 Sistem Keamanan dan Energi**
+
+GeralBot dilengkapi dengan berbagai fitur keamanan dan energi untuk memastikan pengoperasian yang aman, efisien, dan berkelanjutan:
+
+* **Sistem Keamanan Multi-Level**: GeralBot dilengkapi dengan sistem keamanan multi-level untuk melindungi data dan privasi Anda.  
+
+  
+* **Sistem Keamanan Biometrik**: 
+GeralBot dapat mengenali wajah dan sidik jari Anda untuk autentikasi dan keamanan yang ditingkatkan.
+ 
+
+
+* **Baterai Lithium Ion**: GeralBot menggunakan baterai lithium ion canggih dan hemat energi.
+
+   **[ERROR: BO-707]** *Baterai Overheat, Panas Berlebih*
+    * **Penyebab**: Penggunaan berlebihan berat, pengalian daya yang tidak tepat, dan kerusakan pada sistem pendingin. 
+
+    * **Solusi**:  Biarkan GeralBot mendingin, verifikasi daya charger, dan hubungi layanan dukungan EnriCorp. 
+
+* **Sistem Pendingin**: 
+GeralBot dilengkapi sistem pendingin canggih untuk mencegah overheat dan memastikan kinerja yang optimal dalam jangka panjang.
+
+ **3.7 Lampu Indikator (LI-601)**
+
+GeralBot memiliki sistem lampu indikator yang menunjukkan status pengoperasian dan kondisi baterai.
+
+**[ERROR: LI-601]** *Lampu Indikator Mati, Sistem Listrik Bermasalah*
+     * **Penyebab**: Mati lampu indikator dapat mengindikasikan masalah pada sirkuit listrik, kerusakan baterai, atau masalah pada sistem pembangkit tenaga Geralbaot.
+     * **Solusi**: Periksa konektor kabel, hubungi layanan dukungan EnriCorp.
+
+**Selamat datang di era baru kecerdasan buatan dan otomatisasi dengan GeralBot!**
+
+
+

@@ -1,0 +1,173 @@
+## Panduan Pengguna GeralBot
+
+Selamat datang di dunia inovasi dengan GeralBot, robot multifungsi canggih dari EnriCorporation! GeralBot dirancang untuk mempermudah hidup Anda dengan berbagai kemampuan, mulai dari transformasi bentuk hingga navigasi otonom. Panduan ini akan memandu Anda melalui semua fitur dan fungsi GeralBot, serta memberikan arahan penting untuk penggunaan yang aman dan efektif. 
+
+**[IMAGE: safety_rules.png]**
+
+### **Petunjuk Keselamatan**
+
+GeralBot merupakan perangkat yang canggih dan bertenaga, dirancang untuk membantu Anda dalam berbagai aktivitas. Namun, keselamatan tetap menjadi prioritas utama kami. Ikuti petunjuk keselamatan berikut dengan teliti untuk memastikan penggunaan GeralBot yang aman dan efektif:
+
+#### 1. Penggunaan Aman
+
+**Penting:** Sebelum menggunakan GeralBot, bacalah seluruh panduan pengguna dengan seksama.
+
+Berikut adalah 10 aturan umum untuk menggunakan GeralBot dengan aman:
+
+1. **Perhatikan lingkungan:** Selalu periksa lingkungan sekitar sebelum mengoperasikan GeralBot. Jauhkan GeralBot dari anak-anak, hewan peliharaan, dan benda-benda rapuh atau mudah pecah.
+2. **Hindari permukaan licin:** GeralBot dilengkapi roda yang dirancang untuk berbagai permukaan, namun berhati-hatilah saat menggunakan di lantai licin. 
+3. **Batasi jangkauan:** Jaga jarak yang aman antara GeralBot dan obyek yang berpotensi berbahaya, seperti api atau benda panas.
+4. **Jangan memodifikasi GeralBot:** Jangan mencoba memodifikasi atau memperbaiki GeralBot sendiri. Modifikasi dapat merusak perangkat dan membatalkan garansi.
+5. **Gunakan secara bertanggung jawab:** Jangan menggunakan GeralBot untuk aktivitas berbahaya atau yang melanggar hukum.
+6. **Perbarui firmware:** Selalu perbarui firmware GeralBot ke versi terbaru yang tersedia untuk memastikan keamanan dan stabilitas optimal. [IMAGE: update_firmware.png]
+7. **Lindungi dari cuaca ekstrim:** Jauhkan GeralBot dari hujan, air, suhu ekstrim, dan kelembapan yang berlebihan. 
+8. **Gunakan kabel charger resmi:** Gunakan hanya kabel charger resmi EnriCorporation untuk mengisi daya GeralBot. Gunakan charger yang disetujui dan memiliki tegangan yang sesuai.
+9. **Simpan dengan hati-hati:** Ketika tidak digunakan, simpan GeralBot di tempat yang aman, kering, dan bersih. [IMAGE: store_gerabot.png]
+10. **Hati-hati dengan batasan:** Pahami batasan GeralBot. Jangan memuat GeralBot melebihi kapasitasnya, dan jangan memaksakan GeralBot untuk melakukan tugas di luar kemampuannya.
+
+* **Skenario Bahaya**
+
+  1. **GeralBot jatuh dari ketinggian:** Jaga GeralBot tetap berada di permukaan yang stabil. Jika jatuh dari ketinggian, periksa apakah ada kerusakan dan hubungi layanan pelanggan EnriCorporation.
+  2. **GeralBot tersangkut:** Jangan biarkan GeralBot tersangkut di tempat sempit atau di antara benda-benda.  
+  3. **GeralBot terkena benda tajam:**Lindungi GeralBot dari benda tajam yang dapat menusuk atau merusak casingnya.
+  4. **GeralBot terpapar air:** Jangan biarkan GeralBot terendam dalam air atau cairan lainnya. Matikan GeralBot segera jika terkena air dan keringkan dengan lembut.
+  5. **GeralBot digunakan oleh anak-anak tanpa pengawasan:**  GeralBot bukan mainan. Gunakan dan awasi GeralBot dalam pengawasan orang dewasa.
+
+#### 2. Pengoperasian
+
+  Memahami cara mengoperasikan GeralBot dengan aman adalah kunci untuk keberhasilan dan keamanan:
+
+
+**Memasukkan Baterai:**
+
+1.  **Matikan GeralBot:** Pastikan GeralBot dalam keadaan mati sebelum memasukkan atau mengeluarkan baterai.
+2. ** buka kompartemen baterai:** Buka kompartemen baterai dengan hati-hati.
+3. **Masukkan baterai dengan benar:** Masukkan baterai, pastikan posisi sesuai dengan kutub positif (+) dan negatif (-).
+
+**Memulai GeralBot:**
+
+1. Pastikan baterai terpasang dengan benar.
+2. Tekan dan tahan tombol “PWR” selama 3 detik.
+
+ **Mematikan GeralBot:**
+
+1. Tekan dan tahan tombol “PWR” selama 3 detik.
+2.  GeralBot akan mati secara otomatis setelah beberapa detik.
+
+
+**Navigasi:**
+
+1. GeralBot dilengkapi dengan sensor navigasi 360 derajat yang membantu dalam menavigasi lingkungan. 
+2. Gunakan tombol navigasi pada aplikasi GeralBot untuk mengatur rute dan  tujuan. 
+
+
+**Transformasi:**
+
+1.  **Pilih mode transformasi:** Gunakan aplikasi GeralBot untuk memilih mode transformasi yang diinginkan. Perhatikan petunjuk visual dan suara yang diberikan oleh GeralBot.
+2. **Perhatikan ruang:** Pastikan area di sekitar GeralBot cukup luas untuk proses transformasi.
+
+**Memasukkan/Menghilangkan Modul:**
+
+1. **Matikan GeralBot:** Pastikan GeralBot dalam keadaan mati sebelum memasukkan atau menghilangkan modul.
+2.  **Lepaskan pengunci:** Lepaskan pengunci modul. 
+3.  **Masukkan/Keluarkan modul:** Masukkan atau keluarkan modul dengan hati-hati dan pastikan terpasang dengan benar.
+
+**Catatan:** Selalu pastikan GeralBot disiapkan dengan benar sebelum melakukan operasional yang membutuhkan transformasi atau penggantian modul. 
+
+**[IMAGE: safe_operation.png]**
+
+#### 3. Kode Error
+
+  Kode error dapat muncul jika GeralBot mengalami kendala atau masalah selama operasi. Pahami arti kode error berikut untuk mendiagnosis dan mengatasi masalah:
+
+  1. **TF-404 (Transformasi Gagal, Modul Transformasi Macet)**
+
+* **Penyebab:**  Kurang daya, kerusakan mekanis pada modul transformasi, atau error pada software transformasi.
+
+* **Solusi:** Pastikan baterai memiliki daya yang cukup. Periksa area sekeliling GeralBot untuk benda yang mungkin menghambat transformasi. Hubungi layanan pelanggan EnriCorporation jika masalah berlanjut.
+
+ 2. **PT-502 (Pod Terbang Tidak Stabil, Propusi Bermasalah)**
+
+* **Penyebab:** Propusi (motor terbang) aus, sensor angin/kecepatan rusak, atau gangguan pada sistem propulsi. 
+
+* **Solusi:** Hindari terbang di kondisi angin kencang. Landing dengan lembut dan periksa sensor angin/kecepatan untuk kerusakan.  Hubungi layanan pelanggan EnriCorporation untuk perbaikan.
+
+ 3. **PR-101 (Pendamping Tidak Responsif, AI Gagal)**
+
+* **Penyebab:** Koneksi internet melemah, error pada AI GeralBot, atau kerusakan pada sensor.
+
+* **Solusi:** Periksa koneksi internet dan pastikan GeralBot terhubung ke WiFi dengan stabil. Restart GeralBot atau hubungi layanan pelanggan EnriCorporation.
+
+ 4. **CL-303 (Pembersihan Berhenti, Sensor Debu Error)**
+
+* **Penyebab:** Sensor debu tersumbat, kerusakan pada modul pembersihan, atau kesalahan pada perintah pembersihan.
+
+* **Solusi:** Bersihkan sensor debu secara berkala dengan lembut menggunakan kain microfiber. Merawat sensor debu dengan baik dapat mencegah kesalahan ini. Hubungi layanan pelanggan EnriCorporation untuk perbaikan module pembersihan.
+
+ 5. **BO-707 (Baterai Overheat, Panas Berlebih)**
+
+* **Penyebab:** Penggunaan berlebihan, baterai lama, atau kerusakan pada sistem pendingin.
+
+* **Solusi:** Matikan GeralBot segera dan biarkan baterai mendingin.  Gunakan baterai yang baru atau charging dock resmi EnriCorporation. Jika masalah berlanjut, layanan pelanggan perlu dihubungi.
+
+   **[IMAGE: error_codes.png]**
+
+ 6. **NS-201 (Suara Berisik, Motor Bising)**
+
+
+* **Penyebab:**  Motor aus,  kerusakan komponen internal, atau  penempatan GeralBot di permukaan yang keras.
+
+* **Solusi:**  Bersihkan lingkungan sekitar GeralBot. Periksa komponen internal dan pastikan terpasang dengan benar. Hubungi layanan pelanggan untuk perbaikan. 
+
+ 7. **AP-301 (Koneksi Aplikasi Gagal, Bluetooth/WiFi Error)**
+
+
+* **Penyebab:**  Kekuatan sinyal lemah, perangkat bluetooth/WiFi  tidak kompatibel, atau  error pada software GeralBot.
+
+
+* **Solusi:**  Pastikan GeralBot terhubung ke WiFi dengan stabil. Pastikan perangkat Anda mendukung Bluetooth/WiFi yang digunakan oleh GeralBot.  Restart GeralBot atau aplikasi pihak ketiga.
+
+ 8. **CK-401 (Memasak Tidak Merata, Modul Panas Gagal)**
+
+
+* **Penyebab:**  Kerusakan pada modul panas, material makanan yang tidak cocok, atau kesalahan pada pengaturan memasak.
+
+
+
+* **Solusi:**  
+
+
+ Periksa modul panas untuk kerusakan. Gunakan material makanan yang sesuai dengan instruksi di manual GeralBot.  
+
+ 9. **NV-501 (Navigasi Terganggu, Sensor 360 Error)**
+
+
+
+* **Penyebab:**  Sensor 360 rusak atau terhalang, kondisi cahaya buruk, atau gangguan magnet.
+
+
+
+* **Solusi:**  
+
+ Bersihkan sensor 360 secara berkala. Periksa area sekitar GeralBot untuk benda yang dapat menghalangi sensor.  
+
+ 10. **LI-601 (Lampu Indikator Mati, Sistem Listrik Bermasalah)**
+
+
+
+* **Penyebab:**  
+
+ Kurang daya, kerusakan pada modul lampu, atau kerusakan pada sirkuit listrik.
+
+
+
+* **Solusi:**  Coba isi daya GeralBot menggunakan charger resmi.  
+
+
+
+ *Note: Jika  GeralBot mengalami error,  usahakan untuk mengidentifikasi kode error. Info ini dapat membantu untuk mendiagnosis dan menyelesaikan masalah.
+
+
+
+ 
+

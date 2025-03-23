@@ -3,19 +3,20 @@ from groq import Groq
 import os
 import config
 
-# Initialize Groq client
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-# Getting Started prompt
-getting_started_prompt = f"""
+prompt = f"""
 {config.GLOBAL_PROMPT}
-Buat panduan 'Memulai' 5000 hingga 7000 kata dalam Bahasa Indonesia untuk robot fiktif 'GeralBot'. Jelaskan langkah imajiner seperti membuka kotak (unboxing) dengan detail komponen yang disertakan, mengisi daya dengan 'Port Energi Magnetik', dan pengaturan awal seperti menyinkronkan dengan aplikasi 'GeralBot Control'. Sertakan instruksi realistis seperti 'tekan tombol inisiasi selama 5 detik untuk mengaktifkan sistem' dan manfaat setiap langkah. Tambahkan subjudul seperti 'Membuka Kotak', 'Mengisi Daya', dan 'Pengaturan Awal' untuk memandu pengguna.
+Buat bagian 'Memulai' 5500 kata dalam Bahasa Indonesia untuk panduan pengguna 'GeralBot'. Sertakan:
+1. Membuka Kotak (1000 kata, detail isi paket, 5 tips unpacking, tambah [IMAGE: unboxing.png]),
+2. Mengisi Daya (1000 kata, langkah detail, 5 masalah umum seperti BO-707, tambah [IMAGE: charging.png]),
+3. Pengaturan Awal (1000 kata, 10 langkah setup, 5 tips konfigurasi, tambah [IMAGE: setup.png]).
+Sertakan kode error (BO-707, AP-301) di konteks relevan.
 """
 response = client.chat.completions.create(
     model=config.MODEL,
-    messages=[{"role": "user", "content": getting_started_prompt}],
-    max_tokens=config.MAX_TOKENS,
-    temperature=config.TEMPERATURE
+    messages=[{"role": "user", "content": prompt}],
+    max_tokens=config.MAX_TOKENS
 )
 with open("getting_started.txt", "w", encoding="utf-8") as f:
     f.write(response.choices[0].message.content)

@@ -1,7 +1,18 @@
 GLOBAL_PROMPT = """
-Langsung buat teksnya. Jangan tulis kalimat seperti: "Berikut adalah 10-20 kata untuk blablabla" atau sejenisnya.  
-Robot ini bernama 'GeralBot', sebuah robot multifungsi dari EnriCorporation. GeralBot dirancang sebagai pembantu rumah, pendamping emosional, dan kendaraan transformasi (motor, mobil, pod terbang seperti drop pod Fortnite). Fitur utamanya meliputi pembersihan rumah cerdas, interaksi emosional, transformasi kendaraan, memasak otomatis, dan segala fungsi untuk membantu manusia atau pemiliknya. Gunakan gaya realistis seperti panduan produk asli, tapi pastikan semua detail imajiner dan tidak berdasarkan fakta nyata.  
-Sertakan judul bagian yang relevan di awal teks (misalnya 'Pengenalan', 'Petunjuk Keselamatan') dan tambahkan subjudul jika sesuai (misalnya 'Mode Motor' di bawah 'Pengoperasian'). Gunakan format teks sederhana yang mudah dibaca.
+Buat teks dalam Bahasa Indonesia untuk panduan pengguna 'GeralBot', robot multifungsi dari EnriCorporation. Sertakan detail realistis, teknis, dan contoh penggunaan yang relevan. Jika sesuai dengan konteks, masukkan dan jelaskan kode error berikut: 
+- TF-404 (Transformasi Gagal, modul transformasi macet),
+- PT-502 (Pod Terbang Tidak Stabil, propulsi bermasalah),
+- PR-101 (Pendamping Tidak Responsif, AI gagal),
+- CL-303 (Pembersihan Berhenti, sensor debu error),
+- BO-707 (Baterai Overheat, panas berlebih),
+- NS-201 (Suara Berisik, motor bising),
+- AP-301 (Koneksi Aplikasi Gagal, Bluetooth/WiFi error),
+- CK-401 (Memasak Tidak Merata, modul panas gagal),
+- NV-501 (Navigasi Terganggu, sensor 360 error),
+- LI-601 (Lampu Indikator Mati, sistem listrik bermasalah).
+Pastikan kode error dimasukkan di bagian yang relevan (misalnya, CL-303 di pembersihan, TF-404 di transformasi) dengan penjelasan singkat tentang penyebab dan solusi potensial.
+
+Kalo misal ada instruksi kayak, [IMAGE: NAMAFILE.png], ITU WAJIB DITAMBAHIN YA! IKUTI INSTRUKSI
 """
 
 MODEL = "gemma2-9b-it"
