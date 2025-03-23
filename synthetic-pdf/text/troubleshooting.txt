@@ -4,7 +4,10 @@ Selamat datang di dunia fleksibilitas dan efisiensi yang ditawarkan oleh GeralBo
 
 **Fitur Utama**:
 
-* **Transformasi**: GeralBot dapat berubah bentuk menjadi berbagai konfigurasi, seperti mode robot, robot terbang (convertiplane), mode robot pembersih, dan mode robot dapur. [IMAGE: geralbot_transformasi.png]
+* **Transformasi**: GeralBot dapat berubah bentuk menjadi berbagai konfigurasi, seperti mode robot, robot terbang (convertiplane), mode robot pembersih, dan mode robot dapur. 
+
+[IMAGE: geralbot_transformasi.png]
+
 * **AI Integritas Tinggi**: GeralBot ditenagai sistem AI canggih yang memungkinkan ia memahami perintah suara dan belajar kebiasaan Anda.
 * **Aplikasi Kontrol**: Kontrol semuanya dari genggaman tangan Anda dengan aplikasi GeralBot yang user-friendly.
 * **Fungsi Multi-guna**: Antarmuka modular memungkinkan GeralBot untuk dipersonalisasi dengan berbagai modul tambahan seperti modul kamera, modul sensorik, dan modul memasak.
@@ -20,7 +23,10 @@ Jika Anda mengalami masalah dengan GeralBot, silakan ikuti panduan pemecahan mas
 
 * Debu atau kotoran yang menumpuk di joint transformasi.
 * Pengaturan transformasi yang tidak akurat dalam aplikasi.
-* Masalah mekanis pada motor transformasi: [IMAGE: troubleshoot_TF-404.png]
+* Masalah mekanis pada motor transformasi: 
+
+[IMAGE: troubleshoot_TF-404.png]
+
 * Error pada sistem kontrol transformasi.
 * Kekuatan arus listrik yang tidak stabil.
 
@@ -40,7 +46,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
 **Deskripsi:** GeralBot mengalami kesulitan terbang dengan stabil. Gerakannya bergoncang, posisi selalu miring, atau GeralBot tiba-tiba jatuh saat terbang.
 
-* Kurangnya daya baterai. [IMAGE: troubleshoot_PT-502.png]
+* Kurangnya daya baterai. 
+
+[IMAGE: troubleshoot_PT-502.png]
+
 * Sensor angin dan ketinggian tidak akurat.
 * Masalah pada propulsi motor: blades berkarat, motor lemah, atau propilus tidak seimbang.
 * Rangkaian propulsi mengalami kerusakan.
@@ -58,7 +67,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 **Deskripsi:** GeralBot tidak merespon perintah suara atau gerakan. AI GeralBot tampaknya mengalami gangguan.
 
 *  Koneksi internet yang buruk atau terputus.
-*  Suhu ekstrem yang mempengaruhi kinerja AI. [IMAGE: troubleshoot_PR-101.png]
+*  Suhu ekstrem yang mempengaruhi kinerja AI. 
+
+[IMAGE: troubleshoot_PR-101.png]
+
 *  Software AI mengalami bug atau kesalahan.
 *  Error pada speaker atau mikrofon.
 * Reset sistem AI diperlukan.
@@ -75,7 +87,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
 **Deskripsi:**  Fungsi pembersihan GeralBot berhenti secara tiba-tiba.
 
-* Sensor debu tertutup debu atau kotoran. [IMAGE: troubleshoot_CL-303.png]
+* Sensor debu tertutup debu atau kotoran. 
+
+[IMAGE: troubleshoot_CL-303.png]
+
 * Modul penyedot debu macet atau rusak.
 * Error pada kontrol pembersihan.
 * Baterai kurang daya.
@@ -93,7 +108,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
 **Deskripsi:** GeralBot mengalami pemanasan yang berlebihan dan fungsi terjadi penurunan atau terhenti.
 
-* Penggunaan intensif baterai berkelanjutan. [IMAGE: troubleshoot_BO-707.png]
+* Penggunaan intensif baterai berkelanjutan. 
+
+[IMAGE: troubleshoot_BO-707.png]
+
 * Ventilasi baterai terhalang.
 * Baterai rusak atau melebihi masa pakai.
 
@@ -108,7 +126,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
 **Deskripsi:** GeralBot mengeluarkan suara bising yang tidak normal saat beroperasi.
 
-* Motor mengalami keausan atau kerusakan. [IMAGE: troubleshoot_NS-201.png]
+* Motor mengalami keausan atau kerusakan. 
+
+[IMAGE: troubleshoot_NS-201.png]
+
 * Penumpukan kotoran di sekitar motor.
 * Tegangan listrik tidak stabil.
 
@@ -125,7 +146,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
 **Deskripsi:** GeralBot tidak dapat terhubung ke aplikasi.
 
-* Jarak terlalu jauh antara GeralBot dan perangkat. [IMAGE: troubleshoot_AP-301.png]
+* Jarak terlalu jauh antara GeralBot dan perangkat.
+
+[IMAGE: troubleshoot_AP-301.png]
+
 * Interupsi sinyal Bluetooth atau WiFi.
 * Aplikasi mengalami bug atau error.
 * Germaine tidak terhubung ke jaringan internet yang sama.
@@ -143,7 +167,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
  **Deskripsi:** Makanan yang dimasak dengan GeralBot tidak matang merata.
 
-* Modul panas mengalami kerusakan atau tidak berfungsi dengan baik. [IMAGE: troubleshoot_CK-401.png]
+* Modul panas mengalami kerusakan atau tidak berfungsi dengan baik. 
+
+[IMAGE: troubleshoot_CK-401.png]
+
 * Penyesuaian suhu pengaturan masak tidak tepat.
 * Bahan makanan terlalu padat atau terlalu cair.
 * Pemanganan bahan makanan yang tidak optimal.
@@ -159,7 +186,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
 
  **Deskripsi:** GeralBot mengalami kesulitan menavigasi dan sering terhenti atau bergerak tidak terarah.
 
-* Sensor 360 derajat kotor atau cacat. [IMAGE: troubleshoot_NV-501.png]
+* Sensor 360 derajat kotor atau cacat. 
+
+[IMAGE: troubleshoot_NV-501.png]
+
 * Lingkungan sekitar kompleks dan terlalu banyak penghalang.
 * Peta navigasi yang tidak akurat.
 
@@ -175,7 +205,10 @@ Budi mencoba mengubah GeralBot dari mode robot ke mode terbang, tetapi transform
  **Deskripsi:** Lampu indikator GeralBot mati, menunjukkan masalah dalam sistem listriknya.
 
 * Kabel listrik terputus atau rusak.
-* Masalah pada baterai. [IMAGE: troubleshoot_LI-601.png]
+* Masalah pada baterai. 
+
+[IMAGE: troubleshoot_LI-601.png]
+
 * Modulasi Sirkit Peluruh (PSU) mengalami kerusakan.
 * Kegagalan pada pengontrol daya.
 

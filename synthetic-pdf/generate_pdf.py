@@ -5,7 +5,6 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 import matplotlib.pyplot as plt
 import pandas as pd
-import random
 import os
 import re
 from graphviz import Digraph
@@ -42,6 +41,28 @@ styles.add(ParagraphStyle(
     leading=18,   # 12 * 1.5
     fontWeight='bold'
 ))
+# Tambah style untuk Heading 3, 4, 5
+styles.add(ParagraphStyle(
+    name='CustomHeading3',
+    fontName='Times-Roman',
+    fontSize=11,
+    leading=16.5, # 11 * 1.5
+    fontWeight='bold'
+))
+styles.add(ParagraphStyle(
+    name='CustomHeading4',
+    fontName='Times-Roman',
+    fontSize=10,
+    leading=15,   # 10 * 1.5
+    fontWeight='bold'
+))
+styles.add(ParagraphStyle(
+    name='CustomHeading5',
+    fontName='Times-Roman',
+    fontSize=9,
+    leading=13.5, # 9 * 1.5
+    fontWeight='bold'
+))
 styles.add(ParagraphStyle(
     name='CustomNormal',
     fontName='Times-Roman',
@@ -69,6 +90,9 @@ def parse_markdown(file_path, heading_num):
     
     lines = text.split("\n")
     subheading_count = 0
+    subsubheading_count = 0
+    subsubsubheading_count = 0
+    subsubsubsubheading_count = 0
     for line in lines:
         line = line.strip()
         if not line:
@@ -77,11 +101,32 @@ def parse_markdown(file_path, heading_num):
         # Heading 1
         if line.startswith("# "):
             subheading_count = 0
+            subsubheading_count = 0
+            subsubsubheading_count = 0
+            subsubsubsubheading_count = 0
             story.append(Paragraph(f"{heading_num}. {line[2:]}", styles["CustomHeading1"]))
         # Heading 2
         elif line.startswith("## "):
             subheading_count += 1
+            subsubheading_count = 0
+            subsubsubheading_count = 0
+            subsubsubsubheading_count = 0
             story.append(Paragraph(f"{heading_num}.{subheading_count} {line[3:]}", styles["CustomHeading2"]))
+        # Heading 3
+        elif line.startswith("### "):
+            subsubheading_count += 1
+            subsubsubheading_count = 0
+            subsubsubsubheading_count = 0
+            story.append(Paragraph(f"{heading_num}.{subheading_count}.{subsubheading_count} {line[4:]}", styles["CustomHeading3"]))
+        # Heading 4
+        elif line.startswith("#### "):
+            subsubsubheading_count += 1
+            subsubsubsubheading_count = 0
+            story.append(Paragraph(f"{heading_num}.{subheading_count}.{subsubheading_count}.{subsubsubheading_count} {line[5:]}", styles["CustomHeading4"]))
+        # Heading 5
+        elif line.startswith("##### "):
+            subsubsubsubheading_count += 1
+            story.append(Paragraph(f"{heading_num}.{subheading_count}.{subsubheading_count}.{subsubsubheading_count}.{subsubsubsubheading_count} {line[6:]}", styles["CustomHeading5"]))
         # Bullet point dengan bold/italic
         elif line.startswith("* "):
             content = line[2:]
@@ -90,11 +135,9 @@ def parse_markdown(file_path, heading_num):
             story.append(Paragraph(f"• {content}", styles["CustomBullet"]))
         # Gambar di tengah paragraf
         elif "[IMAGE:" in line:
-            # Toleransi variasi tag [IMAGE: ...]
             match = re.search(r'\[IMAGE:\s*([^\]]+)\]', line, re.IGNORECASE)
             if match:
                 image_name = match.group(1).strip()
-                # Tambah .png kalau gak ada ekstensi
                 if not image_name.lower().endswith('.png'):
                     image_name += '.png'
                 image_path = os.path.join("pictures", image_name)
@@ -109,7 +152,6 @@ def parse_markdown(file_path, heading_num):
                             part = re.sub(r'</br>', r'<br/>', part)
                             story.append(Paragraph(part, styles["CustomNormal"]))
                     else:  # Nama file gambar
-                        # Case-insensitive check
                         found = False
                         for f in os.listdir("pictures"):
                             if f.lower() == image_name.lower():
@@ -139,16 +181,6 @@ def parse_markdown(file_path, heading_num):
             line = re.sub(r'\*(.+?)\*', r'<i>\1</i>', line)
             story.append(Paragraph(line, styles["CustomNormal"]))
     story.append(Spacer(1, 12))
-    
-    # Tambah grafik setelah setiap section
-    plt.figure(figsize=(5, 3))
-    plt.bar(['Success', 'Error'], [random.randint(70, 100), random.randint(0, 30)], color=['green', 'red'])
-    plt.title(f"Success Rate - Section {heading_num}")
-    plt.savefig(f"pictures/success_rate_{heading_num}.png", dpi=100)
-    plt.close()
-    story.append(Paragraph(f"Grafik: Success Rate Section {heading_num}", styles["CustomHeading2"]))
-    story.append(Image(f"pictures/success_rate_{heading_num}.png", width=300, height=200))
-    story.append(Spacer(1, 12))
 
 # Cover Page
 story.append(Paragraph("Panduan Pengguna GeralBot", styles["CustomTitle"]))
@@ -174,18 +206,6 @@ for i, (file_path, title) in enumerate(sections, start=1):
     else:
         print(f"Warning: {file_path} not found, skipping...")
 
-# Grafik: Efisiensi Pembersihan
-rooms = ["Ruang Tamu", "Dapur", "Kamar Tidur", "Kamar Mandi"]
-efficiency = [random.randint(80, 100) for _ in range(4)]
-plt.bar(rooms, efficiency, color='blue')
-plt.title("Efisiensi Pembersihan GeralBot")
-plt.xlabel("Ruangan")
-plt.ylabel("Efisiensi (%)")
-plt.savefig("pictures/efficiency_chart.png", dpi=100)
-plt.close()
-story.append(Paragraph("Grafik Efisiensi Pembersihan", styles["CustomHeading2"]))
-story.append(Image("pictures/efficiency_chart.png", width=300, height=200))
-story.append(Spacer(1, 12))
 
 # Tabel: Log Penggunaan dari synthetic_data.csv
 df = pd.read_csv("synthetic_data.csv").head(10)
@@ -200,30 +220,6 @@ story.append(Table(table_data, colWidths=[50] * 10, style=[
 ]))
 story.append(Spacer(1, 12))
 
-# Grafik Tambahan: Konsumsi Daya
-plt.plot(df["Tanggal"], df["Konsumsi_Daya"], marker='o', color='red')
-plt.title("Konsumsi Daya per Tanggal")
-plt.xlabel("Tanggal")
-plt.ylabel("Konsumsi Daya (Wh)")
-plt.xticks(rotation=45)
-plt.tight_layout()
-plt.savefig("pictures/power_chart.png", dpi=100)
-plt.close()
-story.append(Paragraph("Grafik Konsumsi Daya", styles["CustomHeading2"]))
-story.append(Image("pictures/power_chart.png", width=300, height=200))
-story.append(Spacer(1, 12))
-
-# Workflow: Proses Transformasi
-dot = Digraph()
-dot.node("A", "Mulai")
-dot.node("B", "Pilih Mode")
-dot.node("C", "Transformasi")
-dot.edge("A", "B")
-dot.edge("B", "C")
-dot.render("pictures/transformation_workflow", format="png", cleanup=True)
-story.append(Paragraph("Workflow: Proses Transformasi", styles["CustomHeading2"]))
-story.append(Image("pictures/transformation_workflow.png", width=300, height=200))
-story.append(Spacer(1, 12))
 
 # Build PDF
 doc.build(story)

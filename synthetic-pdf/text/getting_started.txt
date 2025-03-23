@@ -41,7 +41,7 @@ Geralba dikemas dengan detail untuk memastikan keamanan dan kelengkapan semua ko
 
  **2. Mengisi Daya**
 
-[Image: charging.png](https://example.com/charging.png)
+[IMAGE: charging.png]
 
 Mulai hari ini dengan mengisi daya Geralba untuk memastikan ia siap bekerja maksimal.
 
@@ -113,7 +113,7 @@ Pilih 'Geralba' dari daftar perangkat yang tersedia.
 5.  **Pembaruan Rutin:**  Pastikan perangkat lunak Geralba selalu diperbarui untuk mendapatkan peningkatan kinerja dan fitur baru.
 
 
-
+[IMAGE: unboxing_2.png]
 
  
 

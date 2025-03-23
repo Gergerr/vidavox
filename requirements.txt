@@ -2,3 +2,10 @@ groq
 reportlab 
 matplotlib 
 pandas
+faker
+langchain
+sentence-transformers
+faiss-cpu
+groq
+pdfplumber
+langchain-community

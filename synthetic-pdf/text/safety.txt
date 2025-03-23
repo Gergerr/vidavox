@@ -19,10 +19,10 @@ Berikut adalah 10 aturan umum untuk menggunakan GeralBot dengan aman:
 3. **Batasi jangkauan:** Jaga jarak yang aman antara GeralBot dan obyek yang berpotensi berbahaya, seperti api atau benda panas.
 4. **Jangan memodifikasi GeralBot:** Jangan mencoba memodifikasi atau memperbaiki GeralBot sendiri. Modifikasi dapat merusak perangkat dan membatalkan garansi.
 5. **Gunakan secara bertanggung jawab:** Jangan menggunakan GeralBot untuk aktivitas berbahaya atau yang melanggar hukum.
-6. **Perbarui firmware:** Selalu perbarui firmware GeralBot ke versi terbaru yang tersedia untuk memastikan keamanan dan stabilitas optimal. [IMAGE: update_firmware.png]
+6. **Perbarui firmware:** Selalu perbarui firmware GeralBot ke versi terbaru yang tersedia untuk memastikan keamanan dan stabilitas optimal. 
 7. **Lindungi dari cuaca ekstrim:** Jauhkan GeralBot dari hujan, air, suhu ekstrim, dan kelembapan yang berlebihan. 
 8. **Gunakan kabel charger resmi:** Gunakan hanya kabel charger resmi EnriCorporation untuk mengisi daya GeralBot. Gunakan charger yang disetujui dan memiliki tegangan yang sesuai.
-9. **Simpan dengan hati-hati:** Ketika tidak digunakan, simpan GeralBot di tempat yang aman, kering, dan bersih. [IMAGE: store_gerabot.png]
+9. **Simpan dengan hati-hati:** Ketika tidak digunakan, simpan GeralBot di tempat yang aman, kering, dan bersih. 
 10. **Hati-hati dengan batasan:** Pahami batasan GeralBot. Jangan memuat GeralBot melebihi kapasitasnya, dan jangan memaksakan GeralBot untuk melakukan tugas di luar kemampuannya.
 
 * **Skenario Bahaya**
