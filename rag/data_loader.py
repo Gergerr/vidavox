@@ -116,7 +116,7 @@ class DataLoader:
                 if result:
                     users = ", ".join([row[0] for row in result])
                     return f"Pengguna: {users}"
-            # Deteksi apakah query meminta mode
+            # Deteksi apakah query mode
             elif "mode" in query_lower:
                 cursor.execute("SELECT Mode FROM logs WHERE Tanggal = ?", (date,))
                 result = cursor.fetchall()
