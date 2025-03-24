@@ -13,3 +13,4 @@ streamlit
 langchain_groq
 torch
 langchain-text-splitters
+langchain_huggingface
