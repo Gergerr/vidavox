@@ -9,7 +9,6 @@ from rag.rag_pipeline import RAGPipeline
 from rag.data_loader import DataLoader
 from rag.evaluate import Evaluator
 
-st.config.set_option("server.fileWatcherType", "none") 
 # Streamlit app configuration
 st.set_page_config(page_title="GeralBot Chatbot - RAG System", page_icon="🤖", layout="wide")
 
@@ -42,7 +41,7 @@ if query:
     with st.spinner("Mencari jawaban..."):
         try:
             # Inisialisasi RAG Pipeline dan Evaluator
-            indexer = Indexer(chunk_size=500, chunk_overlap=50, embedding_model="intfloat/e5-large-v2")
+            indexer = Indexer(chunk_size=500, chunk_overlap=50, embedding_model="sentence-transformers/all-mpnet-base-v2")
             vector_store = indexer.load_index("rag/faiss_index")
             data_loader = DataLoader(pdf_file="synthetic-pdf/Geraldo_synthetic_data.pdf", csv_file="database/synthetic_data.csv")
             rag_pipeline = RAGPipeline(vector_store, data_loader, os.getenv("GROQ_API_KEY"), model_name="llama3-8b-8192")
@@ -108,6 +107,3 @@ if query:
                     else:
                         st.write(", ".join([row[0] for row in result]))
                 conn.close()
-
-        except Exception as e:
-            st.error(f"Terjadi kesalahan: {str(e)}")

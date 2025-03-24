@@ -12,3 +12,4 @@ langchain-community
 streamlit
 langchain_groq
 torch
+langchain-text-splitters

@@ -1,10 +1,10 @@
 # rag/indexer.py
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
 class Indexer:
-    def __init__(self, chunk_size=500, chunk_overlap=50, embedding_model="intfloat/e5-large-v2"):
+    def __init__(self, chunk_size=500, chunk_overlap=50, embedding_model="all-MiniLM-L6-v2"):
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
         self.embedding_model = embedding_model
