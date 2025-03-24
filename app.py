@@ -8,7 +8,9 @@ from rag.indexer import Indexer
 from rag.rag_pipeline import RAGPipeline
 from rag.data_loader import DataLoader
 from rag.evaluate import Evaluator
+import torch
 
+torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)] 
 # Streamlit app configuration
 st.set_page_config(page_title="GeralBot Chatbot - RAG System", page_icon="🤖", layout="wide")
 
