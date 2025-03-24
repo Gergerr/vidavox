@@ -10,7 +10,7 @@ from rag.data_loader import DataLoader
 from rag.evaluate import Evaluator
 import torch
 
-torch.classes.__path__ = [os.path.join(torch.__path__[0], torch.classes.__file__)]  # Fix for torch classes not found error
+torch.classes.__path__ = []
 # Streamlit app configuration
 st.set_page_config(page_title="GeralBot Chatbot - RAG System", page_icon="🤖", layout="wide")
 
