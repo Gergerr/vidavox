@@ -14,7 +14,7 @@ if not GROQ_API_KEY:
 
 # Langkah 1: Load indeks FAISS
 print("Loading FAISS index...")
-indexer = Indexer(chunk_size=500, chunk_overlap=50, embedding_model="sentence-transformers/all-mpnet-base-v2")
+indexer = Indexer(chunk_size=500, chunk_overlap=50, embedding_model="intfloat/e5-large-v2")
 vector_store = indexer.load_index(INDEX_PATH)
 
 # Langkah 2: Setup pipeline RAG

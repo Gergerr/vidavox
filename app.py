@@ -107,3 +107,5 @@ if query:
                     else:
                         st.write(", ".join([row[0] for row in result]))
                 conn.close()
+        except Exception as e:
+            st.error(f"Terjadi kesalahan: {str(e)}")
