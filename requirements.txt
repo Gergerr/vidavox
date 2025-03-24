@@ -11,4 +11,4 @@ pdfplumber
 langchain-community
 streamlit
 langchain_groq
-torch==2.5.0
+torch
