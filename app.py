@@ -8,9 +8,7 @@ from rag.indexer import Indexer
 from rag.rag_pipeline import RAGPipeline
 from rag.data_loader import DataLoader
 from rag.evaluate import Evaluator
-import torch
 
-st.config.set_option("server.watchFileSystem", False)
 st.config.set_option("server.fileWatcherType", "none") 
 # Streamlit app configuration
 st.set_page_config(page_title="GeralBot Chatbot - RAG System", page_icon="🤖", layout="wide")
